@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+import numpy as np
 import argparse
 from habitat.datasets import make_dataset
 from VLN_CE.vlnce_baselines.config.default import get_config
@@ -63,10 +63,19 @@ def run_exp(exp_config: str, split_num: str, split_id: str, model_path: str, res
     config = get_config(exp_config, opts)
             
     dataset = make_dataset(id_dataset=config.TASK_CONFIG.DATASET.TYPE, config=config.TASK_CONFIG.DATASET)
+    dataset.episodes.sort(key=lambda ep: ep.episode_id)
     
+    np.random.seed(42)
     dataset_split = dataset.get_splits(split_num)[split_id]
     
     evaluate_agent(config, split_id, dataset_split, model_path, result_path)
+
+
+    # # check if splits is non-overlaped
+    # test_cur_splits = [int(item.episode_id) for item in dataset_split.episodes]
+    # with open(f"test_cur_splits_{split_id}.txt", "w") as f:
+    #     for item in test_cur_splits:
+    #         f.write(str(item) + "\n")
   
 
 
