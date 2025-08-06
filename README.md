@@ -71,7 +71,7 @@ DATASET:
 ```
 
 ### 3. Pretrained Weights
-First download the pretriend weights for vision encoder [EVA-ViT-G](https://github.com/dvlab-research/LLaMA-VID/tree/main). Then, download the [finetuned NaVid model](https://huggingface.co/Jzzhang/NaVid/tree/main). The model has been trained on extensive samples from the `training splits` of the VLN-CE R2R and RxR datasets, following the training strategy of [Uni-NaVid](https://arxiv.org/pdf/2412.06224).
+First download the pretriend weights for vision encoder [EVA-ViT-G](https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/eva_vit_g.pth). Then, download the [finetuned NaVid model](https://huggingface.co/Jzzhang/NaVid/tree/main). The model has been trained on extensive samples from the `training splits` of the VLN-CE R2R and RxR datasets, following the training strategy of [Uni-NaVid](https://arxiv.org/pdf/2412.06224).
 
 
 | Evaluation Benchmark |  TL  |  NE  |  OS  |  SR  |  SPL |
