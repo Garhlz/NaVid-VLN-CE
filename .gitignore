@@ -17,3 +17,7 @@ model_zoo
 
 *.swp
 *.swo
+
+VLN_CE/data/datasets/
+VLN_CE/data/scene_datasets/
+data

@@ -56,7 +56,7 @@ def rank0_print(*args):
     if local_rank == 0:
         print(*args)
 
-
+# 控制使用哪个模型, 确定模型的路径 (model_name_or_path)、使用哪个视觉塔 (vision_tower)、是否只微调投影层 (tune_mm_mlp_adapter) 
 @dataclass
 class ModelArguments:
     model_name_or_path: Optional[str] = field(default="facebook/opt-125m")
@@ -76,7 +76,9 @@ class ModelArguments:
     # pretrain_qformer: Optional[str] = field(default=None)
     compress_type: Optional[str] = field(default=None)
 
-
+'''
+控制使用哪些数据。比如训练数据文件的路径 (data_path)、视频帧率 (video_fps)、图像/视频文件夹的位置 (image_folder, video_folder) 等。
+'''
 @dataclass
 class DataArguments:
     data_path: str = field(default=None,
@@ -93,6 +95,9 @@ class DataArguments:
     refine_prompt: Optional[bool] = field(default=False)
 
 
+'''
+控制如何进行训练, 包含了学习率, 批大小, 轮数, 是否使用LoRA, 是否用4bit/8bit等
+'''
 @dataclass
 class TrainingArguments(transformers.TrainingArguments):
     cache_dir: Optional[str] = field(default=None)
@@ -322,6 +327,17 @@ def _add_speaker_and_signal(header, source, get_conversation=True):
     return conversation
 
 
+'''
+preprocess 函数族:
+
+这些函数（preprocess_v1, preprocess_llama_2, preprocess_imgsp_v1等）是不同的数据清洗和格式化方法
+
+主要工作是，将从JSON文件中读出的原始对话数据，转换成符合特定LLM（如Vicuna, Llama 2）要求的对话格式，比如加上 USER: 和 ASSISTANT: 等标记。
+
+它们还会执行一个至关重要的操作：Masking（掩码）。在 labels 中，它会将用户提问部分对应的token设置为 IGNORE_INDEX (-100)。
+
+这是为了在计算损失时，只计算模型回答部分的误差，确保模型只学习如何“回答”，而不是学习如何“提问”。
+'''
 def preprocess_multimodal(
     sources: Sequence[str],
     data_args: DataArguments,
@@ -1148,6 +1164,7 @@ def train():
             scaling_factor = float(math.ceil(training_args.model_max_length / orig_ctx_len))
             config.rope_scaling = {"type": "linear", "factor": scaling_factor}
 
+    # 加载基础的语言模型
     if model_args.vision_tower is not None:
         model = LlavaLlamaAttForCausalLM.from_pretrained(
             model_args.model_name_or_path,
@@ -1286,11 +1303,14 @@ def train():
 
     data_module = make_supervised_data_module(tokenizer=tokenizer,
                                               data_args=data_args)
+    
+    # 继承自transformers.Trainer的自定义训练器
     trainer = LLaVATrainer(model=model,
                     tokenizer=tokenizer,
                     args=training_args,
                     **data_module)
 
+    # 开始训练
     if list(pathlib.Path(training_args.output_dir).glob("checkpoint-*")):
         trainer.train(resume_from_checkpoint=True)
     else:

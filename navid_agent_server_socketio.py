@@ -1,14 +1,15 @@
-import json
+#!/usr/bin/env python3
+
 import numpy as np
-from habitat import Env
+# from habitat import Env
 from habitat.core.agent import Agent
-from tqdm import trange
+# from tqdm import trange
 import os
 import re
 import torch
 import cv2
 import imageio
-from habitat.utils.visualizations import maps
+# from habitat.utils.visualizations import maps
 import random
 
 from navid.constants import IMAGE_TOKEN_INDEX, DEFAULT_IMAGE_TOKEN, DEFAULT_IM_START_TOKEN, DEFAULT_IM_END_TOKEN
@@ -16,68 +17,10 @@ from navid.conversation import conv_templates, SeparatorStyle
 from navid.model.builder import load_pretrained_model
 from navid.mm_utils import tokenizer_image_token, get_model_name_from_path, KeywordsStoppingCriteria
 
-
-
-
-
-def evaluate_agent(config, split_id, dataset, model_path, result_path) -> None:
- 
-    env = Env(config.TASK_CONFIG, dataset)
-
-    agent = NaVid_Agent(model_path, result_path)
-
-    num_episodes = len(env.episodes)
-    
-    EARLY_STOP_ROTATION = config.EVAL.EARLY_STOP_ROTATION
-    EARLY_STOP_STEPS = config.EVAL.EARLY_STOP_STEPS
-
-    
-    target_key = {"distance_to_goal", "success", "spl", "path_length", "oracle_success"}
-
-    count = 0
-    
-      
-    for _ in trange(num_episodes, desc=config.EVAL.IDENTIFICATION+"-{}".format(split_id)):
-        obs = env.reset()
-        iter_step = 0
-        agent.reset()
-
-         
-        continuse_rotation_count = 0
-        last_dtg = 999
-        while not env.episode_over:
-            
-            info = env.get_metrics()
-            
-            if info["distance_to_goal"] != last_dtg:
-                last_dtg = info["distance_to_goal"]
-                continuse_rotation_count=0
-            else :
-                continuse_rotation_count +=1 
-            
-            # 输入观测, agent思考之后, 返回一个决策action
-            action = agent.act(obs, info, env.current_episode.episode_id)
-
-            # 防卡死, 如果连续旋转次数过多或总步数超限，就会强制执行STOP动作
-            if continuse_rotation_count > EARLY_STOP_ROTATION or iter_step>EARLY_STOP_STEPS:
-                action = {"action": 0}
-
-            
-            iter_step+=1
-            obs = env.step(action)
-            # 执行动作后，获取新的观测信息
-            
-        info = env.get_metrics()
-        result_dict = dict()
-        result_dict = {k: info[k] for k in target_key if k in info}
-        result_dict["id"] = env.current_episode.episode_id
-        count+=1
-
-
-
-        with open(os.path.join(os.path.join(result_path, "log"),"stats_{}.json".format(env.current_episode.episode_id)), "w") as f:
-            json.dump(result_dict, f, indent=4)
-
+from flask import Flask, request, jsonify
+from flask_socketio import SocketIO, emit
+import base64
+from datetime import datetime
 
 
 
@@ -95,22 +38,19 @@ class NaVid_Agent(Agent):
 
 
         self.model_name = get_model_name_from_path(model_path)
-
-        # 加载模型权重, 分词器, 图像处理器
         self.tokenizer, self.model, self.image_processor, self.context_len = load_pretrained_model(model_path, None, get_model_name_from_path(model_path))
 
 
         print("Initialization Complete")
 
-        # agent使用的prompt模板, 提问下一步怎么走
+        
         self.promt_template = "Imagine you are a robot programmed for navigation tasks. You have been given a video of historical observations and an image of the current observation <image>. Your assigned task is: '{}'. Analyze this series of images to decide your next move, which could involve turning left or right by a specific degree or moving forward a certain distance."
 
         self.history_rgb_tensor = None
-
-        # 存储历史图像帧
+        
         self.rgb_list = []
-
         self.topdown_map_list = []
+
         self.count_id = 0
         self.reset()
 
@@ -130,30 +70,27 @@ class NaVid_Agent(Agent):
         else:
             self.history_rgb_tensor = torch.cat((self.history_rgb_tensor, video), dim = 0)
         
+        return [self.history_rgb_tensor[-20:,:,:,:]]
 
-        return [self.history_rgb_tensor]
+        # return [self.history_rgb_tensor]
 
 
     def predict_inference(self, prompt):
         question = prompt.replace(DEFAULT_IMAGE_TOKEN, '').replace('\n', '')
         qs = prompt
 
-        # 添加各种特殊标记，来帮助模型区分历史和当前
         VIDEO_START_SPECIAL_TOKEN = "<video_special>"
         VIDEO_END_SPECIAL_TOKEN = "</video_special>"
         IMAGE_START_TOKEN = "<image_special>"
         IMAGE_END_TOKEN = "</image_special>"
         NAVIGATION_SPECIAL_TOKEN = "[Navigation]"
-
-        # todo 错别字
-        IMAGE_SEPARATOR = "<image_sep>"
-
+        IAMGE_SEPARATOR = "<image_sep>"
         image_start_special_token = self.tokenizer(IMAGE_START_TOKEN, return_tensors="pt").input_ids[0][1:].cuda()
         image_end_special_token = self.tokenizer(IMAGE_END_TOKEN, return_tensors="pt").input_ids[0][1:].cuda()
         video_start_special_token = self.tokenizer(VIDEO_START_SPECIAL_TOKEN, return_tensors="pt").input_ids[0][1:].cuda()
         video_end_special_token = self.tokenizer(VIDEO_END_SPECIAL_TOKEN, return_tensors="pt").input_ids[0][1:].cuda()
         navigation_special_token = self.tokenizer(NAVIGATION_SPECIAL_TOKEN, return_tensors="pt").input_ids[0][1:].cuda()
-        image_seperator = self.tokenizer(IMAGE_SEPARATOR, return_tensors="pt").input_ids[0][1:].cuda()
+        image_seperator = self.tokenizer(IAMGE_SEPARATOR, return_tensors="pt").input_ids[0][1:].cuda()
 
         if self.model.config.mm_use_im_start_end:
             qs = DEFAULT_IM_START_TOKEN + DEFAULT_IMAGE_TOKEN + DEFAULT_IM_END_TOKEN + '\n' + qs.replace('<image>', '')
@@ -165,12 +102,9 @@ class NaVid_Agent(Agent):
         conv.append_message(conv.roles[1], None)
         prompt = conv.get_prompt()
 
-        # 读取包含 <image> 占位符的 prompt，然后将 <image> 替换成一个特殊的数字ID -200
         token_prompt = tokenizer_image_token(prompt, self.tokenizer, IMAGE_TOKEN_INDEX, return_tensors='pt').cuda()
         indices_to_replace = torch.where(token_prompt == -200)[0]
         new_list = []
-
-        # 找到-200的索引位置，并将其替换为特殊标记
         while indices_to_replace.numel() > 0:
             idx = indices_to_replace[0]
             new_list.append(token_prompt[:idx])
@@ -189,23 +123,19 @@ class NaVid_Agent(Agent):
 
         stop_str = conv.sep if conv.sep_style != SeparatorStyle.TWO else conv.sep2
         keywords = [stop_str]
-
-        # 创建一个停止规则, 当生成的文本包含特定关键词时停止生成
         stopping_criteria = KeywordsStoppingCriteria(keywords, self.tokenizer, input_ids)
 
-        # 将输入的图像列表转换为处理后的张量
         imgs = self.process_images(self.rgb_list)
+
 
         cur_prompt = question
         with torch.inference_mode():
             self.model.update_prompt([[cur_prompt]])
-
-            # 调用大模型进行推理
             output_ids = self.model.generate(
-                input_ids, # 包含文本和特殊标记的ID序列
-                images=imgs, # 包含历史和当前图像的张量
+                input_ids,
+                images=imgs,
                 do_sample=True,
-                temperature=0.2, # temperature 参数控制模型回答的创造性, 0.2算是很低的
+                temperature=0.2,
                 max_new_tokens=1024,
                 use_cache=True,
                 stopping_criteria=[stopping_criteria])
@@ -214,8 +144,6 @@ class NaVid_Agent(Agent):
         n_diff_input_output = (input_ids != output_ids[:, :input_token_len]).sum().item()
         if n_diff_input_output > 0:
             print(f'[Warning] {n_diff_input_output} output_ids are not the same as the input_ids')
-        
-        # 只保留模型新生成的那部分内容, 将模型返回的ID序列转换为文本
         outputs = self.tokenizer.batch_decode(output_ids[:, input_token_len:], skip_special_tokens=True)[0]
         outputs = outputs.strip()
         if outputs.endswith(stop_str):
@@ -299,75 +227,75 @@ class NaVid_Agent(Agent):
 
 
     def reset(self):
-                
-        if self.require_map:
-            if len(self.topdown_map_list)!=0:
-                output_video_path = os.path.join(self.result_path, "video","{}.gif".format(self.episode_id))
-
-                imageio.mimsave(output_video_path, self.topdown_map_list)
-
         self.history_rgb_tensor = None
         self.transformation_list = []
         self.rgb_list = []
-        self.topdown_map_list = []
         self.last_action = None
         self.count_id += 1
         self.count_stop = 0
         self.pending_action_list = []
 
         self.first_forward = False
-        
+                        
+        if self.require_map:
+            if len(self.topdown_map_list)!=0:
+                output_video_path = os.path.join(self.result_path, "video","{}.gif".format(self.episode_id))
+
+                imageio.mimsave(output_video_path, self.topdown_map_list, fps=1)
+        self.topdown_map_list = []
 
 
-    def act(self, observations, info, episode_id):
+    # def act(self, observations, info, episode_id):
+    def act(self, rgb, prompt, episode_id):
 
         self.episode_id = episode_id
-
-        # 获取当前环境的RGB图像, 并将其存入历史记录 self.rgb_list
-        rgb = observations["rgb"]
+        # rgb = observations["rgb"]
         self.rgb_list.append(rgb)
 
-        if self.require_map:
-            top_down_map = maps.colorize_draw_agent_and_fit_to_height(info["top_down_map_vlnce"], rgb.shape[0])
-            output_im = np.concatenate((rgb, top_down_map), axis=1)
+        # if self.require_map:
+        #     top_down_map = maps.colorize_draw_agent_and_fit_to_height(info["top_down_map_vlnce"], rgb.shape[0])
+        #     output_im = np.concatenate((rgb, top_down_map), axis=1)
+        output_im = rgb
 
-        # 首先检查 self.pending_action_list(待处理动作列表)是否为空
         if len(self.pending_action_list) != 0 :
             temp_action = self.pending_action_list.pop(0)
             
             if self.require_map:
-                img = self.addtext(output_im, observations["instruction"]["text"], "Pending action: {}".format(temp_action))
+                # img = self.addtext(output_im, observations["instruction"]["text"], "Pending action: {}".format(temp_action))
+                img = self.addtext(output_im, prompt, "Pending action: {}".format(temp_action))
                 self.topdown_map_list.append(img)
             
-            # 直接从列表中取出一个动作 temp_action 去执行
+            
             return {"action": temp_action}
 
-        # 根据模板和当前的指令文本, 格式化出一个完整的提问
-        navigation_qs = self.promt_template.format(observations["instruction"]["text"])
-        
-        # 将历史图像和问题一起打包发给大模型，获取模型生成的文本回答 navigation
+
+        # navigation_qs = self.promt_template.format(observations["instruction"]["text"])
+        navigation_qs = self.promt_template.format(prompt)
         navigation = self.predict_inference(navigation_qs)
         
         if self.require_map:
-            img = self.addtext(output_im, observations["instruction"]["text"], navigation)
+            # img = self.addtext(output_im, observations["instruction"]["text"], navigation)
+            img = self.addtext(output_im, prompt, navigation)
             self.topdown_map_list.append(img)
 
-        # 用正则表达式从模型返回的自然语言回答中，解析出结构化的动作指令
+
         action_index, num = self.extract_result(navigation[:-1])
 
-        # 将结构化的指令分解成一连串的原子动作，存入self.pending_action_list
+
+
+
         if action_index == 0:
             self.pending_action_list.append(0)
         elif action_index == 1:
-            for _ in range(min(3, int(num/25))):
+            for _ in range(min(2, int(num/25))):
                 self.pending_action_list.append(1)
 
         elif action_index == 2:
-            for _ in range(min(3,int(num/30))):
+            for _ in range(min(2,int(num/30))):
                 self.pending_action_list.append(2)
 
         elif action_index == 3:
-            for _ in range(min(3,int(num/30))):
+            for _ in range(min(2,int(num/30))):
                 self.pending_action_list.append(3)
         
         if action_index is None or len(self.pending_action_list)==0:
@@ -379,4 +307,58 @@ class NaVid_Agent(Agent):
         
         return {"action": self.pending_action_list.pop(0)}
 
-        
+
+
+# Initialize agent
+model_path = "model_zoo/navid-7b-full-224-video-fps-1-grid-2-r2r-rxr-training-split"
+result_path = "tmp/tmp"
+agent = NaVid_Agent(model_path, result_path)
+
+# create connection
+app = Flask(__name__)
+socketio = SocketIO(app)
+
+# 动作列表
+action_list_server = ["stop", "forward", "turn left", "turn right"]
+
+# 服务器处理客户端连接的事件
+@socketio.on('connect')
+def handle_connect():
+    print("客户端连接成功！")
+    emit('server_message', {'message': 'Connected to server.'})
+
+# 处理客户端发送的新任务请求
+@socketio.on('new_task')
+def handle_new_task(data):
+    prompt = data.get('prompt', '')
+    agent.reset()
+    print(f"接收到新任务：{prompt}")
+    emit('server_message', {'message': f"New task received: {prompt}"})
+
+# 处理客户端发送的图像和预测请求
+@socketio.on('predict')
+def handle_predict(data):
+    # 获取图像数据
+    image_base64 = data.get('image', '')
+    prompt = data.get('prompt', '')
+    
+    # 解码图像
+    image_data = base64.b64decode(image_base64)
+    np_arr = np.frombuffer(image_data, np.uint8)
+    frame = cv2.imdecode(np_arr, cv2.IMREAD_COLOR)
+    
+    # 调整尺寸并转换颜色格式
+    resized_frame = cv2.resize(frame, (640, 480))
+    rgb_frame = cv2.cvtColor(resized_frame, cv2.COLOR_BGR2RGB)
+    # Run the agent's action based on the image and prompt
+    action = agent.act(rgb_frame, prompt, episode_id=datetime.now().strftime("%Y%m%d_%H%M%S"))
+
+    print(f"返回动作: {action_list_server[action['action']]}")
+    emit('response', action)
+
+# 启动 Flask SocketIO 服务器
+if __name__ == '__main__':
+    socketio.run(app, host='0.0.0.0', port=8080)
+
+
+

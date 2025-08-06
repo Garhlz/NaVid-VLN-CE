@@ -41,9 +41,9 @@ TASK:
   SPL:
     SUCCESS_DISTANCE: 3.0
   NDTW:
-    GT_PATH: /raid/data/episodes/R2R_VLNCE_v1-3_preprocessed/{split}/{split}_gt.json.gz
+    GT_PATH: /data/huangtao/VLN_CE_data/datasets/R2R_VLNCE_v1-3_preprocessed/{split}/{split}_gt.json.gz
 DATASET:
   TYPE: VLN-CE-v1
   SPLIT: val_unseen
-  DATA_PATH: /raid/data/episodes/R2R_VLNCE_v1-3_preprocessed/{split}/{split}.json.gz
-  SCENES_DIR: /raid/data/scene_dataset/
+  DATA_PATH: /data/huangtao/VLN_CE_data/datasets/R2R_VLNCE_v1-3_preprocessed/{split}/{split}.json.gz
+  SCENES_DIR: /data/huangtao/VLN_CE_data/scene_datasets

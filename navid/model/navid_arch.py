@@ -32,7 +32,7 @@ from .multimodal_projector.builder import build_vision_projector
 
 from navid.constants import IGNORE_INDEX, IMAGE_TOKEN_INDEX, DEFAULT_IMAGE_PATCH_TOKEN, DEFAULT_IM_START_TOKEN, DEFAULT_IM_END_TOKEN, VIDEO_START_SPECIAL_TOKEN, VIDEO_END_SPECIAL_TOKEN, IMAGE_START_TOKEN, IMAGE_END_TOKEN, NAVIGATION_SPECIAL_TOKEN, NAVIGATION_IDENTIFIER, IAMGE_SEPARATOR
 
-
+# 初始化和管理模型的视觉组件
 class NaVidMetaModel:
 
     def __init__(self, config):
@@ -72,12 +72,14 @@ class NaVidMetaModel:
         self.config.max_token = max_token
         
         if getattr(self, 'mm_projector', None) is None:
+            # 创建多模态投影层, 将视觉特征投影到与文本特征相同的维度
             self.mm_projector = build_vision_projector(self.config)
         else:
             # In case it is frozen by LoRA
             for p in self.mm_projector.parameters():
                 p.requires_grad = True
 
+        # 加载一个预训练好的投影层权重
         if pretrain_mm_mlp_adapter is not None:
             mm_projector_weights = torch.load(pretrain_mm_mlp_adapter, map_location='cpu')
             def get_w(weights, keyword):
@@ -95,7 +97,7 @@ class NaVidMetaModel:
 
 
 
-
+# 定义了模型处理多模态数据的核心逻辑
 class NaVidMetaForCausalLM(ABC):
 
     @abstractmethod
@@ -105,7 +107,7 @@ class NaVidMetaForCausalLM(ABC):
     def get_vision_tower(self):
         return self.get_model().get_vision_tower()
 
-
+    # 接收一批图像，将它们送入 vision_tower 进行编码，得到初步的视觉特征
     def encode_images(self, images, prompts=None, image_counts=None, long_video=False):
         if long_video:
             # use pre-computed features
@@ -196,7 +198,7 @@ class NaVidMetaForCausalLM(ABC):
         return img_feat_lst, video_or_not, nav_or_not
 
 
-
+    # 实现了论文中提到的视觉信息压缩
     def token_generation(self, vis_embed, image_counts=None, navigation=False):
         def process_grid(vis_embed, grid_size):
             cur_shape = int(vis_embed.shape[1] ** 0.5)
@@ -210,6 +212,7 @@ class NaVidMetaForCausalLM(ABC):
             return vis_embed.permute(0, 2, 3, 1).flatten(1, 2)
 
         grid_size = int(self.config.compress_type.split('grid:')[-1])
+        # 根据当前是否是导航任务（navigation=True）以及图像数量，来决定使用不同的压缩率
         if image_counts is None or (image_counts == 1 and not navigation):
             vis_embed = process_grid(vis_embed, 8)
         elif navigation:
@@ -220,6 +223,7 @@ class NaVidMetaForCausalLM(ABC):
             vis_embed = process_grid(vis_embed, grid_size)
 
         vis_embed = self.get_model().mm_projector(vis_embed)
+
         vis_embed_nav = self.get_model().mm_projector(vis_embed_nav) if navigation else None
 
         return vis_embed, vis_embed_nav
@@ -227,7 +231,7 @@ class NaVidMetaForCausalLM(ABC):
     def update_prompt(self, prompts=None):
         self.prompts = prompts
 
-
+    # 描述了训练时数据融合的完整流程, 是最关键的函数
     def prepare_inputs_labels_for_multimodal(self, input_ids, attention_mask, past_key_values, labels, images,
                                              prompts=None):
         if 'grid' in self.config.compress_type:
@@ -273,6 +277,11 @@ class NaVidMetaForCausalLM(ABC):
         new_input_embeds = []
         new_labels = [] if labels is not None else None
         cur_image_idx = 0
+
+        '''
+        遍历 input_ids，当遇到普通的文本ID时，就使用对应的文本特征
+        当遇到代表图像的特殊占位符 IMAGE_TOKEN_INDEX 时，它就会丢弃这个占位符，然后拼接上第一步准备好的image_features
+        '''
         for batch_idx, cur_input_ids in enumerate(input_ids):
             if (cur_input_ids == IMAGE_TOKEN_INDEX).sum() == 0:
                 # FIXME: this is a hacky fix, for deepspeed zero3 to work
@@ -281,10 +290,12 @@ class NaVidMetaForCausalLM(ABC):
                     cur_image_features = image_features[cur_image_idx][0]
                 else:
                     cur_image_features = image_features[cur_image_idx]
+                
                 cur_input_embeds_1 = self.get_model().embed_tokens(cur_input_ids[:half_len])
                 cur_input_embeds_2 = self.get_model().embed_tokens(cur_input_ids[half_len:])
                 cur_input_embeds = torch.cat([cur_input_embeds_1, cur_image_features[0:0], cur_input_embeds_2], dim=0)
                 new_input_embeds.append(cur_input_embeds)
+            
                 if labels is not None:
                     new_labels.append(labels[batch_idx])
                 cur_image_idx += 1
