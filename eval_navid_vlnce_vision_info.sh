@@ -6,7 +6,8 @@ MODEL_PATH="model_zoo/navid-7b-full-224-video-fps-1-grid-2-r2r-rxr-training-spli
 
 #R2R
 CONFIG_PATH="VLN_CE/vlnce_baselines/config/r2r_baselines/navid_r2r.yaml"
-SAVE_PATH="tmp/navid-7b-full-224-video-fps-1-grid-2-r2r-rxr-training-split_on_r2r" 
+# SAVE_PATH="tmp/navid-7b-full-224-video-fps-1-grid-2-r2r-rxr-training-split_on_r2r" 
+SAVE_PATH="tmp/8_11_vision_info/test2"
 
 
 #RxR
@@ -16,7 +17,7 @@ SAVE_PATH="tmp/navid-7b-full-224-video-fps-1-grid-2-r2r-rxr-training-split_on_r2
 
 for IDX in $(seq 0 $((CHUNKS-1))); do
     echo $(( IDX % 8 ))
-    CUDA_VISIBLE_DEVICES=$(( IDX % 8 )) python run.py \
+    CUDA_VISIBLE_DEVICES=$(( IDX % 8 )) python run_vision_info.py \
     --exp-config $CONFIG_PATH \
     --split-num $CHUNKS \
     --split-id $IDX \

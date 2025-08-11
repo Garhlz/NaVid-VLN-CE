@@ -1,0 +1,3586 @@
+, 'model.vision_tower.vision_tower.blocks.12.mlp.fc2.we
+ight', 'model.vision_tower.vision_tower.blocks.2.norm1.
+bias', 'model.vision_tower.vision_tower.blocks.8.attn.v
+_bias', 'model.vision_tower.vision_tower.blocks.28.mlp.
+fc1.weight', 'model.vision_tower.vision_tower.blocks.10
+.attn.q_bias', 'model.vision_tower.vision_tower.blocks.
+26.attn.v_bias', 'model.vision_tower.vision_tower.block
+s.38.attn.qkv.weight', 'model.vision_tower.vision_tower
+.blocks.1.mlp.fc1.bias', 'model.vision_tower.vision_tow
+er.blocks.21.attn.q_bias', 'model.vision_tower.vision_t
+ower.blocks.9.mlp.fc1.bias', 'model.vision_tower.vision
+_tower.blocks.18.norm2.weight', 'model.vision_tower.vis
+ion_tower.blocks.6.norm2.bias', 'model.vision_tower.vis
+ion_tower.blocks.17.norm2.bias', 'model.vision_tower.vi
+sion_tower.blocks.33.mlp.fc2.bias', 'model.vision_tower
+.vision_tower.blocks.18.mlp.fc2.bias', 'model.vision_to
+wer.vision_tower.blocks.15.attn.qkv.weight', 'model.vis
+ion_tower.vision_tower.blocks.23.norm1.weight', 'model.
+vision_tower.vision_tower.blocks.37.attn.proj.weight',
+'model.vision_tower.vision_tower.blocks.38.attn.proj.we
+ight', 'model.vision_tower.vision_tower.blocks.20.attn.
+proj.bias', 'model.vision_tower.vision_tower.blocks.34.
+mlp.fc2.weight', 'model.vision_tower.vision_tower.block
+s.33.mlp.fc1.weight', 'model.vision_tower.vision_tower.
+blocks.0.norm2.bias', 'model.vision_tower.vision_tower.
+blocks.16.norm2.weight', 'model.vision_tower.vision_tow
+er.blocks.0.mlp.fc2.weight', 'model.vision_tower.vision
+_tower.blocks.35.attn.proj.bias', 'model.vision_tower.v
+ision_tower.blocks.17.mlp.fc1.weight', 'model.vision_to
+wer.vision_tower.blocks.8.attn.q_bias', 'model.vision_t
+ower.vision_tower.blocks.38.mlp.fc2.bias', 'model.visio
+n_tower.vision_tower.blocks.29.mlp.fc1.weight', 'model.
+vision_tower.vision_tower.blocks.4.norm2.bias', 'model.
+vision_tower.vision_tower.blocks.13.attn.proj.bias', 'm
+odel.vision_tower.vision_tower.blocks.15.attn.q_bias',
+'model.vision_tower.vision_tower.blocks.10.norm1.bias',
+ 'model.vision_tower.vision_tower.blocks.27.attn.proj.b
+ias', 'model.vision_tower.vision_tower.blocks.33.norm1.
+bias', 'model.vision_tower.vision_tower.blocks.11.norm2
+.weight', 'model.vision_tower.vision_tower.blocks.9.mlp
+.fc2.weight', 'model.vision_tower.vision_tower.blocks.6
+.attn.proj.weight', 'model.vision_tower.vision_tower.bl
+ocks.2.mlp.fc1.bias', 'model.vision_tower.vision_tower.
+blocks.24.norm2.weight', 'model.vision_tower.vision_tow
+er.blocks.25.attn.proj.bias', 'model.vision_tower.visio
+n_tower.blocks.6.norm1.bias', 'model.vision_tower.visio
+n_tower.blocks.38.attn.v_bias', 'model.vision_tower.vis
+ion_tower.blocks.19.norm2.bias', 'model.vision_tower.vi
+sion_tower.blocks.8.norm1.bias', 'model.vision_tower.vi
+sion_tower.blocks.7.norm2.weight', 'model.vision_tower.
+vision_tower.blocks.21.attn.proj.weight', 'model.vision
+_tower.vision_tower.blocks.24.attn.proj.bias', 'model.v
+ision_tower.vision_tower.blocks.28.norm1.weight', 'mode
+l.vision_tower.vision_tower.blocks.33.attn.q_bias', 'mo
+del.vision_tower.vision_tower.blocks.7.attn.proj.bias',
+ 'model.vision_tower.vision_tower.blocks.17.norm1.weigh
+t', 'model.vision_tower.vision_tower.blocks.16.attn.q_b
+ias', 'model.vision_tower.vision_tower.blocks.10.attn.p
+roj.bias', 'model.vision_tower.vision_tower.blocks.8.ml
+p.fc2.bias', 'model.vision_tower.vision_tower.blocks.13
+.attn.qkv.weight', 'model.vision_tower.vision_tower.blo
+cks.13.mlp.fc1.weight', 'model.vision_tower.vision_towe
+r.blocks.37.attn.v_bias', 'model.vision_tower.vision_to
+wer.blocks.30.norm1.weight', 'model.vision_tower.vision
+_tower.blocks.7.mlp.fc2.bias', 'model.vision_tower.visi
+on_tower.blocks.22.attn.proj.bias', 'model.vision_tower
+.vision_tower.blocks.37.mlp.fc2.bias', 'model.vision_to
+wer.vision_tower.blocks.25.attn.q_bias', 'model.vision_
+tower.vision_tower.blocks.7.norm1.bias', 'model.vision_
+tower.vision_tower.blocks.13.norm1.weight', 'model.visi
+on_tower.vision_tower.blocks.37.mlp.fc2.weight', 'model
+.vision_tower.vision_tower.blocks.37.attn.proj.bias', '
+model.vision_tower.vision_tower.blocks.5.attn.proj.bias
+', 'model.vision_tower.vision_tower.blocks.0.norm1.weig
+ht', 'model.vision_tower.vision_tower.blocks.27.mlp.fc1
+.weight', 'model.vision_tower.vision_tower.blocks.29.ml
+p.fc2.bias', 'model.vision_tower.vision_tower.patch_emb
+ed.proj.weight', 'model.vision_tower.vision_tower.block
+s.31.attn.qkv.weight', 'model.vision_tower.vision_tower
+.blocks.0.attn.proj.weight', 'model.vision_tower.vision
+_tower.blocks.34.norm2.bias', 'model.vision_tower.visio
+n_tower.blocks.28.mlp.fc1.bias', 'model.vision_tower.vi
+sion_tower.blocks.8.attn.proj.bias', 'model.vision_towe
+r.vision_tower.blocks.12.norm1.weight', 'model.vision_t
+ower.vision_tower.blocks.36.mlp.fc1.bias', 'model.visio
+n_tower.vision_tower.blocks.0.mlp.fc1.bias', 'model.vis
+ion_tower.vision_tower.blocks.22.attn.proj.weight', 'mo
+del.vision_tower.vision_tower.blocks.2.norm2.bias', 'mo
+del.vision_tower.vision_tower.blocks.20.norm2.bias', 'm
+odel.vision_tower.vision_tower.blocks.30.attn.qkv.weigh
+t', 'model.vision_tower.vision_tower.blocks.5.norm2.bia
+s', 'model.vision_tower.vision_tower.blocks.16.attn.v_b
+ias', 'model.vision_tower.vision_tower.blocks.6.attn.q_
+bias', 'model.vision_tower.vision_tower.blocks.35.attn.
+proj.weight', 'model.vision_tower.vision_tower.blocks.2
+2.attn.v_bias', 'model.vision_tower.vision_tower.blocks
+.7.mlp.fc2.weight', 'model.vision_tower.vision_tower.bl
+ocks.16.norm1.bias', 'model.vision_tower.vision_tower.b
+locks.32.attn.qkv.weight', 'model.vision_tower.vision_t
+ower.blocks.31.attn.q_bias', 'model.vision_tower.vision
+_tower.blocks.2.norm2.weight', 'model.vision_tower.visi
+on_tower.blocks.7.mlp.fc1.bias', 'model.vision_tower.vi
+sion_tower.blocks.31.norm1.weight', 'model.vision_tower
+.vision_tower.blocks.9.mlp.fc2.bias', 'model.vision_tow
+er.vision_tower.blocks.11.attn.q_bias', 'model.vision_t
+ower.vision_tower.blocks.32.mlp.fc1.bias', 'model.visio
+n_tower.vision_tower.blocks.21.mlp.fc2.weight', 'model.
+vision_tower.vision_tower.blocks.3.norm2.weight', 'mode
+l.vision_tower.vision_tower.blocks.37.norm1.weight', 'm
+odel.vision_tower.vision_tower.blocks.12.norm2.weight',
+ 'model.vision_tower.vision_tower.blocks.18.attn.proj.b
+ias', 'model.vision_tower.vision_tower.blocks.16.attn.p
+roj.bias', 'model.vision_tower.vision_tower.blocks.14.a
+ttn.q_bias', 'model.vision_tower.vision_tower.blocks.27
+.norm2.weight', 'model.vision_tower.vision_tower.blocks
+.3.attn.proj.weight', 'model.vision_tower.vision_tower.
+blocks.19.norm1.weight', 'model.vision_tower.vision_tow
+er.blocks.32.norm2.bias', 'model.vision_tower.vision_to
+wer.blocks.27.mlp.fc1.bias', 'model.vision_tower.vision
+_tower.blocks.13.norm2.bias', 'model.vision_tower.visio
+n_tower.blocks.29.mlp.fc1.bias', 'model.vision_tower.vi
+sion_tower.blocks.8.mlp.fc1.weight', 'model.vision_towe
+r.vision_tower.blocks.8.mlp.fc1.bias', 'model.vision_to
+wer.vision_tower.blocks.16.attn.proj.weight', 'model.vi
+sion_tower.vision_tower.blocks.1.attn.qkv.weight', 'mod
+el.vision_tower.vision_tower.blocks.19.attn.v_bias', 'm
+odel.vision_tower.vision_tower.blocks.5.mlp.fc2.bias',
+'model.vision_tower.vision_tower.blocks.20.mlp.fc1.bias
+', 'model.vision_tower.vision_tower.blocks.23.mlp.fc2.w
+eight', 'model.vision_tower.vision_tower.blocks.33.attn
+.proj.weight', 'model.vision_tower.vision_tower.blocks.
+38.norm2.bias', 'model.vision_tower.vision_tower.blocks
+.30.attn.q_bias', 'model.vision_tower.vision_tower.bloc
+ks.25.mlp.fc1.weight', 'model.vision_tower.vision_tower
+.blocks.33.mlp.fc2.weight', 'model.vision_tower.vision_
+tower.blocks.22.attn.qkv.weight', 'model.vision_tower.v
+ision_tower.blocks.14.mlp.fc1.weight', 'model.vision_to
+wer.vision_tower.blocks.23.attn.v_bias', 'model.vision_
+tower.vision_tower.blocks.23.mlp.fc1.bias', 'model.visi
+on_tower.vision_tower.blocks.30.mlp.fc2.weight', 'model
+.vision_tower.vision_tower.blocks.20.attn.v_bias', 'mod
+el.vision_tower.vision_tower.blocks.26.mlp.fc2.bias', '
+model.vision_tower.vision_tower.blocks.35.norm2.bias',
+'model.vision_tower.vision_tower.blocks.28.attn.q_bias'
+, 'model.vision_tower.vision_tower.blocks.33.norm1.weig
+ht', 'model.vision_tower.vision_tower.blocks.13.mlp.fc2
+.bias', 'model.vision_tower.vision_tower.blocks.22.mlp.
+fc1.bias', 'model.vision_tower.vision_tower.blocks.9.no
+rm2.weight', 'model.vision_tower.vision_tower.blocks.9.
+attn.q_bias', 'model.vision_tower.vision_tower.blocks.2
+2.attn.q_bias', 'model.vision_tower.vision_tower.pos_em
+bed', 'model.vision_tower.vision_tower.blocks.9.attn.pr
+oj.weight', 'model.vision_tower.vision_tower.blocks.15.
+norm1.weight', 'model.vision_tower.vision_tower.blocks.
+37.norm2.weight', 'model.vision_tower.vision_tower.bloc
+ks.26.attn.q_bias', 'model.vision_tower.vision_tower.bl
+ocks.38.attn.proj.bias', 'model.vision_tower.vision_tow
+er.blocks.24.attn.qkv.weight', 'model.vision_tower.visi
+on_tower.blocks.13.mlp.fc2.weight', 'model.vision_tower
+.vision_tower.blocks.2.attn.proj.weight', 'model.vision
+_tower.vision_tower.blocks.31.norm1.bias', 'model.visio
+n_tower.vision_tower.blocks.32.norm2.weight', 'model.vi
+sion_tower.vision_tower.blocks.25.norm2.weight', 'model
+.vision_tower.vision_tower.blocks.20.attn.qkv.weight',
+'model.vision_tower.vision_tower.blocks.21.norm2.weight
+', 'model.vision_tower.vision_tower.blocks.0.norm2.weig
+ht', 'model.vision_tower.vision_tower.blocks.34.norm1.b
+ias', 'model.vision_tower.vision_tower.blocks.14.norm1.
+weight', 'model.vision_tower.vision_tower.blocks.28.att
+n.v_bias', 'model.vision_tower.vision_tower.blocks.3.ml
+p.fc2.bias', 'model.vision_tower.vision_tower.blocks.8.
+norm2.bias', 'model.vision_tower.vision_tower.blocks.38
+.norm1.bias', 'model.vision_tower.vision_tower.blocks.1
+.attn.q_bias', 'model.vision_tower.vision_tower.blocks.
+15.attn.proj.bias', 'model.vision_tower.vision_tower.bl
+ocks.27.norm1.bias', 'model.vision_tower.vision_tower.b
+locks.28.norm1.bias', 'model.vision_tower.vision_tower.
+blocks.5.mlp.fc2.weight', 'model.vision_tower.vision_to
+wer.blocks.34.attn.qkv.weight', 'model.vision_tower.vis
+ion_tower.blocks.38.mlp.fc2.weight', 'model.vision_towe
+r.vision_tower.blocks.9.norm2.bias', 'model.vision_towe
+r.vision_tower.blocks.12.norm1.bias', 'model.vision_tow
+er.vision_tower.blocks.18.mlp.fc1.weight', 'model.visio
+n_tower.vision_tower.blocks.20.attn.proj.weight', 'mode
+l.vision_tower.vision_tower.blocks.32.attn.v_bias', 'mo
+del.vision_tower.vision_tower.blocks.11.mlp.fc1.weight'
+, 'model.vision_tower.vision_tower.blocks.24.norm2.bias
+', 'model.vision_tower.vision_tower.blocks.10.mlp.fc1.w
+eight', 'model.vision_tower.vision_tower.blocks.8.norm1
+.weight', 'model.vision_tower.vision_tower.blocks.14.no
+rm1.bias', 'model.vision_tower.vision_tower.blocks.32.n
+orm1.bias', 'model.vision_tower.vision_tower.blocks.10.
+norm2.weight', 'model.vision_tower.vision_tower.blocks.
+24.mlp.fc1.weight', 'model.vision_tower.vision_tower.bl
+ocks.26.attn.proj.bias', 'model.vision_tower.vision_tow
+er.blocks.13.norm1.bias', 'model.vision_tower.vision_to
+wer.blocks.20.norm1.bias', 'model.vision_tower.vision_t
+ower.blocks.23.attn.qkv.weight', 'model.vision_tower.vi
+sion_tower.blocks.25.attn.qkv.weight', 'model.vision_to
+wer.vision_tower.blocks.29.attn.q_bias', 'model.vision_
+tower.vision_tower.blocks.36.norm2.bias', 'model.vision
+_tower.vision_tower.blocks.26.norm1.bias', 'model.visio
+n_tower.vision_tower.blocks.33.mlp.fc1.bias', 'model.vi
+sion_tower.vision_tower.blocks.18.norm1.weight', 'model
+.vision_tower.vision_tower.blocks.20.attn.q_bias', 'mod
+el.vision_tower.vision_tower.blocks.7.attn.v_bias', 'mo
+del.vision_tower.vision_tower.blocks.9.attn.proj.bias',
+ 'model.vision_tower.vision_tower.blocks.26.norm2.weigh
+t', 'model.vision_tower.vision_tower.blocks.38.mlp.fc1.
+weight', 'model.vision_tower.vision_tower.blocks.37.mlp
+.fc1.weight', 'model.vision_tower.vision_tower.blocks.3
+6.norm1.bias', 'model.vision_tower.vision_tower.blocks.
+32.attn.proj.bias', 'model.vision_tower.vision_tower.bl
+ocks.11.norm2.bias', 'model.vision_tower.vision_tower.b
+locks.21.norm1.bias', 'model.vision_tower.vision_tower.
+blocks.33.attn.qkv.weight', 'model.vision_tower.vision_
+tower.blocks.3.norm1.weight', 'model.vision_tower.visio
+n_tower.blocks.30.norm1.bias', 'model.vision_tower.visi
+on_tower.blocks.14.mlp.fc2.bias', 'model.vision_tower.v
+ision_tower.blocks.10.norm2.bias', 'model.vision_tower.
+vision_tower.blocks.19.mlp.fc1.weight', 'model.vision_t
+ower.vision_tower.blocks.6.attn.proj.bias', 'model.visi
+on_tower.vision_tower.blocks.16.attn.qkv.weight', 'mode
+l.vision_tower.vision_tower.blocks.6.norm2.weight', 'mo
+del.vision_tower.vision_tower.blocks.36.attn.proj.bias'
+, 'model.vision_tower.vision_tower.blocks.36.attn.qkv.w
+eight', 'model.vision_tower.vision_tower.blocks.7.norm2
+.bias', 'model.vision_tower.vision_tower.blocks.31.mlp.
+fc1.bias', 'model.vision_tower.vision_tower.blocks.12.m
+lp.fc2.bias', 'model.vision_tower.vision_tower.blocks.2
+4.mlp.fc1.bias', 'model.vision_tower.vision_tower.block
+s.22.mlp.fc1.weight', 'model.vision_tower.vision_tower.
+blocks.19.mlp.fc1.bias', 'model.vision_tower.vision_tow
+er.blocks.35.mlp.fc2.weight', 'model.vision_tower.visio
+n_tower.blocks.33.norm2.bias', 'model.vision_tower.visi
+on_tower.blocks.1.mlp.fc1.weight', 'model.vision_tower.
+vision_tower.blocks.1.mlp.fc2.bias', 'model.vision_towe
+r.vision_tower.blocks.11.mlp.fc2.bias', 'model.vision_t
+ower.vision_tower.blocks.12.norm2.bias', 'model.vision_
+tower.vision_tower.blocks.4.norm1.weight', 'model.visio
+n_tower.vision_tower.blocks.3.norm1.bias', 'model.visio
+n_tower.vision_tower.blocks.26.norm1.weight', 'model.vi
+sion_tower.vision_tower.blocks.6.norm1.weight', 'model.
+vision_tower.vision_tower.blocks.34.attn.proj.weight',
+'model.vision_tower.vision_tower.blocks.23.mlp.fc1.weig
+ht', 'model.vision_tower.vision_tower.blocks.37.mlp.fc1
+.bias', 'model.vision_tower.vision_tower.blocks.31.attn
+.v_bias', 'model.vision_tower.vision_tower.blocks.22.no
+rm1.weight', 'model.vision_tower.vision_tower.blocks.25
+.norm1.bias', 'model.vision_tower.vision_tower.blocks.3
+7.norm1.bias', 'model.vision_tower.vision_tower.blocks.
+5.norm1.weight', 'model.vision_tower.vision_tower.block
+s.19.attn.proj.bias', 'model.vision_tower.vision_tower.
+blocks.15.mlp.fc2.weight', 'model.vision_tower.vision_t
+ower.blocks.36.norm1.weight', 'model.vision_tower.visio
+n_tower.blocks.35.norm1.weight', 'model.vision_tower.vi
+sion_tower.blocks.1.attn.v_bias', 'model.vision_tower.v
+ision_tower.blocks.28.attn.proj.weight', 'model.vision_
+tower.vision_tower.blocks.6.mlp.fc2.bias', 'model.visio
+n_tower.vision_tower.blocks.38.norm1.weight', 'model.vi
+sion_tower.vision_tower.blocks.22.mlp.fc2.weight', 'mod
+el.vision_tower.vision_tower.blocks.1.norm1.bias', 'mod
+el.vision_tower.vision_tower.blocks.24.attn.v_bias', 'm
+odel.vision_tower.vision_tower.blocks.11.attn.proj.weig
+ht', 'model.vision_tower.vision_tower.blocks.2.mlp.fc2.
+bias', 'model.vision_tower.vision_tower.blocks.19.attn.
+proj.weight', 'model.vision_tower.vision_tower.blocks.2
+6.mlp.fc1.weight', 'model.vision_tower.vision_tower.blo
+cks.30.mlp.fc1.bias', 'model.vision_tower.vision_tower.
+blocks.14.mlp.fc2.weight', 'model.vision_tower.vision_t
+ower.blocks.4.mlp.fc1.bias', 'model.vision_tower.vision
+_tower.blocks.13.attn.proj.weight', 'model.vision_tower
+.vision_tower.blocks.31.mlp.fc2.bias', 'model.vision_to
+wer.vision_tower.blocks.0.attn.q_bias', 'model.vision_t
+ower.vision_tower.blocks.19.attn.qkv.weight', 'model.vi
+sion_tower.vision_tower.blocks.19.mlp.fc2.weight', 'mod
+el.vision_tower.vision_tower.blocks.23.norm2.bias', 'mo
+del.vision_tower.vision_tower.blocks.12.attn.proj.weigh
+t', 'model.vision_tower.vision_tower.blocks.8.attn.proj
+.weight', 'model.vision_tower.vision_tower.blocks.19.at
+tn.q_bias', 'model.vision_tower.vision_tower.blocks.31.
+attn.proj.bias', 'model.vision_tower.vision_tower.block
+s.4.attn.proj.bias', 'model.vision_tower.vision_tower.b
+locks.32.attn.q_bias', 'model.vision_tower.vision_tower
+.blocks.19.norm1.bias', 'model.vision_tower.vision_towe
+r.blocks.2.mlp.fc1.weight', 'model.vision_tower.vision_
+tower.blocks.24.norm1.weight', 'model.vision_tower.visi
+on_tower.blocks.4.attn.v_bias', 'model.vision_tower.vis
+ion_tower.blocks.31.norm2.weight', 'model.vision_tower.
+vision_tower.blocks.4.attn.proj.weight', 'model.vision_
+tower.vision_tower.blocks.29.attn.qkv.weight', 'model.v
+ision_tower.vision_tower.blocks.30.attn.v_bias', 'model
+.vision_tower.vision_tower.blocks.9.attn.qkv.weight', '
+model.vision_tower.vision_tower.blocks.29.mlp.fc2.weigh
+t', 'model.vision_tower.vision_tower.blocks.26.norm2.bi
+as', 'model.vision_tower.vision_tower.blocks.1.norm1.we
+ight', 'model.vision_tower.vision_tower.blocks.28.attn.
+proj.bias', 'model.vision_tower.vision_tower.blocks.29.
+norm1.bias', 'model.vision_tower.vision_tower.blocks.24
+.attn.q_bias', 'model.vision_tower.vision_tower.blocks.
+5.attn.q_bias', 'model.vision_tower.vision_tower.blocks
+.21.mlp.fc1.bias', 'model.vision_tower.vision_tower.blo
+cks.2.attn.qkv.weight', 'model.vision_tower.vision_towe
+r.blocks.24.norm1.bias', 'model.vision_tower.vision_tow
+er.blocks.14.attn.proj.bias', 'model.vision_tower.visio
+n_tower.blocks.25.mlp.fc2.bias', 'model.vision_tower.vi
+sion_tower.blocks.17.attn.q_bias', 'model.vision_tower.
+vision_tower.blocks.31.mlp.fc2.weight', 'model.vision_t
+ower.vision_tower.blocks.26.attn.qkv.weight', 'model.vi
+sion_tower.vision_tower.blocks.5.mlp.fc1.weight', 'mode
+l.vision_tower.vision_tower.blocks.30.norm2.weight', 'm
+odel.vision_tower.vision_tower.blocks.32.mlp.fc2.weight
+', 'model.vision_tower.vision_tower.blocks.23.attn.proj
+.bias', 'model.vision_tower.vision_tower.blocks.4.attn.
+qkv.weight', 'model.vision_tower.vision_tower.blocks.3.
+attn.proj.bias', 'model.vision_tower.vision_tower.block
+s.6.mlp.fc1.bias', 'model.vision_tower.vision_tower.blo
+cks.35.attn.v_bias', 'model.vision_tower.vision_tower.b
+locks.25.norm2.bias', 'model.vision_tower.vision_tower.
+blocks.5.norm2.weight', 'model.vision_tower.vision_towe
+r.blocks.36.attn.v_bias', 'model.vision_tower.vision_to
+wer.blocks.4.mlp.fc2.weight', 'model.vision_tower.visio
+n_tower.blocks.12.attn.proj.bias', 'model.vision_tower.
+vision_tower.blocks.24.mlp.fc2.bias', 'model.vision_tow
+er.vision_tower.blocks.28.norm2.bias', 'model.vision_to
+wer.vision_tower.blocks.34.norm2.weight', 'model.vision
+_tower.vision_tower.blocks.13.attn.v_bias', 'model.visi
+on_tower.vision_tower.blocks.5.mlp.fc1.bias', 'model.vi
+sion_tower.vision_tower.blocks.3.attn.v_bias', 'model.v
+ision_tower.vision_tower.blocks.34.mlp.fc2.bias', 'mode
+l.vision_tower.vision_tower.blocks.5.attn.qkv.weight',
+'model.vision_tower.vision_tower.blocks.36.attn.proj.we
+ight', 'model.vision_tower.vision_tower.blocks.0.norm1.
+bias', 'model.vision_tower.vision_tower.blocks.2.attn.q
+_bias', 'model.vision_tower.vision_tower.blocks.36.attn
+.q_bias', 'model.vision_tower.vision_tower.blocks.0.mlp
+.fc1.weight', 'model.vision_tower.vision_tower.blocks.3
+5.mlp.fc1.weight', 'model.vision_tower.vision_tower.blo
+cks.3.attn.qkv.weight', 'model.vision_tower.vision_towe
+r.blocks.10.norm1.weight', 'model.vision_tower.vision_t
+ower.blocks.17.mlp.fc2.bias', 'model.vision_tower.visio
+n_tower.blocks.25.attn.v_bias', 'model.vision_tower.vis
+ion_tower.blocks.23.norm1.bias', 'model.vision_tower.vi
+sion_tower.blocks.11.attn.v_bias', 'model.vision_tower.
+vision_tower.blocks.4.norm2.weight', 'model.vision_towe
+r.vision_tower.blocks.1.norm2.weight', 'model.vision_to
+wer.vision_tower.blocks.20.mlp.fc2.weight', 'model.visi
+on_tower.vision_tower.blocks.4.norm1.bias', 'model.visi
+on_tower.vision_tower.blocks.17.norm2.weight', 'model.v
+ision_tower.vision_tower.blocks.10.attn.v_bias']
+- This IS expected if you are initializing LlavaLlamaAt
+tForCausalLM from the checkpoint of a model trained on
+another task or with another architecture (e.g. initial
+izing a BertForSequenceClassification model from a Bert
+ForPreTraining model).
+- This IS NOT expected if you are initializing LlavaLla
+maAttForCausalLM from the checkpoint of a model that yo
+u expect to be exactly identical (initializing a BertFo
+rSequenceClassification model from a BertForSequenceCla
+ssification model).
+Loading checkpoint shards: 100%|███████████████████████
+██████████████████████████████████████| 2/2 [00:19<00:0
+0,  9.98s/it]
+Some weights of the model checkpoint at model_zoo/navid
+-7b-full-224-video-fps-1-grid-2-r2r-rxr-training-split
+were not used when initializing LlavaLlamaAttForCausalL
+M: ['model.vision_tower.vision_tower.blocks.37.mlp.fc1.
+bias', 'model.vision_tower.vision_tower.blocks.6.attn.p
+roj.weight', 'model.vision_tower.vision_tower.blocks.5.
+mlp.fc1.bias', 'model.vision_tower.vision_tower.blocks.
+7.attn.qkv.weight', 'model.vision_tower.vision_tower.bl
+ocks.22.norm1.weight', 'model.vision_tower.vision_tower
+.blocks.15.attn.proj.bias', 'model.vision_tower.vision_
+tower.blocks.38.mlp.fc2.bias', 'model.vision_tower.visi
+on_tower.blocks.21.mlp.fc2.bias', 'model.vision_tower.v
+ision_tower.blocks.17.mlp.fc2.bias', 'model.vision_towe
+r.vision_tower.blocks.36.attn.proj.weight', 'model.visi
+on_tower.vision_tower.blocks.24.norm2.bias', 'model.vis
+ion_tower.vision_tower.blocks.23.attn.v_bias', 'model.v
+ision_tower.vision_tower.blocks.15.mlp.fc2.bias', 'mode
+l.vision_tower.vision_tower.blocks.37.norm2.weight', 'm
+odel.vision_tower.vision_tower.blocks.34.norm2.weight',
+ 'model.vision_tower.vision_tower.blocks.30.mlp.fc2.bia
+s', 'model.vision_tower.vision_tower.blocks.33.norm2.bi
+as', 'model.vision_tower.vision_tower.blocks.12.attn.q_
+bias', 'model.vision_tower.vision_tower.blocks.35.norm2
+.weight', 'model.vision_tower.vision_tower.blocks.7.att
+n.q_bias', 'model.vision_tower.vision_tower.blocks.32.a
+ttn.proj.weight', 'model.vision_tower.vision_tower.bloc
+ks.22.mlp.fc1.weight', 'model.vision_tower.vision_tower
+.blocks.17.attn.qkv.weight', 'model.vision_tower.vision
+_tower.blocks.9.attn.qkv.weight', 'model.vision_tower.v
+ision_tower.blocks.14.mlp.fc1.weight', 'model.vision_to
+wer.vision_tower.blocks.36.attn.proj.bias', 'model.visi
+on_tower.vision_tower.blocks.1.norm2.weight', 'model.vi
+sion_tower.vision_tower.blocks.11.mlp.fc1.weight', 'mod
+el.vision_tower.vision_tower.blocks.27.mlp.fc1.weight',
+ 'model.vision_tower.vision_tower.blocks.25.norm1.bias'
+, 'model.vision_tower.vision_tower.blocks.28.mlp.fc2.we
+ight', 'model.vision_tower.vision_tower.blocks.25.norm1
+.weight', 'model.vision_tower.vision_tower.blocks.9.att
+n.proj.bias', 'model.vision_tower.vision_tower.blocks.2
+3.attn.proj.bias', 'model.vision_tower.vision_tower.blo
+cks.10.attn.qkv.weight', 'model.vision_tower.vision_tow
+er.blocks.38.attn.v_bias', 'model.vision_tower.vision_t
+ower.blocks.30.attn.proj.weight', 'model.vision_tower.v
+ision_tower.blocks.14.norm1.bias', 'model.vision_tower.
+vision_tower.blocks.1.attn.qkv.weight', 'model.vision_t
+ower.vision_tower.blocks.14.mlp.fc2.weight', 'model.vis
+ion_tower.vision_tower.blocks.13.mlp.fc1.bias', 'model.
+vision_tower.vision_tower.blocks.7.mlp.fc2.bias', 'mode
+l.vision_tower.vision_tower.blocks.0.mlp.fc2.weight', '
+model.vision_tower.vision_tower.blocks.19.norm2.weight'
+, 'model.vision_tower.vision_tower.blocks.20.mlp.fc2.we
+ight', 'model.vision_tower.vision_tower.blocks.11.mlp.f
+c2.weight', 'model.vision_tower.vision_tower.blocks.13.
+norm1.bias', 'model.vision_tower.vision_tower.blocks.14
+.mlp.fc1.bias', 'model.vision_tower.vision_tower.blocks
+.20.mlp.fc1.bias', 'model.vision_tower.vision_tower.blo
+cks.26.norm1.weight', 'model.vision_tower.vision_tower.
+blocks.3.attn.v_bias', 'model.vision_tower.vision_tower
+.blocks.4.mlp.fc1.bias', 'model.vision_tower.vision_tow
+er.blocks.2.attn.v_bias', 'model.vision_tower.vision_to
+wer.blocks.21.attn.q_bias', 'model.vision_tower.vision_
+tower.blocks.26.norm1.bias', 'model.vision_tower.vision
+_tower.blocks.18.mlp.fc2.bias', 'model.vision_tower.vis
+ion_tower.blocks.36.mlp.fc2.weight', 'model.vision_towe
+r.vision_tower.blocks.10.attn.q_bias', 'model.vision_to
+wer.vision_tower.blocks.33.attn.q_bias', 'model.vision_
+tower.vision_tower.blocks.9.norm2.weight', 'model.visio
+n_tower.vision_tower.blocks.22.attn.v_bias', 'model.vis
+ion_tower.vision_tower.blocks.28.norm2.bias', 'model.vi
+sion_tower.vision_tower.blocks.15.attn.q_bias', 'model.
+vision_tower.vision_tower.blocks.30.norm1.weight', 'mod
+el.vision_tower.vision_tower.blocks.5.attn.qkv.weight',
+ 'model.vision_tower.vision_tower.blocks.11.norm1.weigh
+t', 'model.vision_tower.vision_tower.blocks.31.attn.q_b
+ias', 'model.vision_tower.vision_tower.blocks.2.attn.pr
+oj.weight', 'model.vision_tower.vision_tower.blocks.3.a
+ttn.proj.bias', 'model.vision_tower.vision_tower.blocks
+.25.attn.v_bias', 'model.vision_tower.vision_tower.bloc
+ks.15.norm1.bias', 'model.vision_tower.vision_tower.blo
+cks.22.attn.proj.bias', 'model.vision_tower.vision_towe
+r.blocks.17.mlp.fc1.weight', 'model.vision_tower.vision
+_tower.blocks.2.mlp.fc1.bias', 'model.vision_tower.visi
+on_tower.blocks.36.attn.q_bias', 'model.vision_tower.vi
+sion_tower.blocks.30.attn.v_bias', 'model.vision_tower.
+vision_tower.blocks.8.mlp.fc2.bias', 'model.vision_towe
+r.vision_tower.blocks.38.mlp.fc1.bias', 'model.vision_t
+ower.vision_tower.blocks.29.mlp.fc1.weight', 'model.vis
+ion_tower.vision_tower.blocks.35.mlp.fc1.weight', 'mode
+l.vision_tower.vision_tower.blocks.30.norm2.bias', 'mod
+el.vision_tower.vision_tower.blocks.12.mlp.fc2.bias', '
+model.vision_tower.vision_tower.blocks.34.attn.proj.wei
+ght', 'model.vision_tower.vision_tower.blocks.16.attn.p
+roj.weight', 'model.vision_tower.vision_tower.blocks.9.
+attn.q_bias', 'model.vision_tower.vision_tower.blocks.2
+0.attn.q_bias', 'model.vision_tower.vision_tower.blocks
+.18.norm2.bias', 'model.vision_tower.vision_tower.block
+s.0.norm2.weight', 'model.vision_tower.vision_tower.blo
+cks.29.mlp.fc1.bias', 'model.vision_tower.vision_tower.
+blocks.7.attn.v_bias', 'model.vision_tower.vision_tower
+.blocks.31.attn.proj.weight', 'model.vision_tower.visio
+n_tower.blocks.38.norm2.weight', 'model.vision_tower.vi
+sion_tower.blocks.33.mlp.fc2.bias', 'model.vision_tower
+.vision_tower.blocks.5.norm2.weight', 'model.vision_tow
+er.vision_tower.blocks.28.mlp.fc2.bias', 'model.vision_
+tower.vision_tower.blocks.25.norm2.bias', 'model.vision
+_tower.vision_tower.blocks.34.norm1.bias', 'model.visio
+n_tower.vision_tower.blocks.27.norm2.weight', 'model.vi
+sion_tower.vision_tower.blocks.7.attn.proj.bias', 'mode
+l.vision_tower.vision_tower.blocks.15.norm1.weight', 'm
+odel.vision_tower.vision_tower.blocks.23.attn.q_bias',
+'model.vision_tower.vision_tower.blocks.38.attn.proj.we
+ight', 'model.vision_tower.vision_tower.blocks.0.attn.q
+kv.weight', 'model.vision_tower.vision_tower.blocks.23.
+attn.qkv.weight', 'model.vision_tower.vision_tower.bloc
+ks.24.mlp.fc1.weight', 'model.vision_tower.vision_tower
+.blocks.12.attn.v_bias', 'model.vision_tower.vision_tow
+er.blocks.16.norm1.weight', 'model.vision_tower.vision_
+tower.blocks.35.attn.proj.weight', 'model.vision_tower.
+vision_tower.blocks.2.mlp.fc2.weight', 'model.vision_to
+wer.vision_tower.blocks.20.attn.proj.weight', 'model.vi
+sion_tower.vision_tower.blocks.34.mlp.fc2.bias', 'model
+.vision_tower.vision_tower.blocks.4.norm2.weight', 'mod
+el.vision_tower.vision_tower.blocks.18.mlp.fc1.bias', '
+model.vision_tower.vision_tower.blocks.29.norm2.bias',
+'model.vision_tower.vision_tower.blocks.7.norm2.bias',
+'model.vision_tower.vision_tower.blocks.3.norm2.weight'
+, 'model.vision_tower.vision_tower.blocks.11.mlp.fc2.bi
+as', 'model.vision_tower.vision_tower.blocks.13.attn.pr
+oj.bias', 'model.vision_tower.vision_tower.blocks.15.ml
+p.fc2.weight', 'model.vision_tower.vision_tower.blocks.
+33.attn.proj.bias', 'model.vision_tower.vision_tower.bl
+ocks.27.mlp.fc1.bias', 'model.vision_tower.vision_tower
+.blocks.9.norm1.bias', 'model.vision_tower.vision_tower
+.blocks.1.norm1.weight', 'model.vision_tower.vision_tow
+er.blocks.1.mlp.fc2.weight', 'model.vision_tower.vision
+_tower.blocks.0.attn.proj.bias', 'model.vision_tower.vi
+sion_tower.blocks.29.mlp.fc2.weight', 'model.vision_tow
+er.vision_tower.blocks.12.norm1.weight', 'model.vision_
+tower.vision_tower.blocks.22.attn.q_bias', 'model.visio
+n_tower.vision_tower.blocks.8.norm1.bias', 'model.visio
+n_tower.vision_tower.blocks.6.mlp.fc1.bias', 'model.vis
+ion_tower.vision_tower.blocks.6.attn.qkv.weight', 'mode
+l.vision_tower.vision_tower.blocks.37.attn.q_bias', 'mo
+del.vision_tower.vision_tower.blocks.11.norm2.weight',
+'model.vision_tower.vision_tower.blocks.0.norm1.weight'
+, 'model.vision_tower.vision_tower.blocks.33.attn.proj.
+weight', 'model.vision_tower.vision_tower.blocks.36.att
+n.qkv.weight', 'model.vision_tower.vision_tower.blocks.
+1.mlp.fc1.weight', 'model.vision_tower.vision_tower.blo
+cks.36.norm2.bias', 'model.vision_tower.vision_tower.bl
+ocks.29.attn.q_bias', 'model.vision_tower.vision_tower.
+blocks.32.attn.v_bias', 'model.vision_tower.vision_towe
+r.blocks.26.norm2.bias', 'model.vision_tower.vision_tow
+er.blocks.29.norm1.weight', 'model.vision_tower.vision_
+tower.blocks.26.mlp.fc2.weight', 'model.vision_tower.vi
+sion_tower.blocks.8.attn.proj.bias', 'model.vision_towe
+r.vision_tower.blocks.10.mlp.fc1.weight', 'model.vision
+_tower.vision_tower.blocks.22.norm2.weight', 'model.vis
+ion_tower.vision_tower.blocks.26.attn.proj.weight', 'mo
+del.vision_tower.vision_tower.blocks.2.attn.q_bias', 'm
+odel.vision_tower.vision_tower.blocks.13.mlp.fc1.weight
+', 'model.vision_tower.vision_tower.blocks.8.attn.proj.
+weight', 'model.vision_tower.vision_tower.blocks.21.att
+n.v_bias', 'model.vision_tower.vision_tower.blocks.28.a
+ttn.q_bias', 'model.vision_tower.vision_tower.blocks.38
+.norm1.bias', 'model.vision_tower.vision_tower.blocks.3
+0.attn.proj.bias', 'model.vision_tower.vision_tower.blo
+cks.6.norm1.bias', 'model.vision_tower.vision_tower.pos
+_embed', 'model.vision_tower.vision_tower.blocks.16.att
+n.qkv.weight', 'model.vision_tower.vision_tower.blocks.
+3.attn.qkv.weight', 'model.vision_tower.vision_tower.bl
+ocks.10.mlp.fc2.weight', 'model.vision_tower.vision_tow
+er.blocks.14.norm1.weight', 'model.vision_tower.vision_
+tower.blocks.8.mlp.fc1.bias', 'model.vision_tower.visio
+n_tower.blocks.21.norm2.weight', 'model.vision_tower.vi
+sion_tower.blocks.12.norm2.weight', 'model.vision_tower
+.vision_tower.blocks.22.norm2.bias', 'model.vision_towe
+r.vision_tower.blocks.16.attn.proj.bias', 'model.vision
+_tower.vision_tower.blocks.14.attn.qkv.weight', 'model.
+vision_tower.vision_tower.blocks.8.mlp.fc1.weight', 'mo
+del.vision_tower.vision_tower.blocks.5.attn.proj.weight
+', 'model.vision_tower.vision_tower.blocks.16.mlp.fc1.w
+eight', 'model.vision_tower.vision_tower.blocks.19.mlp.
+fc2.bias', 'model.vision_tower.vision_tower.blocks.8.ml
+p.fc2.weight', 'model.vision_tower.vision_tower.blocks.
+24.mlp.fc1.bias', 'model.vision_tower.vision_tower.bloc
+ks.4.attn.proj.weight', 'model.vision_tower.vision_towe
+r.blocks.16.norm1.bias', 'model.vision_tower.vision_tow
+er.blocks.37.attn.qkv.weight', 'model.vision_tower.visi
+on_tower.blocks.5.norm2.bias', 'model.vision_tower.visi
+on_tower.blocks.24.mlp.fc2.weight', 'model.vision_tower
+.vision_tower.blocks.31.mlp.fc2.weight', 'model.vision_
+tower.vision_tower.blocks.6.norm2.weight', 'model.visio
+n_tower.vision_tower.blocks.24.attn.proj.bias', 'model.
+vision_tower.vision_tower.blocks.4.attn.q_bias', 'model
+.vision_tower.vision_tower.blocks.10.norm2.weight', 'mo
+del.vision_tower.vision_tower.blocks.35.attn.v_bias', '
+model.vision_tower.vision_tower.blocks.29.attn.v_bias',
+ 'model.vision_tower.vision_tower.blocks.1.attn.v_bias'
+, 'model.vision_tower.vision_tower.blocks.30.mlp.fc1.we
+ight', 'model.vision_tower.vision_tower.blocks.18.norm1
+.bias', 'model.vision_tower.vision_tower.blocks.30.norm
+2.weight', 'model.vision_tower.vision_tower.blocks.14.a
+ttn.q_bias', 'model.vision_tower.vision_tower.patch_emb
+ed.proj.bias', 'model.vision_tower.vision_tower.blocks.
+27.attn.proj.bias', 'model.vision_tower.vision_tower.bl
+ocks.23.norm2.weight', 'model.vision_tower.vision_tower
+.blocks.31.mlp.fc1.weight', 'model.vision_tower.vision_
+tower.blocks.26.norm2.weight', 'model.vision_tower.visi
+on_tower.blocks.13.mlp.fc2.weight', 'model.vision_tower
+.vision_tower.blocks.12.mlp.fc1.weight', 'model.vision_
+tower.vision_tower.blocks.23.norm1.bias', 'model.vision
+_tower.vision_tower.blocks.26.attn.proj.bias', 'model.v
+ision_tower.vision_tower.patch_embed.proj.weight', 'mod
+el.vision_tower.vision_tower.blocks.31.norm1.weight', '
+model.vision_tower.vision_tower.blocks.16.mlp.fc2.weigh
+t', 'model.vision_tower.vision_tower.blocks.1.mlp.fc2.b
+ias', 'model.vision_tower.vision_tower.blocks.23.attn.p
+roj.weight', 'model.vision_tower.vision_tower.blocks.5.
+attn.v_bias', 'model.vision_tower.vision_tower.blocks.2
+2.attn.qkv.weight', 'model.vision_tower.vision_tower.bl
+ocks.35.mlp.fc1.bias', 'model.vision_tower.vision_tower
+.blocks.9.norm1.weight', 'model.vision_tower.vision_tow
+er.blocks.23.mlp.fc2.weight', 'model.vision_tower.visio
+n_tower.blocks.16.attn.v_bias', 'model.vision_tower.vis
+ion_tower.blocks.36.norm1.weight', 'model.vision_tower.
+vision_tower.blocks.21.norm1.weight', 'model.vision_tow
+er.vision_tower.blocks.31.attn.proj.bias', 'model.visio
+n_tower.vision_tower.blocks.0.attn.q_bias', 'model.visi
+on_tower.vision_tower.blocks.28.attn.proj.bias', 'model
+.vision_tower.vision_tower.blocks.22.mlp.fc2.weight', '
+model.vision_tower.vision_tower.blocks.35.norm1.weight'
+, 'model.vision_tower.vision_tower.blocks.32.norm1.bias
+', 'model.vision_tower.vision_tower.blocks.28.norm1.wei
+ght', 'model.vision_tower.vision_tower.blocks.25.mlp.fc
+2.bias', 'model.vision_tower.vision_tower.blocks.27.att
+n.v_bias', 'model.vision_tower.vision_tower.blocks.9.ml
+p.fc2.bias', 'model.vision_tower.vision_tower.blocks.8.
+norm2.weight', 'model.vision_tower.vision_tower.blocks.
+34.mlp.fc1.bias', 'model.vision_tower.vision_tower.bloc
+ks.27.attn.qkv.weight', 'model.vision_tower.vision_towe
+r.blocks.19.attn.qkv.weight', 'model.vision_tower.visio
+n_tower.blocks.18.attn.qkv.weight', 'model.vision_tower
+.vision_tower.blocks.32.mlp.fc2.bias', 'model.vision_to
+wer.vision_tower.blocks.13.attn.proj.weight', 'model.vi
+sion_tower.vision_tower.blocks.38.attn.proj.bias', 'mod
+el.vision_tower.vision_tower.blocks.4.attn.qkv.weight',
+ 'model.vision_tower.vision_tower.blocks.14.attn.v_bias
+', 'model.vision_tower.vision_tower.blocks.23.mlp.fc2.b
+ias', 'model.vision_tower.vision_tower.blocks.11.attn.q
+kv.weight', 'model.vision_tower.vision_tower.blocks.13.
+norm2.weight', 'model.vision_tower.vision_tower.blocks.
+3.norm1.weight', 'model.vision_tower.vision_tower.block
+s.13.attn.qkv.weight', 'model.vision_tower.vision_tower
+.blocks.1.attn.proj.weight', 'model.vision_tower.vision
+_tower.blocks.7.attn.proj.weight', 'model.vision_tower.
+vision_tower.blocks.8.norm2.bias', 'model.vision_tower.
+vision_tower.blocks.18.mlp.fc1.weight', 'model.vision_t
+ower.vision_tower.blocks.35.attn.proj.bias', 'model.vis
+ion_tower.vision_tower.blocks.20.mlp.fc2.bias', 'model.
+vision_tower.vision_tower.blocks.4.norm1.bias', 'model.
+vision_tower.vision_tower.blocks.37.norm1.weight', 'mod
+el.vision_tower.vision_tower.blocks.38.attn.q_bias', 'm
+odel.vision_tower.vision_tower.blocks.18.norm1.weight',
+ 'model.vision_tower.vision_tower.blocks.38.norm1.weigh
+t', 'model.vision_tower.vision_tower.blocks.34.attn.qkv
+.weight', 'model.vision_tower.vision_tower.blocks.31.ml
+p.fc2.bias', 'model.vision_tower.vision_tower.blocks.10
+.mlp.fc2.bias', 'model.vision_tower.vision_tower.blocks
+.0.attn.proj.weight', 'model.vision_tower.vision_tower.
+blocks.32.norm2.bias', 'model.vision_tower.vision_tower
+.blocks.27.mlp.fc2.weight', 'model.vision_tower.vision_
+tower.blocks.15.mlp.fc1.weight', 'model.vision_tower.vi
+sion_tower.blocks.30.attn.qkv.weight', 'model.vision_to
+wer.vision_tower.blocks.31.norm1.bias', 'model.vision_t
+ower.vision_tower.blocks.28.mlp.fc1.weight', 'model.vis
+ion_tower.vision_tower.blocks.12.mlp.fc1.bias', 'model.
+vision_tower.vision_tower.blocks.33.mlp.fc1.bias', 'mod
+el.vision_tower.vision_tower.blocks.12.attn.proj.bias',
+ 'model.vision_tower.vision_tower.blocks.17.norm1.bias'
+, 'model.vision_tower.vision_tower.blocks.18.attn.v_bia
+s', 'model.vision_tower.vision_tower.blocks.24.norm1.bi
+as', 'model.vision_tower.vision_tower.blocks.27.attn.pr
+oj.weight', 'model.vision_tower.vision_tower.blocks.36.
+norm1.bias', 'model.vision_tower.vision_tower.blocks.10
+.attn.v_bias', 'model.vision_tower.vision_tower.blocks.
+4.norm2.bias', 'model.vision_tower.vision_tower.blocks.
+34.attn.v_bias', 'model.vision_tower.vision_tower.block
+s.15.attn.qkv.weight', 'model.vision_tower.vision_tower
+.blocks.15.attn.v_bias', 'model.vision_tower.vision_tow
+er.blocks.3.mlp.fc1.bias', 'model.vision_tower.vision_t
+ower.blocks.21.mlp.fc2.weight', 'model.vision_tower.vis
+ion_tower.blocks.19.attn.v_bias', 'model.vision_tower.v
+ision_tower.blocks.5.mlp.fc1.weight', 'model.vision_tow
+er.vision_tower.blocks.11.mlp.fc1.bias', 'model.vision_
+tower.vision_tower.blocks.32.attn.q_bias', 'model.visio
+n_tower.vision_tower.blocks.15.attn.proj.weight', 'mode
+l.vision_tower.vision_tower.blocks.4.mlp.fc2.weight', '
+model.vision_tower.vision_tower.blocks.34.attn.q_bias',
+ 'model.vision_tower.vision_tower.blocks.9.mlp.fc1.weig
+ht', 'model.vision_tower.vision_tower.blocks.31.attn.v_
+bias', 'model.vision_tower.vision_tower.blocks.5.mlp.fc
+2.weight', 'model.vision_tower.vision_tower.blocks.19.a
+ttn.proj.bias', 'model.vision_tower.vision_tower.blocks
+.25.attn.q_bias', 'model.vision_tower.vision_tower.bloc
+ks.28.attn.proj.weight', 'model.vision_tower.vision_tow
+er.blocks.33.norm1.bias', 'model.vision_tower.vision_to
+wer.blocks.33.attn.qkv.weight', 'model.vision_tower.vis
+ion_tower.blocks.28.norm1.bias', 'model.vision_tower.vi
+sion_tower.blocks.24.attn.v_bias', 'model.vision_tower.
+vision_tower.blocks.33.attn.v_bias', 'model.vision_towe
+r.vision_tower.blocks.12.mlp.fc2.weight', 'model.vision
+_tower.vision_tower.blocks.29.norm1.bias', 'model.visio
+n_tower.vision_tower.blocks.34.norm2.bias', 'model.visi
+on_tower.vision_tower.blocks.0.norm1.bias', 'model.visi
+on_tower.vision_tower.blocks.24.norm1.weight', 'model.v
+ision_tower.vision_tower.blocks.7.mlp.fc1.weight', 'mod
+el.vision_tower.vision_tower.blocks.14.mlp.fc2.bias', '
+model.vision_tower.vision_tower.blocks.36.norm2.weight'
+, 'model.vision_tower.vision_tower.blocks.33.mlp.fc1.we
+ight', 'model.vision_tower.vision_tower.blocks.14.attn.
+proj.bias', 'model.vision_tower.vision_tower.blocks.31.
+norm2.weight', 'model.vision_tower.vision_tower.blocks.
+13.norm2.bias', 'model.vision_tower.vision_tower.blocks
+.16.norm2.weight', 'model.vision_tower.vision_tower.blo
+cks.37.mlp.fc2.weight', 'model.vision_tower.vision_towe
+r.blocks.37.norm2.bias', 'model.vision_tower.vision_tow
+er.blocks.34.attn.proj.bias', 'model.vision_tower.visio
+n_tower.blocks.13.mlp.fc2.bias', 'model.vision_tower.vi
+sion_tower.blocks.37.attn.v_bias', 'model.vision_tower.
+vision_tower.blocks.26.mlp.fc1.bias', 'model.vision_tow
+er.vision_tower.blocks.22.mlp.fc1.bias', 'model.vision_
+tower.vision_tower.blocks.11.attn.v_bias', 'model.visio
+n_tower.vision_tower.blocks.32.attn.qkv.weight', 'model
+.vision_tower.vision_tower.blocks.27.mlp.fc2.bias', 'mo
+del.vision_tower.vision_tower.blocks.31.attn.qkv.weight
+', 'model.vision_tower.vision_tower.blocks.37.mlp.fc2.b
+ias', 'model.vision_tower.vision_tower.blocks.23.norm2.
+bias', 'model.vision_tower.vision_tower.blocks.29.mlp.f
+c2.bias', 'model.vision_tower.vision_tower.blocks.24.at
+tn.qkv.weight', 'model.vision_tower.vision_tower.blocks
+.20.norm1.bias', 'model.vision_tower.vision_tower.block
+s.37.norm1.bias', 'model.vision_tower.vision_tower.bloc
+ks.24.mlp.fc2.bias', 'model.vision_tower.vision_tower.b
+locks.9.mlp.fc2.weight', 'model.vision_tower.vision_tow
+er.blocks.32.norm1.weight', 'model.vision_tower.vision_
+tower.blocks.35.attn.q_bias', 'model.vision_tower.visio
+n_tower.blocks.7.mlp.fc1.bias', 'model.vision_tower.vis
+ion_tower.blocks.30.norm1.bias', 'model.vision_tower.vi
+sion_tower.blocks.19.norm1.weight', 'model.vision_tower
+.vision_tower.blocks.2.attn.proj.bias', 'model.vision_t
+ower.vision_tower.blocks.20.mlp.fc1.weight', 'model.vis
+ion_tower.vision_tower.blocks.28.attn.qkv.weight', 'mod
+el.vision_tower.vision_tower.blocks.12.attn.qkv.weight'
+, 'model.vision_tower.vision_tower.blocks.1.attn.q_bias
+', 'model.vision_tower.vision_tower.blocks.24.attn.q_bi
+as', 'model.vision_tower.vision_tower.blocks.11.attn.pr
+oj.weight', 'model.vision_tower.vision_tower.blocks.17.
+attn.v_bias', 'model.vision_tower.vision_tower.blocks.8
+.attn.qkv.weight', 'model.vision_tower.vision_tower.blo
+cks.16.mlp.fc1.bias', 'model.vision_tower.vision_tower.
+blocks.8.attn.v_bias', 'model.vision_tower.vision_tower
+.blocks.11.attn.q_bias', 'model.vision_tower.vision_tow
+er.blocks.18.mlp.fc2.weight', 'model.vision_tower.visio
+n_tower.blocks.0.mlp.fc1.bias', 'model.vision_tower.vis
+ion_tower.blocks.35.mlp.fc2.bias', 'model.vision_tower.
+vision_tower.blocks.33.norm2.weight', 'model.vision_tow
+er.vision_tower.blocks.17.norm2.weight', 'model.vision_
+tower.vision_tower.blocks.11.attn.proj.bias', 'model.vi
+sion_tower.vision_tower.blocks.18.norm2.weight', 'model
+.vision_tower.vision_tower.blocks.2.attn.qkv.weight', '
+model.vision_tower.vision_tower.blocks.17.attn.proj.bia
+s', 'model.vision_tower.vision_tower.blocks.9.norm2.bia
+s', 'model.vision_tower.vision_tower.blocks.25.mlp.fc1.
+bias', 'model.vision_tower.vision_tower.blocks.7.norm1.
+weight', 'model.vision_tower.vision_tower.blocks.38.mlp
+.fc1.weight', 'model.vision_tower.vision_tower.blocks.2
+0.norm2.bias', 'model.vision_tower.vision_tower.blocks.
+34.mlp.fc2.weight', 'model.vision_tower.vision_tower.bl
+ocks.29.attn.proj.weight', 'model.vision_tower.vision_t
+ower.blocks.2.mlp.fc1.weight', 'model.vision_tower.visi
+on_tower.blocks.6.mlp.fc1.weight', 'model.vision_tower.
+vision_tower.blocks.1.attn.proj.bias', 'model.vision_to
+wer.vision_tower.blocks.37.attn.proj.bias', 'model.visi
+on_tower.vision_tower.blocks.5.norm1.weight', 'model.vi
+sion_tower.vision_tower.blocks.17.attn.q_bias', 'model.
+vision_tower.vision_tower.blocks.10.norm1.weight', 'mod
+el.vision_tower.vision_tower.blocks.14.attn.proj.weight
+', 'model.vision_tower.vision_tower.blocks.24.norm2.wei
+ght', 'model.vision_tower.vision_tower.blocks.10.attn.p
+roj.weight', 'model.vision_tower.vision_tower.blocks.33
+.norm1.weight', 'model.vision_tower.vision_tower.blocks
+.5.norm1.bias', 'model.vision_tower.vision_tower.blocks
+.22.mlp.fc2.bias', 'model.vision_tower.vision_tower.blo
+cks.9.attn.v_bias', 'model.vision_tower.vision_tower.bl
+ocks.27.norm1.weight', 'model.vision_tower.vision_tower
+.blocks.7.mlp.fc2.weight', 'model.vision_tower.vision_t
+ower.blocks.35.mlp.fc2.weight', 'model.vision_tower.vis
+ion_tower.blocks.19.mlp.fc2.weight', 'model.vision_towe
+r.vision_tower.blocks.9.mlp.fc1.bias', 'model.vision_to
+wer.vision_tower.blocks.18.attn.proj.weight', 'model.vi
+sion_tower.vision_tower.blocks.12.norm2.bias', 'model.v
+ision_tower.vision_tower.blocks.25.mlp.fc1.weight', 'mo
+del.vision_tower.vision_tower.blocks.21.mlp.fc1.bias',
+'model.vision_tower.vision_tower.blocks.17.norm1.weight
+', 'model.vision_tower.vision_tower.blocks.23.mlp.fc1.w
+eight', 'model.vision_tower.vision_tower.blocks.27.norm
+2.bias', 'model.vision_tower.vision_tower.blocks.21.nor
+m1.bias', 'model.vision_tower.vision_tower.blocks.15.no
+rm2.bias', 'model.vision_tower.vision_tower.blocks.7.no
+rm1.bias', 'model.vision_tower.vision_tower.blocks.16.n
+orm2.bias', 'model.vision_tower.vision_tower.blocks.17.
+mlp.fc1.bias', 'model.vision_tower.vision_tower.blocks.
+1.norm1.bias', 'model.vision_tower.vision_tower.blocks.
+10.norm2.bias', 'model.vision_tower.vision_tower.blocks
+.17.attn.proj.weight', 'model.vision_tower.vision_tower
+.blocks.29.norm2.weight', 'model.vision_tower.vision_to
+wer.blocks.5.mlp.fc2.bias', 'model.vision_tower.vision_
+tower.blocks.21.mlp.fc1.weight', 'model.vision_tower.vi
+sion_tower.blocks.34.norm1.weight', 'model.vision_tower
+.vision_tower.blocks.10.attn.proj.bias', 'model.vision_
+tower.vision_tower.blocks.25.attn.proj.bias', 'model.vi
+sion_tower.vision_tower.blocks.6.mlp.fc2.weight', 'mode
+l.vision_tower.vision_tower.blocks.12.attn.proj.weight'
+, 'model.vision_tower.vision_tower.blocks.20.attn.v_bia
+s', 'model.vision_tower.vision_tower.blocks.15.norm2.we
+ight', 'model.vision_tower.vision_tower.blocks.32.mlp.f
+c1.weight', 'model.vision_tower.vision_tower.blocks.25.
+attn.proj.weight', 'model.vision_tower.vision_tower.blo
+cks.3.mlp.fc2.bias', 'model.vision_tower.vision_tower.b
+locks.17.mlp.fc2.weight', 'model.vision_tower.vision_to
+wer.blocks.26.mlp.fc1.weight', 'model.vision_tower.visi
+on_tower.blocks.20.attn.qkv.weight', 'model.vision_towe
+r.vision_tower.blocks.23.norm1.weight', 'model.vision_t
+ower.vision_tower.blocks.20.norm1.weight', 'model.visio
+n_tower.vision_tower.blocks.25.mlp.fc2.weight', 'model.
+vision_tower.vision_tower.blocks.19.attn.q_bias', 'mode
+l.vision_tower.vision_tower.blocks.25.norm2.weight', 'm
+odel.vision_tower.vision_tower.blocks.3.attn.proj.weigh
+t', 'model.vision_tower.vision_tower.blocks.38.mlp.fc2.
+weight', 'model.vision_tower.vision_tower.blocks.19.mlp
+.fc1.bias', 'model.vision_tower.vision_tower.blocks.37.
+attn.proj.weight', 'model.vision_tower.vision_tower.blo
+cks.24.attn.proj.weight', 'model.vision_tower.vision_to
+wer.blocks.1.mlp.fc1.bias', 'model.vision_tower.vision_
+tower.blocks.14.norm2.bias', 'model.vision_tower.vision
+_tower.blocks.7.norm2.weight', 'model.vision_tower.visi
+on_tower.blocks.31.norm2.bias', 'model.vision_tower.vis
+ion_tower.blocks.35.attn.qkv.weight', 'model.vision_tow
+er.vision_tower.blocks.6.attn.v_bias', 'model.vision_to
+wer.vision_tower.blocks.6.mlp.fc2.bias', 'model.vision_
+tower.vision_tower.blocks.12.norm1.bias', 'model.vision
+_tower.vision_tower.blocks.19.norm2.bias', 'model.visio
+n_tower.vision_tower.blocks.2.norm1.bias', 'model.visio
+n_tower.vision_tower.blocks.29.attn.qkv.weight', 'model
+.vision_tower.vision_tower.blocks.36.mlp.fc1.weight', '
+model.vision_tower.vision_tower.blocks.3.attn.q_bias',
+'model.vision_tower.vision_tower.blocks.20.norm2.weight
+', 'model.vision_tower.vision_tower.blocks.32.attn.proj
+.bias', 'model.vision_tower.vision_tower.blocks.25.attn
+.qkv.weight', 'model.vision_tower.vision_tower.blocks.3
+8.attn.qkv.weight', 'model.vision_tower.vision_tower.bl
+ocks.5.attn.q_bias', 'model.vision_tower.vision_tower.b
+locks.18.attn.q_bias', 'model.vision_tower.vision_tower
+.blocks.28.mlp.fc1.bias', 'model.vision_tower.vision_to
+wer.blocks.4.attn.v_bias', 'model.vision_tower.vision_t
+ower.blocks.33.mlp.fc2.weight', 'model.vision_tower.vis
+ion_tower.cls_token', 'model.vision_tower.vision_tower.
+blocks.17.norm2.bias', 'model.vision_tower.vision_tower
+.blocks.0.attn.v_bias', 'model.vision_tower.vision_towe
+r.blocks.36.attn.v_bias', 'model.vision_tower.vision_to
+wer.blocks.6.norm1.weight', 'model.vision_tower.vision_
+tower.blocks.21.attn.proj.weight', 'model.vision_tower.
+vision_tower.blocks.6.norm2.bias', 'model.vision_tower.
+vision_tower.blocks.26.mlp.fc2.bias', 'model.vision_tow
+er.vision_tower.blocks.11.norm2.bias', 'model.vision_to
+wer.vision_tower.blocks.36.mlp.fc1.bias', 'model.vision
+_tower.vision_tower.blocks.28.norm2.weight', 'model.vis
+ion_tower.vision_tower.blocks.26.attn.q_bias', 'model.v
+ision_tower.vision_tower.blocks.4.attn.proj.bias', 'mod
+el.vision_tower.vision_tower.blocks.1.norm2.bias', 'mod
+el.vision_tower.vision_tower.blocks.36.mlp.fc2.bias', '
+model.vision_tower.vision_tower.blocks.4.mlp.fc1.weight
+', 'model.vision_tower.vision_tower.blocks.4.mlp.fc2.bi
+as', 'model.vision_tower.vision_tower.blocks.21.attn.pr
+oj.bias', 'model.vision_tower.vision_tower.blocks.3.mlp
+.fc2.weight', 'model.vision_tower.vision_tower.blocks.0
+.mlp.fc2.bias', 'model.vision_tower.vision_tower.blocks
+.19.norm1.bias', 'model.vision_tower.vision_tower.block
+s.16.attn.q_bias', 'model.vision_tower.vision_tower.blo
+cks.26.attn.qkv.weight', 'model.vision_tower.vision_tow
+er.blocks.32.mlp.fc1.bias', 'model.vision_tower.vision_
+tower.blocks.32.mlp.fc2.weight', 'model.vision_tower.vi
+sion_tower.blocks.38.norm2.bias', 'model.vision_tower.v
+ision_tower.blocks.22.norm1.bias', 'model.vision_tower.
+vision_tower.blocks.13.attn.v_bias', 'model.vision_towe
+r.vision_tower.blocks.0.norm2.bias', 'model.vision_towe
+r.vision_tower.blocks.13.attn.q_bias', 'model.vision_to
+wer.vision_tower.blocks.0.mlp.fc1.weight', 'model.visio
+n_tower.vision_tower.blocks.21.norm2.bias', 'model.visi
+on_tower.vision_tower.blocks.31.mlp.fc1.bias', 'model.v
+ision_tower.vision_tower.blocks.2.mlp.fc2.bias', 'model
+.vision_tower.vision_tower.blocks.8.norm1.weight', 'mod
+el.vision_tower.vision_tower.blocks.30.mlp.fc1.bias', '
+model.vision_tower.vision_tower.blocks.10.mlp.fc1.bias'
+, 'model.vision_tower.vision_tower.blocks.15.mlp.fc1.bi
+as', 'model.vision_tower.vision_tower.blocks.30.attn.q_
+bias', 'model.vision_tower.vision_tower.blocks.2.norm1.
+weight', 'model.vision_tower.vision_tower.blocks.27.nor
+m1.bias', 'model.vision_tower.vision_tower.blocks.20.at
+tn.proj.bias', 'model.vision_tower.vision_tower.blocks.
+29.attn.proj.bias', 'model.vision_tower.vision_tower.bl
+ocks.23.mlp.fc1.bias', 'model.vision_tower.vision_tower
+.blocks.6.attn.q_bias', 'model.vision_tower.vision_towe
+r.blocks.10.norm1.bias', 'model.vision_tower.vision_tow
+er.blocks.9.attn.proj.weight', 'model.vision_tower.visi
+on_tower.blocks.4.norm1.weight', 'model.vision_tower.vi
+sion_tower.blocks.34.mlp.fc1.weight', 'model.vision_tow
+er.vision_tower.blocks.21.attn.qkv.weight', 'model.visi
+on_tower.vision_tower.blocks.37.mlp.fc1.weight', 'model
+.vision_tower.vision_tower.blocks.11.norm1.bias', 'mode
+l.vision_tower.vision_tower.blocks.5.attn.proj.bias', '
+model.vision_tower.vision_tower.blocks.3.norm2.bias', '
+model.vision_tower.vision_tower.blocks.16.mlp.fc2.bias'
+, 'model.vision_tower.vision_tower.blocks.35.norm2.bias
+', 'model.vision_tower.vision_tower.blocks.18.attn.proj
+.bias', 'model.vision_tower.vision_tower.blocks.6.attn.
+proj.bias', 'model.vision_tower.vision_tower.blocks.19.
+attn.proj.weight', 'model.vision_tower.vision_tower.blo
+cks.28.attn.v_bias', 'model.vision_tower.vision_tower.b
+locks.8.attn.q_bias', 'model.vision_tower.vision_tower.
+blocks.32.norm2.weight', 'model.vision_tower.vision_tow
+er.blocks.30.mlp.fc2.weight', 'model.vision_tower.visio
+n_tower.blocks.35.norm1.bias', 'model.vision_tower.visi
+on_tower.blocks.3.mlp.fc1.weight', 'model.vision_tower.
+vision_tower.blocks.19.mlp.fc1.weight', 'model.vision_t
+ower.vision_tower.blocks.26.attn.v_bias', 'model.vision
+_tower.vision_tower.blocks.13.norm1.weight', 'model.vis
+ion_tower.vision_tower.blocks.14.norm2.weight', 'model.
+vision_tower.vision_tower.blocks.3.norm1.bias', 'model.
+vision_tower.vision_tower.blocks.2.norm2.weight', 'mode
+l.vision_tower.vision_tower.blocks.2.norm2.bias', 'mode
+l.vision_tower.vision_tower.blocks.22.attn.proj.weight'
+, 'model.vision_tower.vision_tower.blocks.27.attn.q_bia
+s']
+- This IS expected if you are initializing LlavaLlamaAt
+tForCausalLM from the checkpoint of a model trained on
+another task or with another architecture (e.g. initial
+izing a BertForSequenceClassification model from a Bert
+ForPreTraining model).
+- This IS NOT expected if you are initializing LlavaLla
+maAttForCausalLM from the checkpoint of a model that yo
+u expect to be exactly identical (initializing a BertFo
+rSequenceClassification model from a BertForSequenceCla
+ssification model).
+Loading checkpoint shards: 100%|███████████████████████
+██████████████████████████████████████| 2/2 [00:20<00:0
+0, 10.39s/it]
+Some weights of the model checkpoint at model_zoo/navid
+-7b-full-224-video-fps-1-grid-2-r2r-rxr-training-split
+were not used when initializing LlavaLlamaAttForCausalL
+M: ['model.vision_tower.vision_tower.blocks.37.norm1.bi
+as', 'model.vision_tower.vision_tower.blocks.21.attn.v_
+bias', 'model.vision_tower.vision_tower.blocks.16.mlp.f
+c2.bias', 'model.vision_tower.vision_tower.blocks.23.at
+tn.proj.bias', 'model.vision_tower.vision_tower.blocks.
+36.norm1.weight', 'model.vision_tower.vision_tower.bloc
+ks.14.attn.proj.bias', 'model.vision_tower.vision_tower
+.blocks.9.attn.qkv.weight', 'model.vision_tower.vision_
+tower.blocks.35.mlp.fc2.bias', 'model.vision_tower.visi
+on_tower.blocks.11.mlp.fc2.weight', 'model.vision_tower
+.vision_tower.blocks.33.attn.q_bias', 'model.vision_tow
+er.vision_tower.blocks.25.norm1.weight', 'model.vision_
+tower.vision_tower.blocks.7.attn.proj.bias', 'model.vis
+ion_tower.vision_tower.blocks.17.norm2.weight', 'model.
+vision_tower.vision_tower.blocks.15.attn.proj.weight',
+'model.vision_tower.vision_tower.blocks.17.attn.v_bias'
+, 'model.vision_tower.vision_tower.blocks.35.attn.proj.
+bias', 'model.vision_tower.vision_tower.blocks.30.mlp.f
+c2.weight', 'model.vision_tower.vision_tower.blocks.37.
+norm2.bias', 'model.vision_tower.vision_tower.blocks.19
+.attn.v_bias', 'model.vision_tower.vision_tower.blocks.
+21.mlp.fc2.bias', 'model.vision_tower.vision_tower.bloc
+ks.15.mlp.fc1.bias', 'model.vision_tower.vision_tower.b
+locks.9.mlp.fc2.bias', 'model.vision_tower.vision_tower
+.blocks.5.norm2.bias', 'model.vision_tower.vision_tower
+.blocks.15.norm2.weight', 'model.vision_tower.vision_to
+wer.blocks.25.norm2.bias', 'model.vision_tower.vision_t
+ower.blocks.27.attn.proj.weight', 'model.vision_tower.v
+ision_tower.blocks.34.mlp.fc1.bias', 'model.vision_towe
+r.vision_tower.blocks.25.attn.q_bias', 'model.vision_to
+wer.vision_tower.blocks.35.mlp.fc1.bias', 'model.vision
+_tower.vision_tower.blocks.28.norm2.weight', 'model.vis
+ion_tower.vision_tower.blocks.8.mlp.fc1.weight', 'model
+.vision_tower.vision_tower.blocks.28.norm2.bias', 'mode
+l.vision_tower.vision_tower.blocks.25.attn.v_bias', 'mo
+del.vision_tower.vision_tower.blocks.4.mlp.fc2.weight',
+ 'model.vision_tower.vision_tower.blocks.31.attn.q_bias
+', 'model.vision_tower.vision_tower.blocks.9.norm2.weig
+ht', 'model.vision_tower.vision_tower.blocks.22.attn.q_
+bias', 'model.vision_tower.vision_tower.blocks.38.attn.
+q_bias', 'model.vision_tower.vision_tower.blocks.30.att
+n.proj.bias', 'model.vision_tower.vision_tower.blocks.2
+7.norm2.bias', 'model.vision_tower.vision_tower.blocks.
+3.mlp.fc2.bias', 'model.vision_tower.vision_tower.block
+s.8.norm2.bias', 'model.vision_tower.vision_tower.block
+s.28.mlp.fc2.weight', 'model.vision_tower.vision_tower.
+blocks.32.norm2.weight', 'model.vision_tower.vision_tow
+er.blocks.13.attn.q_bias', 'model.vision_tower.vision_t
+ower.blocks.13.mlp.fc1.weight', 'model.vision_tower.vis
+ion_tower.blocks.35.norm2.weight', 'model.vision_tower.
+vision_tower.blocks.3.norm1.weight', 'model.vision_towe
+r.vision_tower.blocks.7.mlp.fc1.weight', 'model.vision_
+tower.vision_tower.blocks.8.attn.proj.bias', 'model.vis
+ion_tower.vision_tower.blocks.33.norm1.bias', 'model.vi
+sion_tower.vision_tower.blocks.2.attn.q_bias', 'model.v
+ision_tower.vision_tower.blocks.14.mlp.fc2.weight', 'mo
+del.vision_tower.vision_tower.blocks.29.attn.v_bias', '
+model.vision_tower.vision_tower.blocks.36.attn.proj.wei
+ght', 'model.vision_tower.vision_tower.blocks.4.norm1.w
+eight', 'model.vision_tower.vision_tower.blocks.9.mlp.f
+c1.bias', 'model.vision_tower.vision_tower.blocks.1.mlp
+.fc2.weight', 'model.vision_tower.vision_tower.blocks.2
+5.mlp.fc2.bias', 'model.vision_tower.vision_tower.block
+s.4.attn.qkv.weight', 'model.vision_tower.vision_tower.
+blocks.1.attn.v_bias', 'model.vision_tower.vision_tower
+.blocks.38.norm2.weight', 'model.vision_tower.vision_to
+wer.blocks.32.attn.q_bias', 'model.vision_tower.vision_
+tower.blocks.3.norm2.weight', 'model.vision_tower.visio
+n_tower.blocks.2.attn.qkv.weight', 'model.vision_tower.
+vision_tower.blocks.28.norm1.bias', 'model.vision_tower
+.vision_tower.blocks.5.attn.qkv.weight', 'model.vision_
+tower.vision_tower.blocks.5.norm1.bias', 'model.vision_
+tower.vision_tower.blocks.24.mlp.fc2.bias', 'model.visi
+on_tower.vision_tower.blocks.30.mlp.fc1.weight', 'model
+.vision_tower.vision_tower.blocks.4.mlp.fc1.bias', 'mod
+el.vision_tower.vision_tower.blocks.37.mlp.fc2.bias', '
+model.vision_tower.vision_tower.blocks.0.mlp.fc2.bias',
+ 'model.vision_tower.vision_tower.blocks.34.attn.v_bias
+', 'model.vision_tower.vision_tower.blocks.23.attn.q_bi
+as', 'model.vision_tower.vision_tower.blocks.27.attn.qk
+v.weight', 'model.vision_tower.vision_tower.blocks.22.n
+orm1.weight', 'model.vision_tower.vision_tower.blocks.3
+1.norm2.weight', 'model.vision_tower.vision_tower.block
+s.13.attn.proj.bias', 'model.vision_tower.vision_tower.
+blocks.22.norm2.weight', 'model.vision_tower.vision_tow
+er.blocks.0.attn.proj.weight', 'model.vision_tower.visi
+on_tower.blocks.30.norm2.bias', 'model.vision_tower.vis
+ion_tower.blocks.15.norm2.bias', 'model.vision_tower.vi
+sion_tower.blocks.18.norm1.weight', 'model.vision_tower
+.vision_tower.blocks.27.attn.q_bias', 'model.vision_tow
+er.vision_tower.blocks.17.mlp.fc2.weight', 'model.visio
+n_tower.vision_tower.blocks.16.mlp.fc1.bias', 'model.vi
+sion_tower.vision_tower.blocks.24.mlp.fc1.weight', 'mod
+el.vision_tower.vision_tower.blocks.13.norm2.weight', '
+model.vision_tower.vision_tower.blocks.23.mlp.fc2.weigh
+t', 'model.vision_tower.vision_tower.blocks.32.attn.v_b
+ias', 'model.vision_tower.vision_tower.blocks.18.attn.v
+_bias', 'model.vision_tower.vision_tower.blocks.13.mlp.
+fc2.bias', 'model.vision_tower.vision_tower.blocks.22.m
+lp.fc1.bias', 'model.vision_tower.vision_tower.blocks.3
+2.mlp.fc2.weight', 'model.vision_tower.vision_tower.blo
+cks.34.mlp.fc2.bias', 'model.vision_tower.vision_tower.
+blocks.32.attn.proj.weight', 'model.vision_tower.vision
+_tower.blocks.18.attn.qkv.weight', 'model.vision_tower.
+vision_tower.blocks.14.attn.proj.weight', 'model.vision
+_tower.vision_tower.blocks.5.mlp.fc1.weight', 'model.vi
+sion_tower.vision_tower.blocks.12.mlp.fc1.bias', 'model
+.vision_tower.vision_tower.blocks.32.mlp.fc1.weight', '
+model.vision_tower.vision_tower.blocks.26.norm1.bias',
+'model.vision_tower.vision_tower.blocks.13.mlp.fc1.bias
+', 'model.vision_tower.vision_tower.blocks.5.attn.v_bia
+s', 'model.vision_tower.vision_tower.blocks.14.attn.q_b
+ias', 'model.vision_tower.vision_tower.blocks.24.norm2.
+bias', 'model.vision_tower.vision_tower.blocks.35.norm1
+.weight', 'model.vision_tower.vision_tower.blocks.0.nor
+m2.bias', 'model.vision_tower.vision_tower.blocks.35.at
+tn.q_bias', 'model.vision_tower.vision_tower.blocks.22.
+norm1.bias', 'model.vision_tower.vision_tower.blocks.2.
+mlp.fc1.bias', 'model.vision_tower.vision_tower.blocks.
+7.norm2.weight', 'model.vision_tower.vision_tower.block
+s.20.mlp.fc1.bias', 'model.vision_tower.vision_tower.bl
+ocks.9.attn.proj.weight', 'model.vision_tower.vision_to
+wer.blocks.18.mlp.fc2.bias', 'model.vision_tower.vision
+_tower.blocks.33.mlp.fc2.bias', 'model.vision_tower.vis
+ion_tower.blocks.38.attn.proj.bias', 'model.vision_towe
+r.vision_tower.blocks.4.norm2.bias', 'model.vision_towe
+r.vision_tower.blocks.17.mlp.fc1.weight', 'model.vision
+_tower.vision_tower.blocks.11.attn.proj.bias', 'model.v
+ision_tower.vision_tower.blocks.33.norm1.weight', 'mode
+l.vision_tower.vision_tower.blocks.36.attn.qkv.weight',
+ 'model.vision_tower.vision_tower.blocks.27.norm1.bias'
+, 'model.vision_tower.vision_tower.blocks.2.norm2.weigh
+t', 'model.vision_tower.vision_tower.blocks.23.attn.v_b
+ias', 'model.vision_tower.vision_tower.blocks.9.norm1.b
+ias', 'model.vision_tower.vision_tower.blocks.23.norm1.
+weight', 'model.vision_tower.vision_tower.blocks.6.attn
+.proj.bias', 'model.vision_tower.vision_tower.blocks.9.
+attn.proj.bias', 'model.vision_tower.vision_tower.block
+s.33.norm2.bias', 'model.vision_tower.vision_tower.bloc
+ks.30.attn.q_bias', 'model.vision_tower.vision_tower.bl
+ocks.10.mlp.fc2.bias', 'model.vision_tower.vision_tower
+.blocks.14.mlp.fc2.bias', 'model.vision_tower.vision_to
+wer.blocks.10.attn.q_bias', 'model.vision_tower.vision_
+tower.blocks.15.attn.q_bias', 'model.vision_tower.visio
+n_tower.blocks.16.mlp.fc2.weight', 'model.vision_tower.
+vision_tower.blocks.9.norm1.weight', 'model.vision_towe
+r.vision_tower.blocks.2.mlp.fc2.bias', 'model.vision_to
+wer.vision_tower.blocks.0.norm1.weight', 'model.vision_
+tower.vision_tower.blocks.14.norm2.weight', 'model.visi
+on_tower.vision_tower.blocks.1.mlp.fc1.weight', 'model.
+vision_tower.vision_tower.blocks.6.attn.proj.weight', '
+model.vision_tower.vision_tower.blocks.26.mlp.fc2.weigh
+t', 'model.vision_tower.vision_tower.blocks.29.mlp.fc2.
+bias', 'model.vision_tower.vision_tower.blocks.37.mlp.f
+c1.bias', 'model.vision_tower.vision_tower.blocks.38.ml
+p.fc1.weight', 'model.vision_tower.vision_tower.blocks.
+7.mlp.fc2.bias', 'model.vision_tower.vision_tower.block
+s.29.norm2.weight', 'model.vision_tower.vision_tower.bl
+ocks.17.attn.q_bias', 'model.vision_tower.vision_tower.
+blocks.3.attn.qkv.weight', 'model.vision_tower.vision_t
+ower.blocks.16.attn.proj.weight', 'model.vision_tower.v
+ision_tower.blocks.33.norm2.weight', 'model.vision_towe
+r.vision_tower.blocks.33.attn.proj.bias', 'model.vision
+_tower.vision_tower.blocks.12.norm2.weight', 'model.vis
+ion_tower.vision_tower.blocks.7.norm1.bias', 'model.vis
+ion_tower.vision_tower.blocks.22.norm2.bias', 'model.vi
+sion_tower.vision_tower.blocks.7.norm2.bias', 'model.vi
+sion_tower.vision_tower.blocks.37.attn.proj.weight', 'm
+odel.vision_tower.vision_tower.blocks.28.norm1.weight',
+ 'model.vision_tower.vision_tower.blocks.38.norm2.bias'
+, 'model.vision_tower.vision_tower.blocks.35.norm1.bias
+', 'model.vision_tower.vision_tower.blocks.26.norm1.wei
+ght', 'model.vision_tower.vision_tower.blocks.26.mlp.fc
+2.bias', 'model.vision_tower.vision_tower.blocks.35.mlp
+.fc1.weight', 'model.vision_tower.vision_tower.blocks.1
+.norm1.weight', 'model.vision_tower.vision_tower.blocks
+.27.attn.v_bias', 'model.vision_tower.vision_tower.bloc
+ks.38.mlp.fc1.bias', 'model.vision_tower.vision_tower.b
+locks.34.attn.proj.weight', 'model.vision_tower.vision_
+tower.blocks.25.mlp.fc2.weight', 'model.vision_tower.vi
+sion_tower.blocks.24.attn.q_bias', 'model.vision_tower.
+vision_tower.blocks.0.mlp.fc2.weight', 'model.vision_to
+wer.vision_tower.blocks.18.attn.proj.weight', 'model.vi
+sion_tower.vision_tower.blocks.1.mlp.fc2.bias', 'model.
+vision_tower.vision_tower.blocks.4.attn.q_bias', 'model
+.vision_tower.vision_tower.blocks.0.attn.q_bias', 'mode
+l.vision_tower.vision_tower.blocks.37.attn.q_bias', 'mo
+del.vision_tower.vision_tower.blocks.29.attn.proj.weigh
+t', 'model.vision_tower.vision_tower.blocks.10.norm1.we
+ight', 'model.vision_tower.vision_tower.patch_embed.pro
+j.weight', 'model.vision_tower.vision_tower.blocks.20.n
+orm2.weight', 'model.vision_tower.vision_tower.blocks.2
+1.attn.q_bias', 'model.vision_tower.vision_tower.blocks
+.32.norm1.weight', 'model.vision_tower.vision_tower.blo
+cks.12.attn.proj.bias', 'model.vision_tower.vision_towe
+r.blocks.19.attn.proj.bias', 'model.vision_tower.vision
+_tower.blocks.10.attn.proj.weight', 'model.vision_tower
+.vision_tower.blocks.19.mlp.fc1.bias', 'model.vision_to
+wer.vision_tower.blocks.15.attn.proj.bias', 'model.visi
+on_tower.vision_tower.blocks.30.attn.proj.weight', 'mod
+el.vision_tower.vision_tower.blocks.5.mlp.fc2.bias', 'm
+odel.vision_tower.vision_tower.blocks.31.mlp.fc1.weight
+', 'model.vision_tower.vision_tower.blocks.14.norm1.bia
+s', 'model.vision_tower.vision_tower.blocks.1.attn.proj
+.bias', 'model.vision_tower.vision_tower.blocks.11.attn
+.q_bias', 'model.vision_tower.vision_tower.blocks.25.at
+tn.qkv.weight', 'model.vision_tower.vision_tower.blocks
+.1.norm2.weight', 'model.vision_tower.vision_tower.bloc
+ks.31.norm1.bias', 'model.vision_tower.vision_tower.blo
+cks.4.attn.proj.weight', 'model.vision_tower.vision_tow
+er.blocks.12.attn.v_bias', 'model.vision_tower.vision_t
+ower.blocks.35.mlp.fc2.weight', 'model.vision_tower.vis
+ion_tower.blocks.0.norm2.weight', 'model.vision_tower.v
+ision_tower.blocks.20.norm1.bias', 'model.vision_tower.
+vision_tower.blocks.24.mlp.fc2.weight', 'model.vision_t
+ower.vision_tower.blocks.13.attn.proj.weight', 'model.v
+ision_tower.vision_tower.blocks.31.mlp.fc1.bias', 'mode
+l.vision_tower.vision_tower.blocks.16.norm1.weight', 'm
+odel.vision_tower.vision_tower.blocks.19.norm1.bias', '
+model.vision_tower.vision_tower.blocks.21.mlp.fc1.bias'
+, 'model.vision_tower.vision_tower.blocks.0.attn.qkv.we
+ight', 'model.vision_tower.vision_tower.blocks.28.attn.
+v_bias', 'model.vision_tower.vision_tower.blocks.30.mlp
+.fc1.bias', 'model.vision_tower.vision_tower.blocks.29.
+attn.qkv.weight', 'model.vision_tower.vision_tower.bloc
+ks.38.attn.proj.weight', 'model.vision_tower.vision_tow
+er.blocks.5.norm2.weight', 'model.vision_tower.vision_t
+ower.blocks.8.attn.v_bias', 'model.vision_tower.vision_
+tower.blocks.19.norm2.bias', 'model.vision_tower.vision
+_tower.blocks.19.attn.proj.weight', 'model.vision_tower
+.vision_tower.blocks.37.attn.qkv.weight', 'model.vision
+_tower.vision_tower.blocks.13.norm2.bias', 'model.visio
+n_tower.vision_tower.blocks.33.attn.v_bias', 'model.vis
+ion_tower.vision_tower.blocks.8.attn.qkv.weight', 'mode
+l.vision_tower.vision_tower.blocks.2.mlp.fc2.weight', '
+model.vision_tower.vision_tower.blocks.8.attn.proj.weig
+ht', 'model.vision_tower.vision_tower.blocks.2.mlp.fc1.
+weight', 'model.vision_tower.vision_tower.blocks.28.mlp
+.fc1.bias', 'model.vision_tower.vision_tower.blocks.11.
+mlp.fc1.bias', 'model.vision_tower.vision_tower.blocks.
+0.attn.proj.bias', 'model.vision_tower.vision_tower.blo
+cks.13.attn.v_bias', 'model.vision_tower.vision_tower.b
+locks.32.attn.qkv.weight', 'model.vision_tower.vision_t
+ower.blocks.36.attn.q_bias', 'model.vision_tower.vision
+_tower.blocks.10.attn.v_bias', 'model.vision_tower.visi
+on_tower.blocks.21.mlp.fc2.weight', 'model.vision_tower
+.vision_tower.blocks.25.attn.proj.weight', 'model.visio
+n_tower.vision_tower.blocks.36.mlp.fc1.weight', 'model.
+vision_tower.vision_tower.blocks.21.norm2.bias', 'model
+.vision_tower.vision_tower.blocks.28.mlp.fc2.bias', 'mo
+del.vision_tower.vision_tower.blocks.33.attn.proj.weigh
+t', 'model.vision_tower.vision_tower.blocks.3.mlp.fc2.w
+eight', 'model.vision_tower.vision_tower.blocks.5.norm1
+.weight', 'model.vision_tower.vision_tower.blocks.26.ml
+p.fc1.weight', 'model.vision_tower.vision_tower.blocks.
+13.norm1.bias', 'model.vision_tower.vision_tower.blocks
+.7.attn.v_bias', 'model.vision_tower.vision_tower.block
+s.2.norm1.weight', 'model.vision_tower.vision_tower.blo
+cks.21.norm1.bias', 'model.vision_tower.vision_tower.bl
+ocks.18.norm2.bias', 'model.vision_tower.vision_tower.b
+locks.20.attn.v_bias', 'model.vision_tower.vision_tower
+.blocks.26.norm2.bias', 'model.vision_tower.vision_towe
+r.blocks.4.attn.v_bias', 'model.vision_tower.vision_tow
+er.blocks.11.norm1.bias', 'model.vision_tower.vision_to
+wer.blocks.34.attn.qkv.weight', 'model.vision_tower.vis
+ion_tower.blocks.34.attn.proj.bias', 'model.vision_towe
+r.vision_tower.blocks.25.attn.proj.bias', 'model.vision
+_tower.vision_tower.blocks.29.norm1.weight', 'model.vis
+ion_tower.vision_tower.blocks.8.norm1.bias', 'model.vis
+ion_tower.vision_tower.blocks.10.mlp.fc1.weight', 'mode
+l.vision_tower.vision_tower.blocks.22.attn.qkv.weight',
+ 'model.vision_tower.vision_tower.blocks.34.norm2.weigh
+t', 'model.vision_tower.vision_tower.blocks.1.attn.q_bi
+as', 'model.vision_tower.vision_tower.blocks.33.mlp.fc1
+.bias', 'model.vision_tower.vision_tower.blocks.11.norm
+1.weight', 'model.vision_tower.vision_tower.blocks.31.n
+orm2.bias', 'model.vision_tower.vision_tower.blocks.30.
+norm2.weight', 'model.vision_tower.vision_tower.blocks.
+2.norm1.bias', 'model.vision_tower.vision_tower.blocks.
+10.attn.qkv.weight', 'model.vision_tower.vision_tower.b
+locks.15.mlp.fc1.weight', 'model.vision_tower.vision_to
+wer.blocks.38.attn.qkv.weight', 'model.vision_tower.vis
+ion_tower.blocks.24.mlp.fc1.bias', 'model.vision_tower.
+vision_tower.blocks.11.norm2.weight', 'model.vision_tow
+er.vision_tower.blocks.19.mlp.fc2.weight', 'model.visio
+n_tower.vision_tower.blocks.18.mlp.fc1.weight', 'model.
+vision_tower.vision_tower.blocks.28.attn.q_bias', 'mode
+l.vision_tower.vision_tower.blocks.13.mlp.fc2.weight',
+'model.vision_tower.vision_tower.blocks.36.norm1.bias',
+ 'model.vision_tower.vision_tower.blocks.17.norm1.bias'
+, 'model.vision_tower.vision_tower.blocks.12.norm2.bias
+', 'model.vision_tower.vision_tower.blocks.30.attn.qkv.
+weight', 'model.vision_tower.vision_tower.blocks.6.mlp.
+fc2.weight', 'model.vision_tower.vision_tower.blocks.26
+.norm2.weight', 'model.vision_tower.vision_tower.blocks
+.36.mlp.fc1.bias', 'model.vision_tower.vision_tower.blo
+cks.4.norm1.bias', 'model.vision_tower.vision_tower.blo
+cks.6.attn.qkv.weight', 'model.vision_tower.vision_towe
+r.blocks.21.norm2.weight', 'model.vision_tower.vision_t
+ower.blocks.24.attn.v_bias', 'model.vision_tower.vision
+_tower.blocks.19.mlp.fc2.bias', 'model.vision_tower.vis
+ion_tower.blocks.34.norm2.bias', 'model.vision_tower.vi
+sion_tower.blocks.26.attn.qkv.weight', 'model.vision_to
+wer.vision_tower.blocks.17.mlp.fc1.bias', 'model.vision
+_tower.vision_tower.blocks.7.mlp.fc1.bias', 'model.visi
+on_tower.vision_tower.blocks.33.attn.qkv.weight', 'mode
+l.vision_tower.vision_tower.blocks.11.norm2.bias', 'mod
+el.vision_tower.vision_tower.blocks.32.norm2.bias', 'mo
+del.vision_tower.vision_tower.blocks.18.mlp.fc1.bias',
+'model.vision_tower.vision_tower.blocks.16.norm2.weight
+', 'model.vision_tower.vision_tower.blocks.23.mlp.fc1.b
+ias', 'model.vision_tower.vision_tower.blocks.29.norm1.
+bias', 'model.vision_tower.vision_tower.blocks.10.norm2
+.bias', 'model.vision_tower.vision_tower.blocks.37.mlp.
+fc2.weight', 'model.vision_tower.vision_tower.blocks.0.
+attn.v_bias', 'model.vision_tower.vision_tower.blocks.2
+4.attn.proj.bias', 'model.vision_tower.vision_tower.blo
+cks.4.attn.proj.bias', 'model.vision_tower.vision_tower
+.blocks.36.mlp.fc2.weight', 'model.vision_tower.vision_
+tower.blocks.3.norm2.bias', 'model.vision_tower.vision_
+tower.blocks.14.attn.qkv.weight', 'model.vision_tower.v
+ision_tower.blocks.4.mlp.fc2.bias', 'model.vision_tower
+.vision_tower.blocks.5.attn.q_bias', 'model.vision_towe
+r.vision_tower.blocks.20.attn.proj.bias', 'model.vision
+_tower.vision_tower.blocks.35.attn.v_bias', 'model.visi
+on_tower.vision_tower.blocks.33.mlp.fc1.weight', 'model
+.vision_tower.vision_tower.blocks.26.attn.proj.weight',
+ 'model.vision_tower.vision_tower.blocks.31.attn.v_bias
+', 'model.vision_tower.vision_tower.blocks.32.norm1.bia
+s', 'model.vision_tower.vision_tower.blocks.32.mlp.fc2.
+bias', 'model.vision_tower.vision_tower.blocks.6.norm1.
+weight', 'model.vision_tower.vision_tower.blocks.0.norm
+1.bias', 'model.vision_tower.vision_tower.blocks.16.att
+n.v_bias', 'model.vision_tower.vision_tower.blocks.14.n
+orm1.weight', 'model.vision_tower.vision_tower.blocks.5
+.mlp.fc1.bias', 'model.vision_tower.vision_tower.blocks
+.7.mlp.fc2.weight', 'model.vision_tower.vision_tower.bl
+ocks.32.mlp.fc1.bias', 'model.vision_tower.vision_tower
+.blocks.24.attn.qkv.weight', 'model.vision_tower.vision
+_tower.blocks.3.attn.proj.bias', 'model.vision_tower.vi
+sion_tower.cls_token', 'model.vision_tower.vision_tower
+.blocks.29.mlp.fc1.bias', 'model.vision_tower.vision_to
+wer.blocks.6.norm2.bias', 'model.vision_tower.vision_to
+wer.blocks.9.mlp.fc2.weight', 'model.vision_tower.visio
+n_tower.blocks.15.mlp.fc2.bias', 'model.vision_tower.vi
+sion_tower.blocks.29.mlp.fc1.weight', 'model.vision_tow
+er.vision_tower.blocks.3.attn.proj.weight', 'model.visi
+on_tower.vision_tower.blocks.6.norm1.bias', 'model.visi
+on_tower.vision_tower.blocks.29.norm2.bias', 'model.vis
+ion_tower.vision_tower.blocks.2.norm2.bias', 'model.vis
+ion_tower.vision_tower.blocks.3.attn.v_bias', 'model.vi
+sion_tower.vision_tower.blocks.37.attn.proj.bias', 'mod
+el.vision_tower.vision_tower.blocks.14.norm2.bias', 'mo
+del.vision_tower.vision_tower.blocks.36.attn.v_bias', '
+model.vision_tower.vision_tower.blocks.21.norm1.weight'
+, 'model.vision_tower.vision_tower.blocks.23.norm2.weig
+ht', 'model.vision_tower.vision_tower.blocks.31.attn.pr
+oj.weight', 'model.vision_tower.vision_tower.blocks.1.n
+orm1.bias', 'model.vision_tower.vision_tower.blocks.28.
+attn.qkv.weight', 'model.vision_tower.vision_tower.bloc
+ks.17.attn.proj.weight', 'model.vision_tower.vision_tow
+er.blocks.36.norm2.weight', 'model.vision_tower.vision_
+tower.blocks.12.mlp.fc1.weight', 'model.vision_tower.vi
+sion_tower.blocks.12.mlp.fc2.weight', 'model.vision_tow
+er.vision_tower.blocks.22.attn.proj.weight', 'model.vis
+ion_tower.vision_tower.blocks.27.mlp.fc2.bias', 'model.
+vision_tower.vision_tower.blocks.6.norm2.weight', 'mode
+l.vision_tower.vision_tower.blocks.7.attn.proj.weight',
+ 'model.vision_tower.vision_tower.blocks.22.attn.proj.b
+ias', 'model.vision_tower.vision_tower.blocks.27.norm1.
+weight', 'model.vision_tower.vision_tower.blocks.20.nor
+m2.bias', 'model.vision_tower.vision_tower.blocks.37.no
+rm2.weight', 'model.vision_tower.vision_tower.blocks.19
+.norm1.weight', 'model.vision_tower.vision_tower.blocks
+.34.norm1.weight', 'model.vision_tower.vision_tower.blo
+cks.27.norm2.weight', 'model.vision_tower.vision_tower.
+blocks.10.mlp.fc1.bias', 'model.vision_tower.vision_tow
+er.blocks.21.attn.proj.bias', 'model.vision_tower.visio
+n_tower.blocks.3.mlp.fc1.bias', 'model.vision_tower.vis
+ion_tower.blocks.8.mlp.fc2.weight', 'model.vision_tower
+.vision_tower.blocks.20.mlp.fc2.weight', 'model.vision_
+tower.vision_tower.blocks.29.mlp.fc2.weight', 'model.vi
+sion_tower.vision_tower.blocks.17.mlp.fc2.bias', 'model
+.vision_tower.vision_tower.blocks.29.attn.proj.bias', '
+model.vision_tower.vision_tower.blocks.8.mlp.fc1.bias',
+ 'model.vision_tower.vision_tower.blocks.13.norm1.weigh
+t', 'model.vision_tower.vision_tower.blocks.27.attn.pro
+j.bias', 'model.vision_tower.vision_tower.blocks.36.mlp
+.fc2.bias', 'model.vision_tower.vision_tower.blocks.15.
+norm1.weight', 'model.vision_tower.vision_tower.blocks.
+8.norm1.weight', 'model.vision_tower.vision_tower.block
+s.11.mlp.fc1.weight', 'model.vision_tower.vision_tower.
+blocks.23.norm2.bias', 'model.vision_tower.vision_tower
+.blocks.33.mlp.fc2.weight', 'model.vision_tower.vision_
+tower.blocks.5.mlp.fc2.weight', 'model.vision_tower.vis
+ion_tower.blocks.28.attn.proj.weight', 'model.vision_to
+wer.vision_tower.blocks.31.mlp.fc2.bias', 'model.vision
+_tower.vision_tower.blocks.9.attn.v_bias', 'model.visio
+n_tower.vision_tower.blocks.16.attn.proj.bias', 'model.
+vision_tower.vision_tower.blocks.9.norm2.bias', 'model.
+vision_tower.vision_tower.blocks.3.mlp.fc1.weight', 'mo
+del.vision_tower.vision_tower.blocks.16.mlp.fc1.weight'
+, 'model.vision_tower.vision_tower.blocks.12.norm1.bias
+', 'model.vision_tower.vision_tower.blocks.20.mlp.fc2.b
+ias', 'model.vision_tower.vision_tower.blocks.37.attn.v
+_bias', 'model.vision_tower.vision_tower.blocks.18.attn
+.q_bias', 'model.vision_tower.vision_tower.blocks.10.at
+tn.proj.bias', 'model.vision_tower.vision_tower.blocks.
+21.mlp.fc1.weight', 'model.vision_tower.vision_tower.bl
+ocks.38.norm1.bias', 'model.vision_tower.vision_tower.b
+locks.12.attn.q_bias', 'model.vision_tower.vision_tower
+.blocks.1.attn.qkv.weight', 'model.vision_tower.vision_
+tower.blocks.10.norm2.weight', 'model.vision_tower.visi
+on_tower.blocks.16.norm2.bias', 'model.vision_tower.vis
+ion_tower.blocks.13.attn.qkv.weight', 'model.vision_tow
+er.vision_tower.blocks.6.attn.v_bias', 'model.vision_to
+wer.vision_tower.blocks.38.mlp.fc2.bias', 'model.vision
+_tower.vision_tower.blocks.22.mlp.fc2.weight', 'model.v
+ision_tower.vision_tower.blocks.18.mlp.fc2.weight', 'mo
+del.vision_tower.vision_tower.blocks.11.attn.v_bias', '
+model.vision_tower.vision_tower.blocks.21.attn.proj.wei
+ght', 'model.vision_tower.vision_tower.blocks.26.attn.p
+roj.bias', 'model.vision_tower.vision_tower.blocks.23.a
+ttn.qkv.weight', 'model.vision_tower.vision_tower.block
+s.16.attn.q_bias', 'model.vision_tower.vision_tower.blo
+cks.34.attn.q_bias', 'model.vision_tower.vision_tower.b
+locks.27.mlp.fc1.bias', 'model.vision_tower.vision_towe
+r.blocks.8.attn.q_bias', 'model.vision_tower.vision_tow
+er.blocks.7.attn.q_bias', 'model.vision_tower.vision_to
+wer.blocks.19.attn.qkv.weight', 'model.vision_tower.vis
+ion_tower.blocks.8.mlp.fc2.bias', 'model.vision_tower.v
+ision_tower.blocks.25.mlp.fc1.weight', 'model.vision_to
+wer.vision_tower.blocks.14.mlp.fc1.weight', 'model.visi
+on_tower.vision_tower.blocks.14.attn.v_bias', 'model.vi
+sion_tower.vision_tower.patch_embed.proj.bias', 'model.
+vision_tower.vision_tower.blocks.25.norm2.weight', 'mod
+el.vision_tower.vision_tower.blocks.26.attn.q_bias', 'm
+odel.vision_tower.vision_tower.blocks.24.norm1.weight',
+ 'model.vision_tower.vision_tower.blocks.11.attn.qkv.we
+ight', 'model.vision_tower.vision_tower.blocks.20.attn.
+qkv.weight', 'model.vision_tower.vision_tower.blocks.22
+.mlp.fc2.bias', 'model.vision_tower.vision_tower.blocks
+.21.attn.qkv.weight', 'model.vision_tower.vision_tower.
+blocks.24.norm1.bias', 'model.vision_tower.vision_tower
+.blocks.31.mlp.fc2.weight', 'model.vision_tower.vision_
+tower.blocks.19.norm2.weight', 'model.vision_tower.visi
+on_tower.blocks.3.attn.q_bias', 'model.vision_tower.vis
+ion_tower.pos_embed', 'model.vision_tower.vision_tower.
+blocks.2.attn.proj.bias', 'model.vision_tower.vision_to
+wer.blocks.20.norm1.weight', 'model.vision_tower.vision
+_tower.blocks.35.attn.proj.weight', 'model.vision_tower
+.vision_tower.blocks.14.mlp.fc1.bias', 'model.vision_to
+wer.vision_tower.blocks.11.mlp.fc2.bias', 'model.vision
+_tower.vision_tower.blocks.12.attn.qkv.weight', 'model.
+vision_tower.vision_tower.blocks.31.attn.qkv.weight', '
+model.vision_tower.vision_tower.blocks.9.mlp.fc1.weight
+', 'model.vision_tower.vision_tower.blocks.23.mlp.fc1.w
+eight', 'model.vision_tower.vision_tower.blocks.25.mlp.
+fc1.bias', 'model.vision_tower.vision_tower.blocks.8.no
+rm2.weight', 'model.vision_tower.vision_tower.blocks.37
+.mlp.fc1.weight', 'model.vision_tower.vision_tower.bloc
+ks.22.attn.v_bias', 'model.vision_tower.vision_tower.bl
+ocks.38.mlp.fc2.weight', 'model.vision_tower.vision_tow
+er.blocks.12.attn.proj.weight', 'model.vision_tower.vis
+ion_tower.blocks.18.attn.proj.bias', 'model.vision_towe
+r.vision_tower.blocks.19.attn.q_bias', 'model.vision_to
+wer.vision_tower.blocks.38.attn.v_bias', 'model.vision_
+tower.vision_tower.blocks.15.attn.qkv.weight', 'model.v
+ision_tower.vision_tower.blocks.11.attn.proj.weight', '
+model.vision_tower.vision_tower.blocks.24.attn.proj.wei
+ght', 'model.vision_tower.vision_tower.blocks.12.mlp.fc
+2.bias', 'model.vision_tower.vision_tower.blocks.30.att
+n.v_bias', 'model.vision_tower.vision_tower.blocks.36.n
+orm2.bias', 'model.vision_tower.vision_tower.blocks.34.
+mlp.fc2.weight', 'model.vision_tower.vision_tower.block
+s.34.norm1.bias', 'model.vision_tower.vision_tower.bloc
+ks.2.attn.v_bias', 'model.vision_tower.vision_tower.blo
+cks.7.norm1.weight', 'model.vision_tower.vision_tower.b
+locks.23.mlp.fc2.bias', 'model.vision_tower.vision_towe
+r.blocks.31.norm1.weight', 'model.vision_tower.vision_t
+ower.blocks.0.mlp.fc1.bias', 'model.vision_tower.vision
+_tower.blocks.16.attn.qkv.weight', 'model.vision_tower.
+vision_tower.blocks.6.mlp.fc2.bias', 'model.vision_towe
+r.vision_tower.blocks.4.norm2.weight', 'model.vision_to
+wer.vision_tower.blocks.32.attn.proj.bias', 'model.visi
+on_tower.vision_tower.blocks.30.norm1.bias', 'model.vis
+ion_tower.vision_tower.blocks.18.norm1.bias', 'model.vi
+sion_tower.vision_tower.blocks.12.norm1.weight', 'model
+.vision_tower.vision_tower.blocks.29.attn.q_bias', 'mod
+el.vision_tower.vision_tower.blocks.28.attn.proj.bias',
+ 'model.vision_tower.vision_tower.blocks.37.norm1.weigh
+t', 'model.vision_tower.vision_tower.blocks.2.attn.proj
+.weight', 'model.vision_tower.vision_tower.blocks.23.no
+rm1.bias', 'model.vision_tower.vision_tower.blocks.36.a
+ttn.proj.bias', 'model.vision_tower.vision_tower.blocks
+.10.norm1.bias', 'model.vision_tower.vision_tower.block
+s.16.norm1.bias', 'model.vision_tower.vision_tower.bloc
+ks.6.attn.q_bias', 'model.vision_tower.vision_tower.blo
+cks.34.mlp.fc1.weight', 'model.vision_tower.vision_towe
+r.blocks.31.attn.proj.bias', 'model.vision_tower.vision
+_tower.blocks.23.attn.proj.weight', 'model.vision_tower
+.vision_tower.blocks.10.mlp.fc2.weight', 'model.vision_
+tower.vision_tower.blocks.17.norm1.weight', 'model.visi
+on_tower.vision_tower.blocks.20.mlp.fc1.weight', 'model
+.vision_tower.vision_tower.blocks.20.attn.q_bias', 'mod
+el.vision_tower.vision_tower.blocks.5.attn.proj.bias',
+'model.vision_tower.vision_tower.blocks.15.norm1.bias',
+ 'model.vision_tower.vision_tower.blocks.1.norm2.bias',
+ 'model.vision_tower.vision_tower.blocks.7.attn.qkv.wei
+ght', 'model.vision_tower.vision_tower.blocks.30.mlp.fc
+2.bias', 'model.vision_tower.vision_tower.blocks.6.mlp.
+fc1.bias', 'model.vision_tower.vision_tower.blocks.6.ml
+p.fc1.weight', 'model.vision_tower.vision_tower.blocks.
+1.attn.proj.weight', 'model.vision_tower.vision_tower.b
+locks.17.norm2.bias', 'model.vision_tower.vision_tower.
+blocks.19.mlp.fc1.weight', 'model.vision_tower.vision_t
+ower.blocks.27.mlp.fc2.weight', 'model.vision_tower.vis
+ion_tower.blocks.30.norm1.weight', 'model.vision_tower.
+vision_tower.blocks.5.attn.proj.weight', 'model.vision_
+tower.vision_tower.blocks.3.norm1.bias', 'model.vision_
+tower.vision_tower.blocks.20.attn.proj.weight', 'model.
+vision_tower.vision_tower.blocks.24.norm2.weight', 'mod
+el.vision_tower.vision_tower.blocks.15.mlp.fc2.weight',
+ 'model.vision_tower.vision_tower.blocks.25.norm1.bias'
+, 'model.vision_tower.vision_tower.blocks.27.mlp.fc1.we
+ight', 'model.vision_tower.vision_tower.blocks.28.mlp.f
+c1.weight', 'model.vision_tower.vision_tower.blocks.35.
+norm2.bias', 'model.vision_tower.vision_tower.blocks.15
+.attn.v_bias', 'model.vision_tower.vision_tower.blocks.
+17.attn.qkv.weight', 'model.vision_tower.vision_tower.b
+locks.26.attn.v_bias', 'model.vision_tower.vision_tower
+.blocks.38.norm1.weight', 'model.vision_tower.vision_to
+wer.blocks.35.attn.qkv.weight', 'model.vision_tower.vis
+ion_tower.blocks.0.mlp.fc1.weight', 'model.vision_tower
+.vision_tower.blocks.22.mlp.fc1.weight', 'model.vision_
+tower.vision_tower.blocks.26.mlp.fc1.bias', 'model.visi
+on_tower.vision_tower.blocks.1.mlp.fc1.bias', 'model.vi
+sion_tower.vision_tower.blocks.17.attn.proj.bias', 'mod
+el.vision_tower.vision_tower.blocks.9.attn.q_bias', 'mo
+del.vision_tower.vision_tower.blocks.4.mlp.fc1.weight',
+ 'model.vision_tower.vision_tower.blocks.18.norm2.weigh
+t']
+- This IS expected if you are initializing LlavaLlamaAt
+tForCausalLM from the checkpoint of a model trained on
+another task or with another architecture (e.g. initial
+izing a BertForSequenceClassification model from a Bert
+ForPreTraining model).
+- This IS NOT expected if you are initializing LlavaLla
+maAttForCausalLM from the checkpoint of a model that yo
+u expect to be exactly identical (initializing a BertFo
+rSequenceClassification model from a BertForSequenceCla
+ssification model).
+Loading checkpoint shards: 100%|███████████████████████
+██████████████████████████████████████| 2/2 [00:19<00:0
+0,  9.98s/it]
+Some weights of the model checkpoint at model_zoo/navid
+-7b-full-224-video-fps-1-grid-2-r2r-rxr-training-split
+were not used when initializing LlavaLlamaAttForCausalL
+M: ['model.vision_tower.vision_tower.blocks.4.mlp.fc2.w
+eight', 'model.vision_tower.vision_tower.blocks.0.norm1
+.bias', 'model.vision_tower.vision_tower.blocks.32.norm
+1.weight', 'model.vision_tower.vision_tower.blocks.35.n
+orm2.weight', 'model.vision_tower.vision_tower.blocks.2
+0.mlp.fc2.weight', 'model.vision_tower.vision_tower.blo
+cks.19.attn.q_bias', 'model.vision_tower.vision_tower.b
+locks.38.attn.q_bias', 'model.vision_tower.vision_tower
+.blocks.21.attn.proj.weight', 'model.vision_tower.visio
+n_tower.blocks.31.attn.v_bias', 'model.vision_tower.vis
+ion_tower.blocks.15.norm2.bias', 'model.vision_tower.vi
+sion_tower.blocks.35.mlp.fc1.weight', 'model.vision_tow
+er.vision_tower.blocks.27.attn.proj.weight', 'model.vis
+ion_tower.vision_tower.blocks.19.mlp.fc2.bias', 'model.
+vision_tower.vision_tower.blocks.31.mlp.fc1.weight', 'm
+odel.vision_tower.vision_tower.blocks.35.attn.qkv.weigh
+t', 'model.vision_tower.vision_tower.blocks.7.norm1.wei
+ght', 'model.vision_tower.vision_tower.blocks.28.norm2.
+weight', 'model.vision_tower.vision_tower.blocks.7.norm
+1.bias', 'model.vision_tower.vision_tower.blocks.15.mlp
+.fc1.bias', 'model.vision_tower.vision_tower.blocks.10.
+norm1.weight', 'model.vision_tower.vision_tower.blocks.
+26.mlp.fc1.bias', 'model.vision_tower.vision_tower.bloc
+ks.25.norm2.bias', 'model.vision_tower.vision_tower.blo
+cks.32.attn.proj.bias', 'model.vision_tower.vision_towe
+r.blocks.17.mlp.fc2.weight', 'model.vision_tower.vision
+_tower.blocks.27.norm1.weight', 'model.vision_tower.vis
+ion_tower.blocks.33.attn.proj.weight', 'model.vision_to
+wer.vision_tower.blocks.37.attn.qkv.weight', 'model.vis
+ion_tower.vision_tower.blocks.35.norm2.bias', 'model.vi
+sion_tower.vision_tower.blocks.16.mlp.fc2.bias', 'model
+.vision_tower.vision_tower.blocks.3.norm2.weight', 'mod
+el.vision_tower.vision_tower.blocks.18.norm1.bias', 'mo
+del.vision_tower.vision_tower.blocks.10.attn.proj.weigh
+t', 'model.vision_tower.vision_tower.blocks.34.mlp.fc2.
+bias', 'model.vision_tower.vision_tower.blocks.6.attn.q
+_bias', 'model.vision_tower.vision_tower.blocks.22.attn
+.proj.bias', 'model.vision_tower.vision_tower.blocks.1.
+norm2.weight', 'model.vision_tower.vision_tower.blocks.
+23.norm2.weight', 'model.vision_tower.vision_tower.bloc
+ks.4.mlp.fc1.weight', 'model.vision_tower.vision_tower.
+blocks.12.attn.qkv.weight', 'model.vision_tower.vision_
+tower.patch_embed.proj.bias', 'model.vision_tower.visio
+n_tower.blocks.33.mlp.fc2.weight', 'model.vision_tower.
+vision_tower.blocks.1.attn.v_bias', 'model.vision_tower
+.vision_tower.blocks.19.mlp.fc1.weight', 'model.vision_
+tower.vision_tower.blocks.16.norm2.bias', 'model.vision
+_tower.vision_tower.blocks.4.norm1.weight', 'model.visi
+on_tower.vision_tower.blocks.3.mlp.fc1.bias', 'model.vi
+sion_tower.vision_tower.blocks.12.norm1.bias', 'model.v
+ision_tower.vision_tower.blocks.9.attn.q_bias', 'model.
+vision_tower.vision_tower.blocks.6.attn.v_bias', 'model
+.vision_tower.vision_tower.blocks.34.mlp.fc2.weight', '
+model.vision_tower.vision_tower.blocks.14.mlp.fc1.bias'
+, 'model.vision_tower.vision_tower.blocks.33.norm2.bias
+', 'model.vision_tower.vision_tower.blocks.33.attn.q_bi
+as', 'model.vision_tower.vision_tower.blocks.20.attn.q_
+bias', 'model.vision_tower.vision_tower.blocks.32.mlp.f
+c2.bias', 'model.vision_tower.vision_tower.blocks.35.at
+tn.proj.bias', 'model.vision_tower.vision_tower.blocks.
+27.norm2.weight', 'model.vision_tower.vision_tower.bloc
+ks.37.mlp.fc2.weight', 'model.vision_tower.vision_tower
+.blocks.11.norm1.weight', 'model.vision_tower.vision_to
+wer.blocks.14.mlp.fc2.bias', 'model.vision_tower.vision
+_tower.blocks.24.mlp.fc1.weight', 'model.vision_tower.v
+ision_tower.blocks.5.attn.v_bias', 'model.vision_tower.
+vision_tower.blocks.6.norm2.weight', 'model.vision_towe
+r.vision_tower.blocks.9.mlp.fc2.weight', 'model.vision_
+tower.vision_tower.blocks.1.attn.proj.weight', 'model.v
+ision_tower.vision_tower.blocks.18.mlp.fc2.bias', 'mode
+l.vision_tower.vision_tower.blocks.8.attn.v_bias', 'mod
+el.vision_tower.vision_tower.blocks.1.norm2.bias', 'mod
+el.vision_tower.vision_tower.blocks.5.mlp.fc1.weight',
+'model.vision_tower.vision_tower.blocks.10.norm1.bias',
+ 'model.vision_tower.vision_tower.blocks.30.attn.qkv.we
+ight', 'model.vision_tower.vision_tower.blocks.15.norm2
+.weight', 'model.vision_tower.vision_tower.blocks.31.no
+rm2.bias', 'model.vision_tower.vision_tower.blocks.4.at
+tn.qkv.weight', 'model.vision_tower.vision_tower.blocks
+.13.norm2.weight', 'model.vision_tower.vision_tower.blo
+cks.23.mlp.fc1.bias', 'model.vision_tower.vision_tower.
+blocks.16.mlp.fc1.weight', 'model.vision_tower.vision_t
+ower.blocks.5.attn.qkv.weight', 'model.vision_tower.vis
+ion_tower.blocks.24.attn.proj.bias', 'model.vision_towe
+r.vision_tower.blocks.34.attn.proj.bias', 'model.vision
+_tower.vision_tower.blocks.27.norm1.bias', 'model.visio
+n_tower.vision_tower.blocks.5.mlp.fc2.bias', 'model.vis
+ion_tower.vision_tower.blocks.19.attn.proj.weight', 'mo
+del.vision_tower.vision_tower.blocks.27.mlp.fc1.bias',
+'model.vision_tower.vision_tower.blocks.0.attn.qkv.weig
+ht', 'model.vision_tower.vision_tower.blocks.11.attn.qk
+v.weight', 'model.vision_tower.vision_tower.blocks.12.a
+ttn.v_bias', 'model.vision_tower.vision_tower.blocks.2.
+mlp.fc2.weight', 'model.vision_tower.vision_tower.block
+s.28.norm2.bias', 'model.vision_tower.vision_tower.bloc
+ks.30.norm2.bias', 'model.vision_tower.vision_tower.blo
+cks.2.mlp.fc1.weight', 'model.vision_tower.vision_tower
+.blocks.27.mlp.fc2.bias', 'model.vision_tower.vision_to
+wer.blocks.37.mlp.fc2.bias', 'model.vision_tower.vision
+_tower.blocks.19.attn.qkv.weight', 'model.vision_tower.
+vision_tower.blocks.0.mlp.fc2.weight', 'model.vision_to
+wer.vision_tower.blocks.10.mlp.fc2.weight', 'model.visi
+on_tower.vision_tower.blocks.18.mlp.fc1.bias', 'model.v
+ision_tower.vision_tower.blocks.25.attn.v_bias', 'model
+.vision_tower.vision_tower.blocks.16.attn.qkv.weight',
+'model.vision_tower.vision_tower.blocks.19.attn.v_bias'
+, 'model.vision_tower.vision_tower.blocks.38.norm1.weig
+ht', 'model.vision_tower.vision_tower.blocks.23.attn.v_
+bias', 'model.vision_tower.vision_tower.blocks.12.mlp.f
+c2.bias', 'model.vision_tower.vision_tower.blocks.8.att
+n.qkv.weight', 'model.vision_tower.vision_tower.blocks.
+25.attn.proj.bias', 'model.vision_tower.vision_tower.bl
+ocks.19.mlp.fc1.bias', 'model.vision_tower.vision_tower
+.blocks.28.mlp.fc1.weight', 'model.vision_tower.vision_
+tower.blocks.7.norm2.weight', 'model.vision_tower.visio
+n_tower.blocks.33.mlp.fc1.bias', 'model.vision_tower.vi
+sion_tower.blocks.0.attn.proj.bias', 'model.vision_towe
+r.vision_tower.blocks.15.mlp.fc1.weight', 'model.vision
+_tower.vision_tower.blocks.9.norm2.weight', 'model.visi
+on_tower.vision_tower.blocks.1.attn.q_bias', 'model.vis
+ion_tower.vision_tower.blocks.28.attn.q_bias', 'model.v
+ision_tower.vision_tower.blocks.37.norm2.bias', 'model.
+vision_tower.vision_tower.blocks.2.mlp.fc1.bias', 'mode
+l.vision_tower.vision_tower.blocks.34.attn.proj.weight'
+, 'model.vision_tower.vision_tower.blocks.25.attn.q_bia
+s', 'model.vision_tower.vision_tower.blocks.26.attn.q_b
+ias', 'model.vision_tower.vision_tower.blocks.23.norm2.
+bias', 'model.vision_tower.vision_tower.blocks.21.norm2
+.bias', 'model.vision_tower.vision_tower.blocks.2.attn.
+proj.bias', 'model.vision_tower.vision_tower.blocks.21.
+norm1.weight', 'model.vision_tower.vision_tower.blocks.
+12.norm2.bias', 'model.vision_tower.vision_tower.blocks
+.14.attn.q_bias', 'model.vision_tower.vision_tower.bloc
+ks.11.attn.q_bias', 'model.vision_tower.vision_tower.bl
+ocks.8.mlp.fc2.bias', 'model.vision_tower.vision_tower.
+blocks.36.attn.proj.bias', 'model.vision_tower.vision_t
+ower.blocks.15.attn.qkv.weight', 'model.vision_tower.vi
+sion_tower.blocks.16.norm1.bias', 'model.vision_tower.v
+ision_tower.blocks.37.attn.v_bias', 'model.vision_tower
+.vision_tower.blocks.0.attn.proj.weight', 'model.vision
+_tower.vision_tower.blocks.8.norm2.weight', 'model.visi
+on_tower.vision_tower.blocks.27.mlp.fc2.weight', 'model
+.vision_tower.vision_tower.blocks.26.norm2.bias', 'mode
+l.vision_tower.vision_tower.blocks.7.attn.qkv.weight',
+'model.vision_tower.vision_tower.blocks.28.attn.proj.bi
+as', 'model.vision_tower.vision_tower.blocks.13.mlp.fc1
+.weight', 'model.vision_tower.vision_tower.blocks.21.at
+tn.qkv.weight', 'model.vision_tower.vision_tower.blocks
+.11.attn.proj.weight', 'model.vision_tower.vision_tower
+.blocks.11.norm2.weight', 'model.vision_tower.vision_to
+wer.blocks.30.norm1.bias', 'model.vision_tower.vision_t
+ower.blocks.4.norm2.bias', 'model.vision_tower.vision_t
+ower.blocks.5.attn.q_bias', 'model.vision_tower.vision_
+tower.blocks.12.mlp.fc1.weight', 'model.vision_tower.vi
+sion_tower.blocks.6.mlp.fc1.weight', 'model.vision_towe
+r.vision_tower.blocks.7.attn.proj.bias', 'model.vision_
+tower.vision_tower.blocks.26.mlp.fc2.weight', 'model.vi
+sion_tower.vision_tower.blocks.30.attn.q_bias', 'model.
+vision_tower.vision_tower.blocks.3.mlp.fc2.weight', 'mo
+del.vision_tower.vision_tower.blocks.35.norm1.bias', 'm
+odel.vision_tower.vision_tower.blocks.18.norm1.weight',
+ 'model.vision_tower.vision_tower.blocks.18.mlp.fc2.wei
+ght', 'model.vision_tower.vision_tower.blocks.13.attn.q
+kv.weight', 'model.vision_tower.vision_tower.blocks.2.n
+orm1.weight', 'model.vision_tower.vision_tower.blocks.3
+2.attn.v_bias', 'model.vision_tower.vision_tower.blocks
+.21.norm1.bias', 'model.vision_tower.vision_tower.block
+s.26.attn.qkv.weight', 'model.vision_tower.vision_tower
+.blocks.14.attn.qkv.weight', 'model.vision_tower.vision
+_tower.blocks.34.norm2.weight', 'model.vision_tower.vis
+ion_tower.blocks.22.attn.q_bias', 'model.vision_tower.v
+ision_tower.blocks.9.attn.proj.weight', 'model.vision_t
+ower.vision_tower.blocks.32.attn.qkv.weight', 'model.vi
+sion_tower.vision_tower.blocks.20.mlp.fc1.bias', 'model
+.vision_tower.vision_tower.blocks.10.attn.qkv.weight',
+'model.vision_tower.vision_tower.blocks.37.mlp.fc1.weig
+ht', 'model.vision_tower.vision_tower.blocks.8.norm2.bi
+as', 'model.vision_tower.vision_tower.blocks.16.attn.pr
+oj.bias', 'model.vision_tower.vision_tower.blocks.13.at
+tn.proj.bias', 'model.vision_tower.vision_tower.blocks.
+21.attn.proj.bias', 'model.vision_tower.vision_tower.bl
+ocks.33.norm1.bias', 'model.vision_tower.vision_tower.b
+locks.25.mlp.fc1.weight', 'model.vision_tower.vision_to
+wer.pos_embed', 'model.vision_tower.vision_tower.blocks
+.14.norm1.bias', 'model.vision_tower.vision_tower.block
+s.13.attn.q_bias', 'model.vision_tower.vision_tower.blo
+cks.20.attn.v_bias', 'model.vision_tower.vision_tower.b
+locks.15.mlp.fc2.weight', 'model.vision_tower.vision_to
+wer.blocks.32.mlp.fc2.weight', 'model.vision_tower.visi
+on_tower.blocks.37.attn.q_bias', 'model.vision_tower.vi
+sion_tower.blocks.34.attn.qkv.weight', 'model.vision_to
+wer.vision_tower.blocks.9.attn.v_bias', 'model.vision_t
+ower.vision_tower.blocks.35.attn.q_bias', 'model.vision
+_tower.vision_tower.blocks.13.attn.v_bias', 'model.visi
+on_tower.vision_tower.blocks.8.norm1.bias', 'model.visi
+on_tower.vision_tower.blocks.13.norm1.bias', 'model.vis
+ion_tower.vision_tower.blocks.27.mlp.fc1.weight', 'mode
+l.vision_tower.vision_tower.blocks.3.attn.proj.weight',
+ 'model.vision_tower.vision_tower.blocks.11.norm2.bias'
+, 'model.vision_tower.vision_tower.blocks.4.norm2.weigh
+t', 'model.vision_tower.vision_tower.blocks.9.norm2.bia
+s', 'model.vision_tower.vision_tower.blocks.14.norm2.we
+ight', 'model.vision_tower.vision_tower.blocks.36.attn.
+v_bias', 'model.vision_tower.vision_tower.blocks.25.nor
+m1.weight', 'model.vision_tower.vision_tower.blocks.14.
+attn.proj.weight', 'model.vision_tower.vision_tower.blo
+cks.1.attn.qkv.weight', 'model.vision_tower.vision_towe
+r.blocks.33.attn.v_bias', 'model.vision_tower.vision_to
+wer.blocks.15.norm1.bias', 'model.vision_tower.vision_t
+ower.blocks.4.norm1.bias', 'model.vision_tower.vision_t
+ower.blocks.8.mlp.fc1.weight', 'model.vision_tower.visi
+on_tower.blocks.10.mlp.fc2.bias', 'model.vision_tower.v
+ision_tower.blocks.25.norm2.weight', 'model.vision_towe
+r.vision_tower.blocks.2.mlp.fc2.bias', 'model.vision_to
+wer.vision_tower.blocks.18.norm2.weight', 'model.vision
+_tower.vision_tower.blocks.37.attn.proj.bias', 'model.v
+ision_tower.vision_tower.blocks.7.attn.v_bias', 'model.
+vision_tower.vision_tower.blocks.1.attn.proj.bias', 'mo
+del.vision_tower.vision_tower.blocks.27.attn.v_bias', '
+model.vision_tower.vision_tower.blocks.20.attn.proj.wei
+ght', 'model.vision_tower.vision_tower.blocks.38.mlp.fc
+1.bias', 'model.vision_tower.vision_tower.blocks.17.nor
+m2.bias', 'model.vision_tower.vision_tower.blocks.11.ml
+p.fc2.weight', 'model.vision_tower.vision_tower.blocks.
+29.attn.proj.bias', 'model.vision_tower.vision_tower.bl
+ocks.10.attn.q_bias', 'model.vision_tower.vision_tower.
+blocks.24.norm2.weight', 'model.vision_tower.vision_tow
+er.blocks.3.norm2.bias', 'model.vision_tower.vision_tow
+er.blocks.23.attn.qkv.weight', 'model.vision_tower.visi
+on_tower.blocks.26.norm1.bias', 'model.vision_tower.vis
+ion_tower.blocks.22.mlp.fc2.bias', 'model.vision_tower.
+vision_tower.blocks.14.attn.v_bias', 'model.vision_towe
+r.vision_tower.blocks.35.mlp.fc2.bias', 'model.vision_t
+ower.vision_tower.blocks.10.mlp.fc1.bias', 'model.visio
+n_tower.vision_tower.blocks.21.mlp.fc2.weight', 'model.
+vision_tower.vision_tower.blocks.23.attn.proj.bias', 'm
+odel.vision_tower.vision_tower.blocks.38.norm1.bias', '
+model.vision_tower.vision_tower.blocks.5.norm1.weight',
+ 'model.vision_tower.vision_tower.blocks.17.norm2.weigh
+t', 'model.vision_tower.vision_tower.blocks.3.attn.v_bi
+as', 'model.vision_tower.vision_tower.blocks.20.attn.pr
+oj.bias', 'model.vision_tower.vision_tower.blocks.14.at
+tn.proj.bias', 'model.vision_tower.vision_tower.blocks.
+28.attn.v_bias', 'model.vision_tower.vision_tower.block
+s.32.attn.proj.weight', 'model.vision_tower.vision_towe
+r.blocks.26.norm1.weight', 'model.vision_tower.vision_t
+ower.blocks.30.mlp.fc1.bias', 'model.vision_tower.visio
+n_tower.blocks.20.mlp.fc2.bias', 'model.vision_tower.vi
+sion_tower.blocks.0.mlp.fc2.bias', 'model.vision_tower.
+vision_tower.patch_embed.proj.weight', 'model.vision_to
+wer.vision_tower.blocks.23.attn.proj.weight', 'model.vi
+sion_tower.vision_tower.blocks.23.norm1.bias', 'model.v
+ision_tower.vision_tower.blocks.38.mlp.fc2.bias', 'mode
+l.vision_tower.vision_tower.blocks.38.mlp.fc2.weight',
+'model.vision_tower.vision_tower.blocks.1.mlp.fc2.weigh
+t', 'model.vision_tower.vision_tower.blocks.17.mlp.fc2.
+bias', 'model.vision_tower.vision_tower.blocks.9.norm1.
+weight', 'model.vision_tower.vision_tower.blocks.7.mlp.
+fc1.bias', 'model.vision_tower.vision_tower.blocks.29.m
+lp.fc2.weight', 'model.vision_tower.vision_tower.blocks
+.35.attn.v_bias', 'model.vision_tower.vision_tower.bloc
+ks.14.mlp.fc1.weight', 'model.vision_tower.vision_tower
+.blocks.5.attn.proj.bias', 'model.vision_tower.vision_t
+ower.blocks.0.mlp.fc1.bias', 'model.vision_tower.vision
+_tower.blocks.38.attn.v_bias', 'model.vision_tower.visi
+on_tower.cls_token', 'model.vision_tower.vision_tower.b
+locks.29.mlp.fc1.bias', 'model.vision_tower.vision_towe
+r.blocks.32.norm2.weight', 'model.vision_tower.vision_t
+ower.blocks.7.attn.q_bias', 'model.vision_tower.vision_
+tower.blocks.20.norm2.weight', 'model.vision_tower.visi
+on_tower.blocks.9.norm1.bias', 'model.vision_tower.visi
+on_tower.blocks.22.mlp.fc1.weight', 'model.vision_tower
+.vision_tower.blocks.13.norm1.weight', 'model.vision_to
+wer.vision_tower.blocks.37.mlp.fc1.bias', 'model.vision
+_tower.vision_tower.blocks.19.norm1.bias', 'model.visio
+n_tower.vision_tower.blocks.26.attn.v_bias', 'model.vis
+ion_tower.vision_tower.blocks.6.mlp.fc2.weight', 'model
+.vision_tower.vision_tower.blocks.10.attn.proj.bias', '
+model.vision_tower.vision_tower.blocks.0.mlp.fc1.weight
+', 'model.vision_tower.vision_tower.blocks.24.attn.v_bi
+as', 'model.vision_tower.vision_tower.blocks.17.mlp.fc1
+.bias', 'model.vision_tower.vision_tower.blocks.8.attn.
+proj.weight', 'model.vision_tower.vision_tower.blocks.7
+.mlp.fc1.weight', 'model.vision_tower.vision_tower.bloc
+ks.16.attn.q_bias', 'model.vision_tower.vision_tower.bl
+ocks.13.mlp.fc1.bias', 'model.vision_tower.vision_tower
+.blocks.17.attn.proj.weight', 'model.vision_tower.visio
+n_tower.blocks.18.attn.q_bias', 'model.vision_tower.vis
+ion_tower.blocks.2.attn.q_bias', 'model.vision_tower.vi
+sion_tower.blocks.31.attn.proj.weight', 'model.vision_t
+ower.vision_tower.blocks.4.mlp.fc1.bias', 'model.vision
+_tower.vision_tower.blocks.31.norm1.bias', 'model.visio
+n_tower.vision_tower.blocks.36.norm1.bias', 'model.visi
+on_tower.vision_tower.blocks.28.norm1.weight', 'model.v
+ision_tower.vision_tower.blocks.29.attn.q_bias', 'model
+.vision_tower.vision_tower.blocks.27.attn.proj.bias', '
+model.vision_tower.vision_tower.blocks.30.norm2.weight'
+, 'model.vision_tower.vision_tower.blocks.29.norm1.bias
+', 'model.vision_tower.vision_tower.blocks.24.norm1.bia
+s', 'model.vision_tower.vision_tower.blocks.34.norm1.we
+ight', 'model.vision_tower.vision_tower.blocks.26.mlp.f
+c2.bias', 'model.vision_tower.vision_tower.blocks.11.at
+tn.proj.bias', 'model.vision_tower.vision_tower.blocks.
+22.attn.proj.weight', 'model.vision_tower.vision_tower.
+blocks.29.mlp.fc2.bias', 'model.vision_tower.vision_tow
+er.blocks.3.attn.qkv.weight', 'model.vision_tower.visio
+n_tower.blocks.20.mlp.fc1.weight', 'model.vision_tower.
+vision_tower.blocks.2.attn.proj.weight', 'model.vision_
+tower.vision_tower.blocks.32.norm1.bias', 'model.vision
+_tower.vision_tower.blocks.0.norm2.weight', 'model.visi
+on_tower.vision_tower.blocks.8.attn.proj.bias', 'model.
+vision_tower.vision_tower.blocks.13.mlp.fc2.weight', 'm
+odel.vision_tower.vision_tower.blocks.5.norm1.bias', 'm
+odel.vision_tower.vision_tower.blocks.28.attn.qkv.weigh
+t', 'model.vision_tower.vision_tower.blocks.17.mlp.fc1.
+weight', 'model.vision_tower.vision_tower.blocks.22.nor
+m2.weight', 'model.vision_tower.vision_tower.blocks.21.
+norm2.weight', 'model.vision_tower.vision_tower.blocks.
+32.mlp.fc1.weight', 'model.vision_tower.vision_tower.bl
+ocks.7.mlp.fc2.bias', 'model.vision_tower.vision_tower.
+blocks.25.attn.qkv.weight', 'model.vision_tower.vision_
+tower.blocks.13.attn.proj.weight', 'model.vision_tower.
+vision_tower.blocks.17.norm1.weight', 'model.vision_tow
+er.vision_tower.blocks.28.mlp.fc2.bias', 'model.vision_
+tower.vision_tower.blocks.5.norm2.weight', 'model.visio
+n_tower.vision_tower.blocks.19.norm1.weight', 'model.vi
+sion_tower.vision_tower.blocks.25.attn.proj.weight', 'm
+odel.vision_tower.vision_tower.blocks.35.attn.proj.weig
+ht', 'model.vision_tower.vision_tower.blocks.1.mlp.fc2.
+bias', 'model.vision_tower.vision_tower.blocks.0.attn.q
+_bias', 'model.vision_tower.vision_tower.blocks.7.norm2
+.bias', 'model.vision_tower.vision_tower.blocks.13.norm
+2.bias', 'model.vision_tower.vision_tower.blocks.19.nor
+m2.bias', 'model.vision_tower.vision_tower.blocks.21.ml
+p.fc1.bias', 'model.vision_tower.vision_tower.blocks.23
+.norm1.weight', 'model.vision_tower.vision_tower.blocks
+.29.attn.v_bias', 'model.vision_tower.vision_tower.bloc
+ks.22.norm1.weight', 'model.vision_tower.vision_tower.b
+locks.36.attn.qkv.weight', 'model.vision_tower.vision_t
+ower.blocks.6.norm1.weight', 'model.vision_tower.vision
+_tower.blocks.16.attn.proj.weight', 'model.vision_tower
+.vision_tower.blocks.33.mlp.fc2.bias', 'model.vision_to
+wer.vision_tower.blocks.34.norm1.bias', 'model.vision_t
+ower.vision_tower.blocks.29.norm2.bias', 'model.vision_
+tower.vision_tower.blocks.3.mlp.fc2.bias', 'model.visio
+n_tower.vision_tower.blocks.24.mlp.fc1.bias', 'model.vi
+sion_tower.vision_tower.blocks.14.norm2.bias', 'model.v
+ision_tower.vision_tower.blocks.26.attn.proj.bias', 'mo
+del.vision_tower.vision_tower.blocks.18.attn.proj.bias'
+, 'model.vision_tower.vision_tower.blocks.18.attn.qkv.w
+eight', 'model.vision_tower.vision_tower.blocks.31.norm
+1.weight', 'model.vision_tower.vision_tower.blocks.31.a
+ttn.proj.bias', 'model.vision_tower.vision_tower.blocks
+.32.attn.q_bias', 'model.vision_tower.vision_tower.bloc
+ks.38.attn.qkv.weight', 'model.vision_tower.vision_towe
+r.blocks.0.norm2.bias', 'model.vision_tower.vision_towe
+r.blocks.18.mlp.fc1.weight', 'model.vision_tower.vision
+_tower.blocks.8.mlp.fc2.weight', 'model.vision_tower.vi
+sion_tower.blocks.19.attn.proj.bias', 'model.vision_tow
+er.vision_tower.blocks.10.norm2.bias', 'model.vision_to
+wer.vision_tower.blocks.26.attn.proj.weight', 'model.vi
+sion_tower.vision_tower.blocks.28.mlp.fc1.bias', 'model
+.vision_tower.vision_tower.blocks.25.norm1.bias', 'mode
+l.vision_tower.vision_tower.blocks.25.mlp.fc2.bias', 'm
+odel.vision_tower.vision_tower.blocks.6.attn.qkv.weight
+', 'model.vision_tower.vision_tower.blocks.24.attn.qkv.
+weight', 'model.vision_tower.vision_tower.blocks.18.nor
+m2.bias', 'model.vision_tower.vision_tower.blocks.2.nor
+m1.bias', 'model.vision_tower.vision_tower.blocks.11.no
+rm1.bias', 'model.vision_tower.vision_tower.blocks.28.a
+ttn.proj.weight', 'model.vision_tower.vision_tower.bloc
+ks.29.attn.proj.weight', 'model.vision_tower.vision_tow
+er.blocks.2.attn.v_bias', 'model.vision_tower.vision_to
+wer.blocks.11.attn.v_bias', 'model.vision_tower.vision_
+tower.blocks.15.attn.proj.weight', 'model.vision_tower.
+vision_tower.blocks.17.attn.q_bias', 'model.vision_towe
+r.vision_tower.blocks.16.mlp.fc2.weight', 'model.vision
+_tower.vision_tower.blocks.9.mlp.fc1.weight', 'model.vi
+sion_tower.vision_tower.blocks.32.norm2.bias', 'model.v
+ision_tower.vision_tower.blocks.9.attn.proj.bias', 'mod
+el.vision_tower.vision_tower.blocks.31.mlp.fc2.bias', '
+model.vision_tower.vision_tower.blocks.19.mlp.fc2.weigh
+t', 'model.vision_tower.vision_tower.blocks.22.attn.qkv
+.weight', 'model.vision_tower.vision_tower.blocks.17.at
+tn.proj.bias', 'model.vision_tower.vision_tower.blocks.
+14.norm1.weight', 'model.vision_tower.vision_tower.bloc
+ks.1.norm1.weight', 'model.vision_tower.vision_tower.bl
+ocks.12.norm2.weight', 'model.vision_tower.vision_tower
+.blocks.38.attn.proj.bias', 'model.vision_tower.vision_
+tower.blocks.34.norm2.bias', 'model.vision_tower.vision
+_tower.blocks.26.mlp.fc1.weight', 'model.vision_tower.v
+ision_tower.blocks.22.mlp.fc2.weight', 'model.vision_to
+wer.vision_tower.blocks.30.mlp.fc2.weight', 'model.visi
+on_tower.vision_tower.blocks.37.norm2.weight', 'model.v
+ision_tower.vision_tower.blocks.9.mlp.fc2.bias', 'model
+.vision_tower.vision_tower.blocks.6.mlp.fc2.bias', 'mod
+el.vision_tower.vision_tower.blocks.15.attn.proj.bias',
+ 'model.vision_tower.vision_tower.blocks.23.mlp.fc1.wei
+ght', 'model.vision_tower.vision_tower.blocks.16.attn.v
+_bias', 'model.vision_tower.vision_tower.blocks.9.mlp.f
+c1.bias', 'model.vision_tower.vision_tower.blocks.24.at
+tn.q_bias', 'model.vision_tower.vision_tower.blocks.10.
+attn.v_bias', 'model.vision_tower.vision_tower.blocks.3
+1.mlp.fc1.bias', 'model.vision_tower.vision_tower.block
+s.11.mlp.fc2.bias', 'model.vision_tower.vision_tower.bl
+ocks.22.norm1.bias', 'model.vision_tower.vision_tower.b
+locks.27.norm2.bias', 'model.vision_tower.vision_tower.
+blocks.23.attn.q_bias', 'model.vision_tower.vision_towe
+r.blocks.20.norm1.bias', 'model.vision_tower.vision_tow
+er.blocks.36.norm1.weight', 'model.vision_tower.vision_
+tower.blocks.6.norm2.bias', 'model.vision_tower.vision_
+tower.blocks.31.mlp.fc2.weight', 'model.vision_tower.vi
+sion_tower.blocks.8.norm1.weight', 'model.vision_tower.
+vision_tower.blocks.12.norm1.weight', 'model.vision_tow
+er.vision_tower.blocks.3.norm1.bias', 'model.vision_tow
+er.vision_tower.blocks.36.mlp.fc2.bias', 'model.vision_
+tower.vision_tower.blocks.38.attn.proj.weight', 'model.
+vision_tower.vision_tower.blocks.15.mlp.fc2.bias', 'mod
+el.vision_tower.vision_tower.blocks.36.attn.q_bias', 'm
+odel.vision_tower.vision_tower.blocks.18.attn.proj.weig
+ht', 'model.vision_tower.vision_tower.blocks.16.norm2.w
+eight', 'model.vision_tower.vision_tower.blocks.24.norm
+1.weight', 'model.vision_tower.vision_tower.blocks.36.a
+ttn.proj.weight', 'model.vision_tower.vision_tower.bloc
+ks.4.attn.proj.bias', 'model.vision_tower.vision_tower.
+blocks.36.mlp.fc1.bias', 'model.vision_tower.vision_tow
+er.blocks.29.norm1.weight', 'model.vision_tower.vision_
+tower.blocks.4.attn.v_bias', 'model.vision_tower.vision
+_tower.blocks.29.mlp.fc1.weight', 'model.vision_tower.v
+ision_tower.blocks.33.attn.qkv.weight', 'model.vision_t
+ower.vision_tower.blocks.6.norm1.bias', 'model.vision_t
+ower.vision_tower.blocks.4.mlp.fc2.bias', 'model.vision
+_tower.vision_tower.blocks.15.attn.v_bias', 'model.visi
+on_tower.vision_tower.blocks.11.mlp.fc1.weight', 'model
+.vision_tower.vision_tower.blocks.0.norm1.weight', 'mod
+el.vision_tower.vision_tower.blocks.38.mlp.fc1.weight',
+ 'model.vision_tower.vision_tower.blocks.4.attn.proj.we
+ight', 'model.vision_tower.vision_tower.blocks.1.mlp.fc
+1.bias', 'model.vision_tower.vision_tower.blocks.15.att
+n.q_bias', 'model.vision_tower.vision_tower.blocks.8.ml
+p.fc1.bias', 'model.vision_tower.vision_tower.blocks.34
+.attn.q_bias', 'model.vision_tower.vision_tower.blocks.
+0.attn.v_bias', 'model.vision_tower.vision_tower.blocks
+.27.attn.qkv.weight', 'model.vision_tower.vision_tower.
+blocks.28.mlp.fc2.weight', 'model.vision_tower.vision_t
+ower.blocks.29.attn.qkv.weight', 'model.vision_tower.vi
+sion_tower.blocks.17.norm1.bias', 'model.vision_tower.v
+ision_tower.blocks.30.norm1.weight', 'model.vision_towe
+r.vision_tower.blocks.30.mlp.fc2.bias', 'model.vision_t
+ower.vision_tower.blocks.30.attn.v_bias', 'model.vision
+_tower.vision_tower.blocks.22.norm2.bias', 'model.visio
+n_tower.vision_tower.blocks.34.mlp.fc1.weight', 'model.
+vision_tower.vision_tower.blocks.21.mlp.fc1.weight', 'm
+odel.vision_tower.vision_tower.blocks.30.attn.proj.bias
+', 'model.vision_tower.vision_tower.blocks.17.attn.qkv.
+weight', 'model.vision_tower.vision_tower.blocks.18.att
+n.v_bias', 'model.vision_tower.vision_tower.blocks.36.m
+lp.fc1.weight', 'model.vision_tower.vision_tower.blocks
+.7.attn.proj.weight', 'model.vision_tower.vision_tower.
+blocks.22.mlp.fc1.bias', 'model.vision_tower.vision_tow
+er.blocks.35.norm1.weight', 'model.vision_tower.vision_
+tower.blocks.24.mlp.fc2.bias', 'model.vision_tower.visi
+on_tower.blocks.12.attn.proj.bias', 'model.vision_tower
+.vision_tower.blocks.29.norm2.weight', 'model.vision_to
+wer.vision_tower.blocks.27.attn.q_bias', 'model.vision_
+tower.vision_tower.blocks.33.norm2.weight', 'model.visi
+on_tower.vision_tower.blocks.31.attn.q_bias', 'model.vi
+sion_tower.vision_tower.blocks.5.mlp.fc1.bias', 'model.
+vision_tower.vision_tower.blocks.11.mlp.fc1.bias', 'mod
+el.vision_tower.vision_tower.blocks.12.attn.proj.weight
+', 'model.vision_tower.vision_tower.blocks.13.mlp.fc2.b
+ias', 'model.vision_tower.vision_tower.blocks.12.mlp.fc
+2.weight', 'model.vision_tower.vision_tower.blocks.25.m
+lp.fc1.bias', 'model.vision_tower.vision_tower.blocks.2
+.norm2.weight', 'model.vision_tower.vision_tower.blocks
+.8.attn.q_bias', 'model.vision_tower.vision_tower.block
+s.12.mlp.fc1.bias', 'model.vision_tower.vision_tower.bl
+ocks.5.mlp.fc2.weight', 'model.vision_tower.vision_towe
+r.blocks.30.mlp.fc1.weight', 'model.vision_tower.vision
+_tower.blocks.24.mlp.fc2.weight', 'model.vision_tower.v
+ision_tower.blocks.36.norm2.weight', 'model.vision_towe
+r.vision_tower.blocks.23.mlp.fc2.bias', 'model.vision_t
+ower.vision_tower.blocks.37.norm1.bias', 'model.vision_
+tower.vision_tower.blocks.9.attn.qkv.weight', 'model.vi
+sion_tower.vision_tower.blocks.15.norm1.weight', 'model
+.vision_tower.vision_tower.blocks.12.attn.q_bias', 'mod
+el.vision_tower.vision_tower.blocks.2.norm2.bias', 'mod
+el.vision_tower.vision_tower.blocks.16.norm1.weight', '
+model.vision_tower.vision_tower.blocks.21.mlp.fc2.bias'
+, 'model.vision_tower.vision_tower.blocks.6.mlp.fc1.bia
+s', 'model.vision_tower.vision_tower.blocks.20.attn.qkv
+.weight', 'model.vision_tower.vision_tower.blocks.21.at
+tn.v_bias', 'model.vision_tower.vision_tower.blocks.7.m
+lp.fc2.weight', 'model.vision_tower.vision_tower.blocks
+.24.norm2.bias', 'model.vision_tower.vision_tower.block
+s.20.norm2.bias', 'model.vision_tower.vision_tower.bloc
+ks.1.norm1.bias', 'model.vision_tower.vision_tower.bloc
+ks.31.norm2.weight', 'model.vision_tower.vision_tower.b
+locks.36.mlp.fc2.weight', 'model.vision_tower.vision_to
+wer.blocks.26.norm2.weight', 'model.vision_tower.vision
+_tower.blocks.14.mlp.fc2.weight', 'model.vision_tower.v
+ision_tower.blocks.31.attn.qkv.weight', 'model.vision_t
+ower.vision_tower.blocks.1.mlp.fc1.weight', 'model.visi
+on_tower.vision_tower.blocks.5.norm2.bias', 'model.visi
+on_tower.vision_tower.blocks.23.mlp.fc2.weight', 'model
+.vision_tower.vision_tower.blocks.16.mlp.fc1.bias', 'mo
+del.vision_tower.vision_tower.blocks.3.attn.q_bias', 'm
+odel.vision_tower.vision_tower.blocks.37.norm1.weight',
+ 'model.vision_tower.vision_tower.blocks.3.attn.proj.bi
+as', 'model.vision_tower.vision_tower.blocks.22.attn.v_
+bias', 'model.vision_tower.vision_tower.blocks.6.attn.p
+roj.bias', 'model.vision_tower.vision_tower.blocks.24.a
+ttn.proj.weight', 'model.vision_tower.vision_tower.bloc
+ks.6.attn.proj.weight', 'model.vision_tower.vision_towe
+r.blocks.21.attn.q_bias', 'model.vision_tower.vision_to
+wer.blocks.38.norm2.weight', 'model.vision_tower.vision
+_tower.blocks.3.norm1.weight', 'model.vision_tower.visi
+on_tower.blocks.38.norm2.bias', 'model.vision_tower.vis
+ion_tower.blocks.2.attn.qkv.weight', 'model.vision_towe
+r.vision_tower.blocks.30.attn.proj.weight', 'model.visi
+on_tower.vision_tower.blocks.32.mlp.fc1.bias', 'model.v
+ision_tower.vision_tower.blocks.4.attn.q_bias', 'model.
+vision_tower.vision_tower.blocks.33.mlp.fc1.weight', 'm
+odel.vision_tower.vision_tower.blocks.17.attn.v_bias',
+'model.vision_tower.vision_tower.blocks.5.attn.proj.wei
+ght', 'model.vision_tower.vision_tower.blocks.28.norm1.
+bias', 'model.vision_tower.vision_tower.blocks.35.mlp.f
+c1.bias', 'model.vision_tower.vision_tower.blocks.34.at
+tn.v_bias', 'model.vision_tower.vision_tower.blocks.35.
+mlp.fc2.weight', 'model.vision_tower.vision_tower.block
+s.10.norm2.weight', 'model.vision_tower.vision_tower.bl
+ocks.33.norm1.weight', 'model.vision_tower.vision_tower
+.blocks.25.mlp.fc2.weight', 'model.vision_tower.vision_
+tower.blocks.20.norm1.weight', 'model.vision_tower.visi
+on_tower.blocks.37.attn.proj.weight', 'model.vision_tow
+er.vision_tower.blocks.19.norm2.weight', 'model.vision_
+tower.vision_tower.blocks.36.norm2.bias', 'model.vision
+_tower.vision_tower.blocks.10.mlp.fc1.weight', 'model.v
+ision_tower.vision_tower.blocks.3.mlp.fc1.weight', 'mod
+el.vision_tower.vision_tower.blocks.34.mlp.fc1.bias', '
+model.vision_tower.vision_tower.blocks.33.attn.proj.bia
+s']
+- This IS expected if you are initializing LlavaLlamaAt
+tForCausalLM from the checkpoint of a model trained on
+another task or with another architecture (e.g. initial
+izing a BertForSequenceClassification model from a Bert
+ForPreTraining model).
+- This IS NOT expected if you are initializing LlavaLla
+maAttForCausalLM from the checkpoint of a model that yo
+u expect to be exactly identical (initializing a BertFo
+rSequenceClassification model from a BertForSequenceCla
+ssification model).
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['no
+rm.weight', 'norm.bias', 'head.weight', 'head.bias', 'b
+locks.39.norm1.weight', 'blocks.39.norm1.bias', 'blocks
+.39.attn.q_bias', 'blocks.39.attn.v_bias', 'blocks.39.a
+ttn.qkv.weight', 'blocks.39.attn.proj.weight', 'blocks.
+39.attn.proj.bias', 'blocks.39.norm2.weight', 'blocks.3
+9.norm2.bias', 'blocks.39.mlp.fc1.weight', 'blocks.39.m
+lp.fc1.bias', 'blocks.39.mlp.fc2.weight', 'blocks.39.ml
+p.fc2.bias'])
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['no
+rm.weight', 'norm.bias', 'head.weight', 'head.bias', 'b
+locks.39.norm1.weight', 'blocks.39.norm1.bias', 'blocks
+.39.attn.q_bias', 'blocks.39.attn.v_bias', 'blocks.39.a
+ttn.qkv.weight', 'blocks.39.attn.proj.weight', 'blocks.
+39.attn.proj.bias', 'blocks.39.norm2.weight', 'blocks.3
+9.norm2.bias', 'blocks.39.mlp.fc1.weight', 'blocks.39.m
+lp.fc1.bias', 'blocks.39.mlp.fc2.weight', 'blocks.39.ml
+p.fc2.bias'])
+Initialization Complete
+r2r-0:   0%|
+                                            | 0/229 [00
+:00<?, ?it/s]I0807 17:16:16.397275 519975 SceneGraph.h:
+93] Created DrawableGroup:
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['no
+rm.weight', 'norm.bias', 'head.weight', 'head.bias', 'b
+locks.39.norm1.weight', 'blocks.39.norm1.bias', 'blocks
+.39.attn.q_bias', 'blocks.39.attn.v_bias', 'blocks.39.a
+ttn.qkv.weight', 'blocks.39.attn.proj.weight', 'blocks.
+39.attn.proj.bias', 'blocks.39.norm2.weight', 'blocks.3
+9.norm2.bias', 'blocks.39.mlp.fc1.weight', 'blocks.39.m
+lp.fc1.bias', 'blocks.39.mlp.fc2.weight', 'blocks.39.ml
+p.fc2.bias'])
+Initialization Complete
+r2r-2:   0%|
+                                            | 0/229 [00
+:00<?, ?it/s]I0807 17:16:19.089442 519977 SceneGraph.h:
+93] Created DrawableGroup:
+Initialization Complete
+r2r-1:   0%|
+                                            | 0/229 [00
+:00<?, ?it/s]I0807 17:16:22.605269 519976 SceneGraph.h:
+93] Created DrawableGroup:
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['no
+rm.weight', 'norm.bias', 'head.weight', 'head.bias', 'b
+locks.39.norm1.weight', 'blocks.39.norm1.bias', 'blocks
+.39.attn.q_bias', 'blocks.39.attn.v_bias', 'blocks.39.a
+ttn.qkv.weight', 'blocks.39.attn.proj.weight', 'blocks.
+39.attn.proj.bias', 'blocks.39.norm2.weight', 'blocks.3
+9.norm2.bias', 'blocks.39.mlp.fc1.weight', 'blocks.39.m
+lp.fc1.bias', 'blocks.39.mlp.fc2.weight', 'blocks.39.ml
+p.fc2.bias'])
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['no
+rm.weight', 'norm.bias', 'head.weight', 'head.bias', 'b
+locks.39.norm1.weight', 'blocks.39.norm1.bias', 'blocks
+.39.attn.q_bias', 'blocks.39.attn.v_bias', 'blocks.39.a
+ttn.qkv.weight', 'blocks.39.attn.proj.weight', 'blocks.
+39.attn.proj.bias', 'blocks.39.norm2.weight', 'blocks.3
+9.norm2.bias', 'blocks.39.mlp.fc1.weight', 'blocks.39.m
+lp.fc1.bias', 'blocks.39.mlp.fc2.weight', 'blocks.39.ml
+p.fc2.bias'])
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['no
+rm.weight', 'norm.bias', 'head.weight', 'head.bias', 'b
+locks.39.norm1.weight', 'blocks.39.norm1.bias', 'blocks
+.39.attn.q_bias', 'blocks.39.attn.v_bias', 'blocks.39.a
+ttn.qkv.weight', 'blocks.39.attn.proj.weight', 'blocks.
+39.attn.proj.bias', 'blocks.39.norm2.weight', 'blocks.3
+9.norm2.bias', 'blocks.39.mlp.fc1.weight', 'blocks.39.m
+lp.fc1.bias', 'blocks.39.mlp.fc2.weight', 'blocks.39.ml
+p.fc2.bias'])
+Initialization Complete
+r2r-3:   0%|
+                                            | 0/229 [00
+:00<?, ?it/s]I0807 17:16:26.580490 519978 SceneGraph.h:
+93] Created DrawableGroup:
+Initialization Complete
+r2r-4:   0%|
+                                            | 0/229 [00
+:00<?, ?it/s]I0807 17:16:27.396006 519979 SceneGraph.h:
+93] Created DrawableGroup:
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['no
+rm.weight', 'norm.bias', 'head.weight', 'head.bias', 'b
+locks.39.norm1.weight', 'blocks.39.norm1.bias', 'blocks
+.39.attn.q_bias', 'blocks.39.attn.v_bias', 'blocks.39.a
+ttn.qkv.weight', 'blocks.39.attn.proj.weight', 'blocks.
+39.attn.proj.bias', 'blocks.39.norm2.weight', 'blocks.3
+9.norm2.bias', 'blocks.39.mlp.fc1.weight', 'blocks.39.m
+lp.fc1.bias', 'blocks.39.mlp.fc2.weight', 'blocks.39.ml
+p.fc2.bias'])
+Initialization Complete
+r2r-7:   0%|
+                                            | 0/229 [00
+:00<?, ?it/s]I0807 17:16:28.410579 519982 SceneGraph.h:
+93] Created DrawableGroup:
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['no
+rm.weight', 'norm.bias', 'head.weight', 'head.bias', 'b
+locks.39.norm1.weight', 'blocks.39.norm1.bias', 'blocks
+.39.attn.q_bias', 'blocks.39.attn.v_bias', 'blocks.39.a
+ttn.qkv.weight', 'blocks.39.attn.proj.weight', 'blocks.
+39.attn.proj.bias', 'blocks.39.norm2.weight', 'blocks.3
+9.norm2.bias', 'blocks.39.mlp.fc1.weight', 'blocks.39.m
+lp.fc1.bias', 'blocks.39.mlp.fc2.weight', 'blocks.39.ml
+p.fc2.bias'])
+Initialization Complete
+r2r-6:   0%|
+                                            | 0/229 [00
+:00<?, ?it/s]I0807 17:16:29.811813 519981 SceneGraph.h:
+93] Created DrawableGroup:
+Initialization Complete
+r2r-5:   0%|
+                                            | 0/229 [00
+:00<?, ?it/s]I0807 17:16:30.393682 519980 SceneGraph.h:
+93] Created DrawableGroup:
+r2r-1:  30%|██████████████████████▉
+                                 | 69/229 [55:01<1:54:5
+3, 43.09s/it]I0807 18:11:23.413017 519976 PhysicsManage
+r.cpp:33] Deconstructing PhysicsManager
+I0807 18:11:23.413055 519976 SemanticScene.h:41] Decons
+tructing SemanticScene
+I0807 18:11:23.415830 519976 SceneManager.h:25] Deconst
+ructing SceneManager
+I0807 18:11:23.415841 519976 SceneGraph.h:26] Deconstru
+cting SceneGraph
+I0807 18:11:23.416266 519976 Sensor.h:87] Deconstructin
+g Sensor
+I0807 18:11:23.421320 519976 Renderer.cpp:34] Deconstru
+cting Renderer
+I0807 18:11:23.421351 519976 WindowlessContext.h:17] De
+constructing WindowlessContext
+I0807 18:11:23.427042 519976 MetadataMediator.cpp:56] M
+etadataMediator::setActiveSceneDatasetName : Old active
+ dataset default changed to default successfully.
+I0807 18:11:23.427390 519976 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Physics Manager) : Proposing JSON name : ./data/def
+ault.physics_config.json from original name : ./data/de
+fault.physics_config.json | This file  does not exist.
+I0807 18:11:23.427448 519976 PhysicsAttributesManager.c
+pp:27] File (./data/default.physics_config.json) not fo
+und, so new default physics manager attributes created
+and registered.
+I0807 18:11:23.427465 519976 AbstractObjectAttributesMa
+nagerBase.h:175] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Making attributes with handle : /
+data/huangtao/VLN_CE_data/scene_datasets/mp3d/X7HyMhZNo
+so/X7HyMhZNoso.glb
+I0807 18:11:23.427475 519976 ManagedContainerBase.cpp:1
+9] ManagedContainerBase::convertFilenameToJSON : Filena
+me : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/X7H
+yMhZNoso/X7HyMhZNoso.glb changed to proposed JSON confi
+guration filename : /data/huangtao/VLN_CE_data/scene_da
+tasets/mp3d/X7HyMhZNoso/X7HyMhZNoso.stage_config.json
+I0807 18:11:23.427486 519976 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Stage) : Proposing JSON name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/X7HyMhZNoso/X7HyMhZNoso.stag
+e_config.json from original name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/X7HyMhZNoso/X7HyMhZNoso.glb
+| This file  does not exist.
+I0807 18:11:23.427582 519976 AbstractObjectAttributesMa
+nagerBase.h:181] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Done making attributes with handl
+e : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/X7Hy
+MhZNoso/X7HyMhZNoso.glb
+I0807 18:11:23.427587 519976 AbstractObjectAttributesMa
+nagerBase.h:188] File (/data/huangtao/VLN_CE_data/scene
+_datasets/mp3d/X7HyMhZNoso/X7HyMhZNoso.glb) exists but
+is not a recognized config filename extension, so new d
+efault Stage attributes created and registered.
+I0807 18:11:23.427598 519976 Simulator.cpp:156] Loading
+ navmesh from /data/huangtao/VLN_CE_data/scene_datasets
+/mp3d/X7HyMhZNoso/X7HyMhZNoso.navmesh
+I0807 18:11:23.427810 519976 Simulator.cpp:158] Loaded.
+I0807 18:11:23.427822 519976 SceneGraph.h:93] Created D
+rawableGroup:
+Renderer: NVIDIA GeForce RTX 4090/PCIe/SSE2 by NVIDIA C
+orporation
+OpenGL version: 4.6.0 NVIDIA 550.90.07
+Using optional features:
+    GL_ARB_ES2_compatibility
+    GL_ARB_direct_state_access
+    GL_ARB_get_texture_sub_image
+    GL_ARB_invalidate_subdata
+    GL_ARB_multi_bind
+    GL_ARB_robustness
+    GL_ARB_separate_shader_objects
+    GL_ARB_texture_filter_anisotropic
+    GL_ARB_texture_storage
+    GL_ARB_texture_storage_multisample
+    GL_ARB_vertex_array_object
+    GL_KHR_debug
+Using driver workarounds:
+    no-forward-compatible-core-context
+    nv-egl-incorrect-gl11-function-pointers
+    no-layout-qualifiers-on-old-glsl
+    nv-zero-context-profile-mask
+    nv-implementation-color-read-format-dsa-broken
+    nv-cubemap-inconsistent-compressed-image-size
+    nv-cubemap-broken-full-compressed-image-query
+    nv-compressed-block-size-in-bits
+I0807 18:11:23.431104 519976 ResourceManager.cpp:234] R
+esourceManager::loadStage : Not loading semantic mesh
+I0807 18:11:23.431116 519976 ResourceManager.cpp:262] R
+esourceManager::loadStage : start load render asset /da
+ta/huangtao/VLN_CE_data/scene_datasets/mp3d/X7HyMhZNoso
+/X7HyMhZNoso.glb.
+I0807 18:11:23.431121 519976 ResourceManager.cpp:569] R
+esourceManager::loadStageInternal : Attempting to load
+stage /data/huangtao/VLN_CE_data/scene_datasets/mp3d/X7
+HyMhZNoso/X7HyMhZNoso.glb
+I0807 18:11:23.431140 519976 ResourceManager.cpp:1119]
+Importing Basis files as BC7 for X7HyMhZNoso.glb
+W0807 18:11:26.183456 519976 Simulator.cpp:248] :
+---
+ The active scene does not contain semantic annotations
+.
+---
+I0807 18:11:26.290459 519976 simulator.py:213] Loaded n
+avmesh /data/huangtao/VLN_CE_data/scene_datasets/mp3d/X
+7HyMhZNoso/X7HyMhZNoso.navmesh
+I0807 18:11:26.374722 519976 SceneGraph.h:93] Created D
+rawableGroup:
+r2r-4:  29%|█████████████████████▋
+                               | 67/229 [1:07:07<2:42:1
+8, 60.11s/it]
+Traceback (most recent call last):
+  File "run_input_history.py", line 84, in <module>
+    main()
+  File "run_input_history.py", line 51, in main
+    run_exp(**vars(args))
+  File "run_input_history.py", line 71, in run_exp
+    evaluate_agent(config, split_id, dataset_split, mod
+el_path, result_path)
+  File "/home/huahaoming/my_navid_ws/NaVid-VLN-CE/navid
+_agent_input_history.py", line 45, in evaluate_agent
+    action = agent.act(obs, info, env.current_episode.e
+pisode_id)
+  File "/home/huahaoming/my_navid_ws/NaVid-VLN-CE/navid
+_agent_input_history.py", line 289, in act
+    navigation = self.predict_inference(navigation_qs)
+  File "/home/huahaoming/my_navid_ws/NaVid-VLN-CE/navid
+_agent_input_history.py", line 164, in predict_inferenc
+e
+    output_ids = self.model.generate(
+  File "/home/huangtao/miniconda3/envs/vlnce_navid/lib/
+python3.8/site-packages/torch/utils/_contextlib.py", li
+ne 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/huangtao/miniconda3/envs/vlnce_navid/lib/
+python3.8/site-packages/transformers/generation/utils.p
+y", line 1588, in generate
+    return self.sample(
+  File "/home/huangtao/miniconda3/envs/vlnce_navid/lib/
+python3.8/site-packages/transformers/generation/utils.p
+y", line 2642, in sample
+    outputs = self(
+  File "/home/huangtao/miniconda3/envs/vlnce_navid/lib/
+python3.8/site-packages/torch/nn/modules/module.py", li
+ne 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/huahaoming/my_navid_ws/NaVid-VLN-CE/navid
+/model/language_model/llava_navid.py", line 87, in forw
+ard
+    outputs = self.model(
+  File "/home/huangtao/miniconda3/envs/vlnce_navid/lib/
+python3.8/site-packages/torch/nn/modules/module.py", li
+ne 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/huangtao/miniconda3/envs/vlnce_navid/lib/
+python3.8/site-packages/transformers/models/llama/model
+ing_llama.py", line 693, in forward
+    layer_outputs = decoder_layer(
+  File "/home/huangtao/miniconda3/envs/vlnce_navid/lib/
+python3.8/site-packages/torch/nn/modules/module.py", li
+ne 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/huangtao/miniconda3/envs/vlnce_navid/lib/
+python3.8/site-packages/transformers/models/llama/model
+ing_llama.py", line 408, in forward
+    hidden_states, self_attn_weights, present_key_value
+ = self.self_attn(
+  File "/home/huangtao/miniconda3/envs/vlnce_navid/lib/
+python3.8/site-packages/torch/nn/modules/module.py", li
+ne 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/huangtao/miniconda3/envs/vlnce_navid/lib/
+python3.8/site-packages/transformers/models/llama/model
+ing_llama.py", line 322, in forward
+    value_states = torch.cat([past_key_value[1], value_
+states], dim=2)
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried
+to allocate 20.00 MiB (GPU 0; 23.64 GiB total capacity;
+ 14.85 GiB already allocated; 17.31 MiB free; 15.06 GiB
+ reserved in total by PyTorch) If reserved memory is >>
+ allocated memory try setting max_split_size_mb to avoi
+d fragmentation.  See documentation for Memory Manageme
+nt and PYTORCH_CUDA_ALLOC_CONF
+r2r-1:  42%|███████████████████████████████▎
+                               | 97/229 [1:11:52<1:28:1
+3, 40.10s/it]I0807 18:28:14.549902 519976 PhysicsManage
+r.cpp:33] Deconstructing PhysicsManager
+I0807 18:28:14.549959 519976 SemanticScene.h:41] Decons
+tructing SemanticScene
+I0807 18:28:14.553081 519976 SceneManager.h:25] Deconst
+ructing SceneManager
+I0807 18:28:14.553092 519976 SceneGraph.h:26] Deconstru
+cting SceneGraph
+I0807 18:28:14.553681 519976 Sensor.h:87] Deconstructin
+g Sensor
+I0807 18:28:14.556972 519976 Renderer.cpp:34] Deconstru
+cting Renderer
+I0807 18:28:14.557004 519976 WindowlessContext.h:17] De
+constructing WindowlessContext
+I0807 18:28:14.566694 519976 MetadataMediator.cpp:56] M
+etadataMediator::setActiveSceneDatasetName : Old active
+ dataset default changed to default successfully.
+I0807 18:28:14.567157 519976 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Physics Manager) : Proposing JSON name : ./data/def
+ault.physics_config.json from original name : ./data/de
+fault.physics_config.json | This file  does not exist.
+I0807 18:28:14.567203 519976 PhysicsAttributesManager.c
+pp:27] File (./data/default.physics_config.json) not fo
+und, so new default physics manager attributes created
+and registered.
+I0807 18:28:14.567219 519976 AbstractObjectAttributesMa
+nagerBase.h:175] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Making attributes with handle : /
+data/huangtao/VLN_CE_data/scene_datasets/mp3d/EU6Fwq7Sy
+Zv/EU6Fwq7SyZv.glb
+I0807 18:28:14.567242 519976 ManagedContainerBase.cpp:1
+9] ManagedContainerBase::convertFilenameToJSON : Filena
+me : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/EU6
+Fwq7SyZv/EU6Fwq7SyZv.glb changed to proposed JSON confi
+guration filename : /data/huangtao/VLN_CE_data/scene_da
+tasets/mp3d/EU6Fwq7SyZv/EU6Fwq7SyZv.stage_config.json
+I0807 18:28:14.567267 519976 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Stage) : Proposing JSON name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/EU6Fwq7SyZv/EU6Fwq7SyZv.stag
+e_config.json from original name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/EU6Fwq7SyZv/EU6Fwq7SyZv.glb
+| This file  does not exist.
+I0807 18:28:14.567380 519976 AbstractObjectAttributesMa
+nagerBase.h:181] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Done making attributes with handl
+e : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/EU6F
+wq7SyZv/EU6Fwq7SyZv.glb
+I0807 18:28:14.567386 519976 AbstractObjectAttributesMa
+nagerBase.h:188] File (/data/huangtao/VLN_CE_data/scene
+_datasets/mp3d/EU6Fwq7SyZv/EU6Fwq7SyZv.glb) exists but
+is not a recognized config filename extension, so new d
+efault Stage attributes created and registered.
+I0807 18:28:14.567409 519976 Simulator.cpp:156] Loading
+ navmesh from /data/huangtao/VLN_CE_data/scene_datasets
+/mp3d/EU6Fwq7SyZv/EU6Fwq7SyZv.navmesh
+I0807 18:28:14.567656 519976 Simulator.cpp:158] Loaded.
+I0807 18:28:14.567667 519976 SceneGraph.h:93] Created D
+rawableGroup:
+Renderer: NVIDIA GeForce RTX 4090/PCIe/SSE2 by NVIDIA C
+orporation
+OpenGL version: 4.6.0 NVIDIA 550.90.07
+Using optional features:
+    GL_ARB_ES2_compatibility
+    GL_ARB_direct_state_access
+    GL_ARB_get_texture_sub_image
+    GL_ARB_invalidate_subdata
+    GL_ARB_multi_bind
+    GL_ARB_robustness
+    GL_ARB_separate_shader_objects
+    GL_ARB_texture_filter_anisotropic
+    GL_ARB_texture_storage
+    GL_ARB_texture_storage_multisample
+    GL_ARB_vertex_array_object
+    GL_KHR_debug
+Using driver workarounds:
+    no-forward-compatible-core-context
+    nv-egl-incorrect-gl11-function-pointers
+    no-layout-qualifiers-on-old-glsl
+    nv-zero-context-profile-mask
+    nv-implementation-color-read-format-dsa-broken
+    nv-cubemap-inconsistent-compressed-image-size
+    nv-cubemap-broken-full-compressed-image-query
+    nv-compressed-block-size-in-bits
+I0807 18:28:14.570916 519976 ResourceManager.cpp:234] R
+esourceManager::loadStage : Not loading semantic mesh
+I0807 18:28:14.570928 519976 ResourceManager.cpp:262] R
+esourceManager::loadStage : start load render asset /da
+ta/huangtao/VLN_CE_data/scene_datasets/mp3d/EU6Fwq7SyZv
+/EU6Fwq7SyZv.glb.
+I0807 18:28:14.570932 519976 ResourceManager.cpp:569] R
+esourceManager::loadStageInternal : Attempting to load
+stage /data/huangtao/VLN_CE_data/scene_datasets/mp3d/EU
+6Fwq7SyZv/EU6Fwq7SyZv.glb
+I0807 18:28:14.570951 519976 ResourceManager.cpp:1119]
+Importing Basis files as BC7 for EU6Fwq7SyZv.glb
+W0807 18:28:19.566804 519976 Simulator.cpp:248] :
+---
+ The active scene does not contain semantic annotations
+.
+---
+I0807 18:28:19.687399 519976 simulator.py:213] Loaded n
+avmesh /data/huangtao/VLN_CE_data/scene_datasets/mp3d/E
+U6Fwq7SyZv/EU6Fwq7SyZv.navmesh
+I0807 18:28:19.776988 519976 SceneGraph.h:93] Created D
+rawableGroup:
+r2r-2:  49%|████████████████████████████████████
+                              | 113/229 [1:33:28<1:36:1
+7, 49.80s/it]I0807 18:49:47.641631 519977 PhysicsManage
+r.cpp:33] Deconstructing PhysicsManager
+I0807 18:49:47.641669 519977 SemanticScene.h:41] Decons
+tructing SemanticScene
+I0807 18:49:47.644902 519977 SceneManager.h:25] Deconst
+ructing SceneManager
+I0807 18:49:47.644914 519977 SceneGraph.h:26] Deconstru
+cting SceneGraph
+I0807 18:49:47.645354 519977 Sensor.h:87] Deconstructin
+g Sensor
+I0807 18:49:47.650787 519977 Renderer.cpp:34] Deconstru
+cting Renderer
+I0807 18:49:47.650818 519977 WindowlessContext.h:17] De
+constructing WindowlessContext
+I0807 18:49:47.658905 519977 MetadataMediator.cpp:56] M
+etadataMediator::setActiveSceneDatasetName : Old active
+ dataset default changed to default successfully.
+I0807 18:49:47.659302 519977 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Physics Manager) : Proposing JSON name : ./data/def
+ault.physics_config.json from original name : ./data/de
+fault.physics_config.json | This file  does not exist.
+I0807 18:49:47.659349 519977 PhysicsAttributesManager.c
+pp:27] File (./data/default.physics_config.json) not fo
+und, so new default physics manager attributes created
+and registered.
+I0807 18:49:47.659363 519977 AbstractObjectAttributesMa
+nagerBase.h:175] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Making attributes with handle : /
+data/huangtao/VLN_CE_data/scene_datasets/mp3d/TbHJrupSA
+jP/TbHJrupSAjP.glb
+I0807 18:49:47.659372 519977 ManagedContainerBase.cpp:1
+9] ManagedContainerBase::convertFilenameToJSON : Filena
+me : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/TbH
+JrupSAjP/TbHJrupSAjP.glb changed to proposed JSON confi
+guration filename : /data/huangtao/VLN_CE_data/scene_da
+tasets/mp3d/TbHJrupSAjP/TbHJrupSAjP.stage_config.json
+I0807 18:49:47.659385 519977 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Stage) : Proposing JSON name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/TbHJrupSAjP/TbHJrupSAjP.stag
+e_config.json from original name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/TbHJrupSAjP/TbHJrupSAjP.glb
+| This file  does not exist.
+I0807 18:49:47.659479 519977 AbstractObjectAttributesMa
+nagerBase.h:181] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Done making attributes with handl
+e : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/TbHJ
+rupSAjP/TbHJrupSAjP.glb
+I0807 18:49:47.659484 519977 AbstractObjectAttributesMa
+nagerBase.h:188] File (/data/huangtao/VLN_CE_data/scene
+_datasets/mp3d/TbHJrupSAjP/TbHJrupSAjP.glb) exists but
+is not a recognized config filename extension, so new d
+efault Stage attributes created and registered.
+I0807 18:49:47.659497 519977 Simulator.cpp:156] Loading
+ navmesh from /data/huangtao/VLN_CE_data/scene_datasets
+/mp3d/TbHJrupSAjP/TbHJrupSAjP.navmesh
+I0807 18:49:47.659742 519977 Simulator.cpp:158] Loaded.
+I0807 18:49:47.659755 519977 SceneGraph.h:93] Created D
+rawableGroup:
+Renderer: NVIDIA GeForce RTX 4090/PCIe/SSE2 by NVIDIA C
+orporation
+OpenGL version: 4.6.0 NVIDIA 550.90.07
+Using optional features:
+    GL_ARB_ES2_compatibility
+    GL_ARB_direct_state_access
+    GL_ARB_get_texture_sub_image
+    GL_ARB_invalidate_subdata
+    GL_ARB_multi_bind
+    GL_ARB_robustness
+    GL_ARB_separate_shader_objects
+    GL_ARB_texture_filter_anisotropic
+    GL_ARB_texture_storage
+    GL_ARB_texture_storage_multisample
+    GL_ARB_vertex_array_object
+    GL_KHR_debug
+Using driver workarounds:
+    no-forward-compatible-core-context
+    nv-egl-incorrect-gl11-function-pointers
+    no-layout-qualifiers-on-old-glsl
+    nv-zero-context-profile-mask
+    nv-implementation-color-read-format-dsa-broken
+    nv-cubemap-inconsistent-compressed-image-size
+    nv-cubemap-broken-full-compressed-image-query
+    nv-compressed-block-size-in-bits
+I0807 18:49:47.663084 519977 ResourceManager.cpp:234] R
+esourceManager::loadStage : Not loading semantic mesh
+I0807 18:49:47.663095 519977 ResourceManager.cpp:262] R
+esourceManager::loadStage : start load render asset /da
+ta/huangtao/VLN_CE_data/scene_datasets/mp3d/TbHJrupSAjP
+/TbHJrupSAjP.glb.
+I0807 18:49:47.663100 519977 ResourceManager.cpp:569] R
+esourceManager::loadStageInternal : Attempting to load
+stage /data/huangtao/VLN_CE_data/scene_datasets/mp3d/Tb
+HJrupSAjP/TbHJrupSAjP.glb
+I0807 18:49:47.663120 519977 ResourceManager.cpp:1119]
+Importing Basis files as BC7 for TbHJrupSAjP.glb
+r2r-5:  48%|███████████████████████████████████
+                              | 110/229 [1:33:21<1:33:3
+1, 47.16s/it]W0807 18:49:51.567895 519977 Simulator.cpp
+:248] :
+---
+ The active scene does not contain semantic annotations
+.
+---
+I0807 18:49:51.720702 519977 simulator.py:213] Loaded n
+avmesh /data/huangtao/VLN_CE_data/scene_datasets/mp3d/T
+bHJrupSAjP/TbHJrupSAjP.navmesh
+I0807 18:49:51.771065 519977 SceneGraph.h:93] Created D
+rawableGroup:
+r2r-5:  66%|███████████████████████████████████████████
+█████▍                        | 152/229 [2:10:14<1:02:4
+3, 48.87s/it]I0807 19:26:44.560062 519980 PhysicsManage
+r.cpp:33] Deconstructing PhysicsManager
+I0807 19:26:44.560132 519980 SemanticScene.h:41] Decons
+tructing SemanticScene
+I0807 19:26:44.564894 519980 SceneManager.h:25] Deconst
+ructing SceneManager
+I0807 19:26:44.564908 519980 SceneGraph.h:26] Deconstru
+cting SceneGraph
+I0807 19:26:44.565886 519980 Sensor.h:87] Deconstructin
+g Sensor
+I0807 19:26:44.587191 519980 Renderer.cpp:34] Deconstru
+cting Renderer
+I0807 19:26:44.587224 519980 WindowlessContext.h:17] De
+constructing WindowlessContext
+I0807 19:26:44.612624 519980 MetadataMediator.cpp:56] M
+etadataMediator::setActiveSceneDatasetName : Old active
+ dataset default changed to default successfully.
+I0807 19:26:44.613127 519980 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Physics Manager) : Proposing JSON name : ./data/def
+ault.physics_config.json from original name : ./data/de
+fault.physics_config.json | This file  does not exist.
+I0807 19:26:44.613183 519980 PhysicsAttributesManager.c
+pp:27] File (./data/default.physics_config.json) not fo
+und, so new default physics manager attributes created
+and registered.
+I0807 19:26:44.613216 519980 AbstractObjectAttributesMa
+nagerBase.h:175] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Making attributes with handle : /
+data/huangtao/VLN_CE_data/scene_datasets/mp3d/QUCTc6BB5
+sX/QUCTc6BB5sX.glb
+I0807 19:26:44.613226 519980 ManagedContainerBase.cpp:1
+9] ManagedContainerBase::convertFilenameToJSON : Filena
+me : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/QUC
+Tc6BB5sX/QUCTc6BB5sX.glb changed to proposed JSON confi
+guration filename : /data/huangtao/VLN_CE_data/scene_da
+tasets/mp3d/QUCTc6BB5sX/QUCTc6BB5sX.stage_config.json
+I0807 19:26:44.613240 519980 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Stage) : Proposing JSON name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/QUCTc6BB5sX/QUCTc6BB5sX.stag
+e_config.json from original name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/QUCTc6BB5sX/QUCTc6BB5sX.glb
+| This file  does not exist.
+I0807 19:26:44.613358 519980 AbstractObjectAttributesMa
+nagerBase.h:181] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Done making attributes with handl
+e : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/QUCT
+c6BB5sX/QUCTc6BB5sX.glb
+I0807 19:26:44.613365 519980 AbstractObjectAttributesMa
+nagerBase.h:188] File (/data/huangtao/VLN_CE_data/scene
+_datasets/mp3d/QUCTc6BB5sX/QUCTc6BB5sX.glb) exists but
+is not a recognized config filename extension, so new d
+efault Stage attributes created and registered.
+I0807 19:26:44.613380 519980 Simulator.cpp:156] Loading
+ navmesh from /data/huangtao/VLN_CE_data/scene_datasets
+/mp3d/QUCTc6BB5sX/QUCTc6BB5sX.navmesh
+I0807 19:26:44.613873 519980 Simulator.cpp:158] Loaded.
+I0807 19:26:44.613885 519980 SceneGraph.h:93] Created D
+rawableGroup:
+Renderer: NVIDIA GeForce RTX 4090/PCIe/SSE2 by NVIDIA C
+orporation
+OpenGL version: 4.6.0 NVIDIA 550.90.07
+Using optional features:
+    GL_ARB_ES2_compatibility
+    GL_ARB_direct_state_access
+    GL_ARB_get_texture_sub_image
+    GL_ARB_invalidate_subdata
+    GL_ARB_multi_bind
+    GL_ARB_robustness
+    GL_ARB_separate_shader_objects
+    GL_ARB_texture_filter_anisotropic
+    GL_ARB_texture_storage
+    GL_ARB_texture_storage_multisample
+    GL_ARB_vertex_array_object
+    GL_KHR_debug
+Using driver workarounds:
+    no-forward-compatible-core-context
+    nv-egl-incorrect-gl11-function-pointers
+    no-layout-qualifiers-on-old-glsl
+    nv-zero-context-profile-mask
+    nv-implementation-color-read-format-dsa-broken
+    nv-cubemap-inconsistent-compressed-image-size
+    nv-cubemap-broken-full-compressed-image-query
+    nv-compressed-block-size-in-bits
+I0807 19:26:44.618681 519980 ResourceManager.cpp:234] R
+esourceManager::loadStage : Not loading semantic mesh
+I0807 19:26:44.618696 519980 ResourceManager.cpp:262] R
+esourceManager::loadStage : start load render asset /da
+ta/huangtao/VLN_CE_data/scene_datasets/mp3d/QUCTc6BB5sX
+/QUCTc6BB5sX.glb.
+I0807 19:26:44.618702 519980 ResourceManager.cpp:569] R
+esourceManager::loadStageInternal : Attempting to load
+stage /data/huangtao/VLN_CE_data/scene_datasets/mp3d/QU
+CTc6BB5sX/QUCTc6BB5sX.glb
+I0807 19:26:44.618723 519980 ResourceManager.cpp:1119]
+Importing Basis files as BC7 for QUCTc6BB5sX.glb
+W0807 19:26:51.234380 519980 Simulator.cpp:248] :
+---
+ The active scene does not contain semantic annotations
+.
+---
+I0807 19:26:51.426874 519980 simulator.py:213] Loaded n
+avmesh /data/huangtao/VLN_CE_data/scene_datasets/mp3d/Q
+UCTc6BB5sX/QUCTc6BB5sX.navmesh
+I0807 19:26:51.577394 519980 SceneGraph.h:93] Created D
+rawableGroup:
+r2r-3:  63%|███████████████████████████████████████████
+███▏                          | 145/229 [2:22:11<1:30:0
+4, 64.34s/it]I0807 19:38:37.920852 519978 PhysicsManage
+r.cpp:33] Deconstructing PhysicsManager
+I0807 19:38:37.920893 519978 SemanticScene.h:41] Decons
+tructing SemanticScene
+I0807 19:38:37.925909 519978 SceneManager.h:25] Deconst
+ructing SceneManager
+I0807 19:38:37.925923 519978 SceneGraph.h:26] Deconstru
+cting SceneGraph
+I0807 19:38:37.926604 519978 Sensor.h:87] Deconstructin
+g Sensor
+I0807 19:38:37.938373 519978 Renderer.cpp:34] Deconstru
+cting Renderer
+I0807 19:38:37.938406 519978 WindowlessContext.h:17] De
+constructing WindowlessContext
+I0807 19:38:37.950441 519978 MetadataMediator.cpp:56] M
+etadataMediator::setActiveSceneDatasetName : Old active
+ dataset default changed to default successfully.
+I0807 19:38:37.950852 519978 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Physics Manager) : Proposing JSON name : ./data/def
+ault.physics_config.json from original name : ./data/de
+fault.physics_config.json | This file  does not exist.
+I0807 19:38:37.950912 519978 PhysicsAttributesManager.c
+pp:27] File (./data/default.physics_config.json) not fo
+und, so new default physics manager attributes created
+and registered.
+I0807 19:38:37.950934 519978 AbstractObjectAttributesMa
+nagerBase.h:175] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Making attributes with handle : /
+data/huangtao/VLN_CE_data/scene_datasets/mp3d/2azQ1b91c
+ZZ/2azQ1b91cZZ.glb
+I0807 19:38:37.950943 519978 ManagedContainerBase.cpp:1
+9] ManagedContainerBase::convertFilenameToJSON : Filena
+me : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/2az
+Q1b91cZZ/2azQ1b91cZZ.glb changed to proposed JSON confi
+guration filename : /data/huangtao/VLN_CE_data/scene_da
+tasets/mp3d/2azQ1b91cZZ/2azQ1b91cZZ.stage_config.json
+I0807 19:38:37.950959 519978 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Stage) : Proposing JSON name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/2azQ1b91cZZ/2azQ1b91cZZ.stag
+e_config.json from original name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/2azQ1b91cZZ/2azQ1b91cZZ.glb
+| This file  does not exist.
+I0807 19:38:37.951068 519978 AbstractObjectAttributesMa
+nagerBase.h:181] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Done making attributes with handl
+e : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/2azQ
+1b91cZZ/2azQ1b91cZZ.glb
+I0807 19:38:37.951073 519978 AbstractObjectAttributesMa
+nagerBase.h:188] File (/data/huangtao/VLN_CE_data/scene
+_datasets/mp3d/2azQ1b91cZZ/2azQ1b91cZZ.glb) exists but
+is not a recognized config filename extension, so new d
+efault Stage attributes created and registered.
+I0807 19:38:37.951084 519978 Simulator.cpp:156] Loading
+ navmesh from /data/huangtao/VLN_CE_data/scene_datasets
+/mp3d/2azQ1b91cZZ/2azQ1b91cZZ.navmesh
+I0807 19:38:37.951531 519978 Simulator.cpp:158] Loaded.
+I0807 19:38:37.951542 519978 SceneGraph.h:93] Created D
+rawableGroup:
+Renderer: NVIDIA GeForce RTX 4090/PCIe/SSE2 by NVIDIA C
+orporation
+OpenGL version: 4.6.0 NVIDIA 550.90.07
+Using optional features:
+    GL_ARB_ES2_compatibility
+    GL_ARB_direct_state_access
+    GL_ARB_get_texture_sub_image
+    GL_ARB_invalidate_subdata
+    GL_ARB_multi_bind
+    GL_ARB_robustness
+    GL_ARB_separate_shader_objects
+    GL_ARB_texture_filter_anisotropic
+    GL_ARB_texture_storage
+    GL_ARB_texture_storage_multisample
+    GL_ARB_vertex_array_object
+    GL_KHR_debug
+Using driver workarounds:
+    no-forward-compatible-core-context
+    nv-egl-incorrect-gl11-function-pointers
+    no-layout-qualifiers-on-old-glsl
+    nv-zero-context-profile-mask
+    nv-implementation-color-read-format-dsa-broken
+    nv-cubemap-inconsistent-compressed-image-size
+    nv-cubemap-broken-full-compressed-image-query
+    nv-compressed-block-size-in-bits
+I0807 19:38:37.955233 519978 ResourceManager.cpp:234] R
+esourceManager::loadStage : Not loading semantic mesh
+I0807 19:38:37.955246 519978 ResourceManager.cpp:262] R
+esourceManager::loadStage : start load render asset /da
+ta/huangtao/VLN_CE_data/scene_datasets/mp3d/2azQ1b91cZZ
+/2azQ1b91cZZ.glb.
+I0807 19:38:37.955251 519978 ResourceManager.cpp:569] R
+esourceManager::loadStageInternal : Attempting to load
+stage /data/huangtao/VLN_CE_data/scene_datasets/mp3d/2a
+zQ1b91cZZ/2azQ1b91cZZ.glb
+I0807 19:38:37.955272 519978 ResourceManager.cpp:1119]
+Importing Basis files as BC7 for 2azQ1b91cZZ.glb
+r2r-1:  72%|███████████████████████████████████████████
+██████████▋                     | 164/229 [2:22:15<41:5
+7, 38.73s/it]W0807 19:38:43.839460 519978 Simulator.cpp
+:248] :
+---
+ The active scene does not contain semantic annotations
+.
+---
+I0807 19:38:44.029637 519978 simulator.py:213] Loaded n
+avmesh /data/huangtao/VLN_CE_data/scene_datasets/mp3d/2
+azQ1b91cZZ/2azQ1b91cZZ.navmesh
+I0807 19:38:44.442799 519978 SceneGraph.h:93] Created D
+rawableGroup:
+r2r-7:  76%|███████████████████████████████████████████
+█████████████▋                  | 173/229 [2:30:36<53:5
+3, 57.74s/it]I0807 19:47:04.342072 519982 PhysicsManage
+r.cpp:33] Deconstructing PhysicsManager
+I0807 19:47:04.342113 519982 SemanticScene.h:41] Decons
+tructing SemanticScene
+I0807 19:47:04.348227 519982 SceneManager.h:25] Deconst
+ructing SceneManager
+I0807 19:47:04.348240 519982 SceneGraph.h:26] Deconstru
+cting SceneGraph
+I0807 19:47:04.348755 519982 Sensor.h:87] Deconstructin
+g Sensor
+I0807 19:47:04.360248 519982 Renderer.cpp:34] Deconstru
+cting Renderer
+I0807 19:47:04.360276 519982 WindowlessContext.h:17] De
+constructing WindowlessContext
+I0807 19:47:04.371323 519982 MetadataMediator.cpp:56] M
+etadataMediator::setActiveSceneDatasetName : Old active
+ dataset default changed to default successfully.
+I0807 19:47:04.371708 519982 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Physics Manager) : Proposing JSON name : ./data/def
+ault.physics_config.json from original name : ./data/de
+fault.physics_config.json | This file  does not exist.
+I0807 19:47:04.371762 519982 PhysicsAttributesManager.c
+pp:27] File (./data/default.physics_config.json) not fo
+und, so new default physics manager attributes created
+and registered.
+I0807 19:47:04.371778 519982 AbstractObjectAttributesMa
+nagerBase.h:175] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Making attributes with handle : /
+data/huangtao/VLN_CE_data/scene_datasets/mp3d/8194nk5Lb
+LH/8194nk5LbLH.glb
+I0807 19:47:04.371786 519982 ManagedContainerBase.cpp:1
+9] ManagedContainerBase::convertFilenameToJSON : Filena
+me : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/819
+4nk5LbLH/8194nk5LbLH.glb changed to proposed JSON confi
+guration filename : /data/huangtao/VLN_CE_data/scene_da
+tasets/mp3d/8194nk5LbLH/8194nk5LbLH.stage_config.json
+I0807 19:47:04.371798 519982 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Stage) : Proposing JSON name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/8194nk5LbLH/8194nk5LbLH.stag
+e_config.json from original name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/8194nk5LbLH/8194nk5LbLH.glb
+| This file  does not exist.
+I0807 19:47:04.371887 519982 AbstractObjectAttributesMa
+nagerBase.h:181] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Done making attributes with handl
+e : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/8194
+nk5LbLH/8194nk5LbLH.glb
+I0807 19:47:04.371892 519982 AbstractObjectAttributesMa
+nagerBase.h:188] File (/data/huangtao/VLN_CE_data/scene
+_datasets/mp3d/8194nk5LbLH/8194nk5LbLH.glb) exists but
+is not a recognized config filename extension, so new d
+efault Stage attributes created and registered.
+I0807 19:47:04.371901 519982 Simulator.cpp:156] Loading
+ navmesh from /data/huangtao/VLN_CE_data/scene_datasets
+/mp3d/8194nk5LbLH/8194nk5LbLH.navmesh
+I0807 19:47:04.372041 519982 Simulator.cpp:158] Loaded.
+I0807 19:47:04.372054 519982 SceneGraph.h:93] Created D
+rawableGroup:
+Renderer: NVIDIA GeForce RTX 4090/PCIe/SSE2 by NVIDIA C
+orporation
+OpenGL version: 4.6.0 NVIDIA 550.90.07
+Using optional features:
+    GL_ARB_ES2_compatibility
+    GL_ARB_direct_state_access
+    GL_ARB_get_texture_sub_image
+    GL_ARB_invalidate_subdata
+    GL_ARB_multi_bind
+    GL_ARB_robustness
+    GL_ARB_separate_shader_objects
+    GL_ARB_texture_filter_anisotropic
+    GL_ARB_texture_storage
+    GL_ARB_texture_storage_multisample
+    GL_ARB_vertex_array_object
+    GL_KHR_debug
+Using driver workarounds:
+    no-forward-compatible-core-context
+    nv-egl-incorrect-gl11-function-pointers
+    no-layout-qualifiers-on-old-glsl
+    nv-zero-context-profile-mask
+    nv-implementation-color-read-format-dsa-broken
+    nv-cubemap-inconsistent-compressed-image-size
+    nv-cubemap-broken-full-compressed-image-query
+    nv-compressed-block-size-in-bits
+I0807 19:47:04.375454 519982 ResourceManager.cpp:234] R
+esourceManager::loadStage : Not loading semantic mesh
+I0807 19:47:04.375468 519982 ResourceManager.cpp:262] R
+esourceManager::loadStage : start load render asset /da
+ta/huangtao/VLN_CE_data/scene_datasets/mp3d/8194nk5LbLH
+/8194nk5LbLH.glb.
+I0807 19:47:04.375473 519982 ResourceManager.cpp:569] R
+esourceManager::loadStageInternal : Attempting to load
+stage /data/huangtao/VLN_CE_data/scene_datasets/mp3d/81
+94nk5LbLH/8194nk5LbLH.glb
+I0807 19:47:04.375490 519982 ResourceManager.cpp:1119]
+Importing Basis files as BC7 for 8194nk5LbLH.glb
+W0807 19:47:05.963883 519982 Simulator.cpp:248] :
+---
+ The active scene does not contain semantic annotations
+.
+---
+I0807 19:47:06.003643 519982 simulator.py:213] Loaded n
+avmesh /data/huangtao/VLN_CE_data/scene_datasets/mp3d/8
+194nk5LbLH/8194nk5LbLH.navmesh
+I0807 19:47:06.035621 519982 SceneGraph.h:93] Created D
+rawableGroup:
+r2r-6:  55%|███████████████████████████████████████▌
+                             | 126/229 [2:33:43<4:33:58
+, 159.60s/it]I0807 19:50:12.935181 519981 PhysicsManage
+r.cpp:33] Deconstructing PhysicsManager
+I0807 19:50:12.935220 519981 SemanticScene.h:41] Decons
+tructing SemanticScene
+I0807 19:50:12.941906 519981 SceneManager.h:25] Deconst
+ructing SceneManager
+I0807 19:50:12.941920 519981 SceneGraph.h:26] Deconstru
+cting SceneGraph
+I0807 19:50:12.942420 519981 Sensor.h:87] Deconstructin
+g Sensor
+I0807 19:50:12.953822 519981 Renderer.cpp:34] Deconstru
+cting Renderer
+I0807 19:50:12.953859 519981 WindowlessContext.h:17] De
+constructing WindowlessContext
+I0807 19:50:12.972436 519981 MetadataMediator.cpp:56] M
+etadataMediator::setActiveSceneDatasetName : Old active
+ dataset default changed to default successfully.
+I0807 19:50:12.972842 519981 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Physics Manager) : Proposing JSON name : ./data/def
+ault.physics_config.json from original name : ./data/de
+fault.physics_config.json | This file  does not exist.
+I0807 19:50:12.972895 519981 PhysicsAttributesManager.c
+pp:27] File (./data/default.physics_config.json) not fo
+und, so new default physics manager attributes created
+and registered.
+I0807 19:50:12.972911 519981 AbstractObjectAttributesMa
+nagerBase.h:175] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Making attributes with handle : /
+data/huangtao/VLN_CE_data/scene_datasets/mp3d/pLe4wQe7q
+rG/pLe4wQe7qrG.glb
+I0807 19:50:12.972920 519981 ManagedContainerBase.cpp:1
+9] ManagedContainerBase::convertFilenameToJSON : Filena
+me : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/pLe
+4wQe7qrG/pLe4wQe7qrG.glb changed to proposed JSON confi
+guration filename : /data/huangtao/VLN_CE_data/scene_da
+tasets/mp3d/pLe4wQe7qrG/pLe4wQe7qrG.stage_config.json
+I0807 19:50:12.972941 519981 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Stage) : Proposing JSON name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/pLe4wQe7qrG/pLe4wQe7qrG.stag
+e_config.json from original name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/pLe4wQe7qrG/pLe4wQe7qrG.glb
+| This file  does not exist.
+I0807 19:50:12.973034 519981 AbstractObjectAttributesMa
+nagerBase.h:181] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Done making attributes with handl
+e : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/pLe4
+wQe7qrG/pLe4wQe7qrG.glb
+I0807 19:50:12.973040 519981 AbstractObjectAttributesMa
+nagerBase.h:188] File (/data/huangtao/VLN_CE_data/scene
+_datasets/mp3d/pLe4wQe7qrG/pLe4wQe7qrG.glb) exists but
+is not a recognized config filename extension, so new d
+efault Stage attributes created and registered.
+I0807 19:50:12.973048 519981 Simulator.cpp:156] Loading
+ navmesh from /data/huangtao/VLN_CE_data/scene_datasets
+/mp3d/pLe4wQe7qrG/pLe4wQe7qrG.navmesh
+I0807 19:50:12.973125 519981 Simulator.cpp:158] Loaded.
+I0807 19:50:12.973136 519981 SceneGraph.h:93] Created D
+rawableGroup:
+Renderer: NVIDIA GeForce RTX 4090/PCIe/SSE2 by NVIDIA C
+orporation
+OpenGL version: 4.6.0 NVIDIA 550.90.07
+Using optional features:
+    GL_ARB_ES2_compatibility
+    GL_ARB_direct_state_access
+    GL_ARB_get_texture_sub_image
+    GL_ARB_invalidate_subdata
+    GL_ARB_multi_bind
+    GL_ARB_robustness
+    GL_ARB_separate_shader_objects
+    GL_ARB_texture_filter_anisotropic
+    GL_ARB_texture_storage
+    GL_ARB_texture_storage_multisample
+    GL_ARB_vertex_array_object
+    GL_KHR_debug
+Using driver workarounds:
+    no-forward-compatible-core-context
+    nv-egl-incorrect-gl11-function-pointers
+    no-layout-qualifiers-on-old-glsl
+    nv-zero-context-profile-mask
+    nv-implementation-color-read-format-dsa-broken
+    nv-cubemap-inconsistent-compressed-image-size
+    nv-cubemap-broken-full-compressed-image-query
+    nv-compressed-block-size-in-bits
+I0807 19:50:12.976917 519981 ResourceManager.cpp:234] R
+esourceManager::loadStage : Not loading semantic mesh
+I0807 19:50:12.976929 519981 ResourceManager.cpp:262] R
+esourceManager::loadStage : start load render asset /da
+ta/huangtao/VLN_CE_data/scene_datasets/mp3d/pLe4wQe7qrG
+/pLe4wQe7qrG.glb.
+I0807 19:50:12.976934 519981 ResourceManager.cpp:569] R
+esourceManager::loadStageInternal : Attempting to load
+stage /data/huangtao/VLN_CE_data/scene_datasets/mp3d/pL
+e4wQe7qrG/pLe4wQe7qrG.glb
+I0807 19:50:12.976953 519981 ResourceManager.cpp:1119]
+Importing Basis files as BC7 for pLe4wQe7qrG.glb
+W0807 19:50:14.257164 519981 Simulator.cpp:248] :
+---
+ The active scene does not contain semantic annotations
+.
+---
+I0807 19:50:14.277386 519981 simulator.py:213] Loaded n
+avmesh /data/huangtao/VLN_CE_data/scene_datasets/mp3d/p
+Le4wQe7qrG/pLe4wQe7qrG.navmesh
+I0807 19:50:14.309724 519981 SceneGraph.h:93] Created D
+rawableGroup:
+r2r-6:  57%|█████████████████████████████████████████▍
+                              | 130/229 [2:37:43<2:08:4
+7, 78.06s/it]I0807 19:54:12.781579 519981 PhysicsManage
+r.cpp:33] Deconstructing PhysicsManager
+I0807 19:54:12.781641 519981 SemanticScene.h:41] Decons
+tructing SemanticScene
+I0807 19:54:12.782833 519981 SceneManager.h:25] Deconst
+ructing SceneManager
+I0807 19:54:12.782845 519981 SceneGraph.h:26] Deconstru
+cting SceneGraph
+I0807 19:54:12.783480 519981 Sensor.h:87] Deconstructin
+g Sensor
+I0807 19:54:12.785311 519981 Renderer.cpp:34] Deconstru
+cting Renderer
+I0807 19:54:12.785342 519981 WindowlessContext.h:17] De
+constructing WindowlessContext
+I0807 19:54:12.790035 519981 MetadataMediator.cpp:56] M
+etadataMediator::setActiveSceneDatasetName : Old active
+ dataset default changed to default successfully.
+I0807 19:54:12.790555 519981 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Physics Manager) : Proposing JSON name : ./data/def
+ault.physics_config.json from original name : ./data/de
+fault.physics_config.json | This file  does not exist.
+I0807 19:54:12.790601 519981 PhysicsAttributesManager.c
+pp:27] File (./data/default.physics_config.json) not fo
+und, so new default physics manager attributes created
+and registered.
+I0807 19:54:12.790617 519981 AbstractObjectAttributesMa
+nagerBase.h:175] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Making attributes with handle : /
+data/huangtao/VLN_CE_data/scene_datasets/mp3d/QUCTc6BB5
+sX/QUCTc6BB5sX.glb
+I0807 19:54:12.790625 519981 ManagedContainerBase.cpp:1
+9] ManagedContainerBase::convertFilenameToJSON : Filena
+me : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/QUC
+Tc6BB5sX/QUCTc6BB5sX.glb changed to proposed JSON confi
+guration filename : /data/huangtao/VLN_CE_data/scene_da
+tasets/mp3d/QUCTc6BB5sX/QUCTc6BB5sX.stage_config.json
+I0807 19:54:12.790637 519981 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Stage) : Proposing JSON name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/QUCTc6BB5sX/QUCTc6BB5sX.stag
+e_config.json from original name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/QUCTc6BB5sX/QUCTc6BB5sX.glb
+| This file  does not exist.
+I0807 19:54:12.790737 519981 AbstractObjectAttributesMa
+nagerBase.h:181] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Done making attributes with handl
+e : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/QUCT
+c6BB5sX/QUCTc6BB5sX.glb
+I0807 19:54:12.790743 519981 AbstractObjectAttributesMa
+nagerBase.h:188] File (/data/huangtao/VLN_CE_data/scene
+_datasets/mp3d/QUCTc6BB5sX/QUCTc6BB5sX.glb) exists but
+is not a recognized config filename extension, so new d
+efault Stage attributes created and registered.
+I0807 19:54:12.790755 519981 Simulator.cpp:156] Loading
+ navmesh from /data/huangtao/VLN_CE_data/scene_datasets
+/mp3d/QUCTc6BB5sX/QUCTc6BB5sX.navmesh
+I0807 19:54:12.791250 519981 Simulator.cpp:158] Loaded.
+I0807 19:54:12.791262 519981 SceneGraph.h:93] Created D
+rawableGroup:
+Renderer: NVIDIA GeForce RTX 4090/PCIe/SSE2 by NVIDIA C
+orporation
+OpenGL version: 4.6.0 NVIDIA 550.90.07
+Using optional features:
+    GL_ARB_ES2_compatibility
+    GL_ARB_direct_state_access
+    GL_ARB_get_texture_sub_image
+    GL_ARB_invalidate_subdata
+    GL_ARB_multi_bind
+    GL_ARB_robustness
+    GL_ARB_separate_shader_objects
+    GL_ARB_texture_filter_anisotropic
+    GL_ARB_texture_storage
+    GL_ARB_texture_storage_multisample
+    GL_ARB_vertex_array_object
+    GL_KHR_debug
+Using driver workarounds:
+    no-forward-compatible-core-context
+    nv-egl-incorrect-gl11-function-pointers
+    no-layout-qualifiers-on-old-glsl
+    nv-zero-context-profile-mask
+    nv-implementation-color-read-format-dsa-broken
+    nv-cubemap-inconsistent-compressed-image-size
+    nv-cubemap-broken-full-compressed-image-query
+    nv-compressed-block-size-in-bits
+I0807 19:54:12.794660 519981 ResourceManager.cpp:234] R
+esourceManager::loadStage : Not loading semantic mesh
+I0807 19:54:12.794672 519981 ResourceManager.cpp:262] R
+esourceManager::loadStage : start load render asset /da
+ta/huangtao/VLN_CE_data/scene_datasets/mp3d/QUCTc6BB5sX
+/QUCTc6BB5sX.glb.
+I0807 19:54:12.794675 519981 ResourceManager.cpp:569] R
+esourceManager::loadStageInternal : Attempting to load
+stage /data/huangtao/VLN_CE_data/scene_datasets/mp3d/QU
+CTc6BB5sX/QUCTc6BB5sX.glb
+I0807 19:54:12.794692 519981 ResourceManager.cpp:1119]
+Importing Basis files as BC7 for QUCTc6BB5sX.glb
+W0807 19:54:18.933900 519981 Simulator.cpp:248] :
+---
+ The active scene does not contain semantic annotations
+.
+---
+r2r-5:  78%|███████████████████████████████████████████
+███████████████▌                | 179/229 [2:37:49<48:3
+4, 58.30s/it]I0807 19:54:19.134769 519981 simulator.py:
+213] Loaded navmesh /data/huangtao/VLN_CE_data/scene_da
+tasets/mp3d/QUCTc6BB5sX/QUCTc6BB5sX.navmesh
+I0807 19:54:19.288122 519981 SceneGraph.h:93] Created D
+rawableGroup:
+r2r-5:  79%|███████████████████████████████████████████
+███████████████               | 182/229 [2:42:00<1:07:1
+7, 85.89s/it]I0807 19:58:30.365955 519980 PhysicsManage
+r.cpp:33] Deconstructing PhysicsManager
+I0807 19:58:30.366026 519980 SemanticScene.h:41] Decons
+tructing SemanticScene
+I0807 19:58:30.373765 519980 SceneManager.h:25] Deconst
+ructing SceneManager
+I0807 19:58:30.373785 519980 SceneGraph.h:26] Deconstru
+cting SceneGraph
+I0807 19:58:30.374294 519980 Sensor.h:87] Deconstructin
+g Sensor
+I0807 19:58:30.382323 519980 Renderer.cpp:34] Deconstru
+cting Renderer
+I0807 19:58:30.382350 519980 WindowlessContext.h:17] De
+constructing WindowlessContext
+I0807 19:58:30.397868 519980 MetadataMediator.cpp:56] M
+etadataMediator::setActiveSceneDatasetName : Old active
+ dataset default changed to default successfully.
+I0807 19:58:30.398572 519980 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Physics Manager) : Proposing JSON name : ./data/def
+ault.physics_config.json from original name : ./data/de
+fault.physics_config.json | This file  does not exist.
+I0807 19:58:30.398625 519980 PhysicsAttributesManager.c
+pp:27] File (./data/default.physics_config.json) not fo
+und, so new default physics manager attributes created
+and registered.
+I0807 19:58:30.398641 519980 AbstractObjectAttributesMa
+nagerBase.h:175] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Making attributes with handle : /
+data/huangtao/VLN_CE_data/scene_datasets/mp3d/x8F5xyUWy
+9e/x8F5xyUWy9e.glb
+I0807 19:58:30.398649 519980 ManagedContainerBase.cpp:1
+9] ManagedContainerBase::convertFilenameToJSON : Filena
+me : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/x8F
+5xyUWy9e/x8F5xyUWy9e.glb changed to proposed JSON confi
+guration filename : /data/huangtao/VLN_CE_data/scene_da
+tasets/mp3d/x8F5xyUWy9e/x8F5xyUWy9e.stage_config.json
+I0807 19:58:30.398674 519980 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Stage) : Proposing JSON name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/x8F5xyUWy9e/x8F5xyUWy9e.stag
+e_config.json from original name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/x8F5xyUWy9e/x8F5xyUWy9e.glb
+| This file  does not exist.
+I0807 19:58:30.398769 519980 AbstractObjectAttributesMa
+nagerBase.h:181] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Done making attributes with handl
+e : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/x8F5
+xyUWy9e/x8F5xyUWy9e.glb
+I0807 19:58:30.398774 519980 AbstractObjectAttributesMa
+nagerBase.h:188] File (/data/huangtao/VLN_CE_data/scene
+_datasets/mp3d/x8F5xyUWy9e/x8F5xyUWy9e.glb) exists but
+is not a recognized config filename extension, so new d
+efault Stage attributes created and registered.
+I0807 19:58:30.398789 519980 Simulator.cpp:156] Loading
+ navmesh from /data/huangtao/VLN_CE_data/scene_datasets
+/mp3d/x8F5xyUWy9e/x8F5xyUWy9e.navmesh
+I0807 19:58:30.398931 519980 Simulator.cpp:158] Loaded.
+I0807 19:58:30.398941 519980 SceneGraph.h:93] Created D
+rawableGroup:
+Renderer: NVIDIA GeForce RTX 4090/PCIe/SSE2 by NVIDIA C
+orporation
+OpenGL version: 4.6.0 NVIDIA 550.90.07
+Using optional features:
+    GL_ARB_ES2_compatibility
+    GL_ARB_direct_state_access
+    GL_ARB_get_texture_sub_image
+    GL_ARB_invalidate_subdata
+    GL_ARB_multi_bind
+    GL_ARB_robustness
+    GL_ARB_separate_shader_objects
+    GL_ARB_texture_filter_anisotropic
+    GL_ARB_texture_storage
+    GL_ARB_texture_storage_multisample
+    GL_ARB_vertex_array_object
+    GL_KHR_debug
+Using driver workarounds:
+    no-forward-compatible-core-context
+    nv-egl-incorrect-gl11-function-pointers
+    no-layout-qualifiers-on-old-glsl
+    nv-zero-context-profile-mask
+    nv-implementation-color-read-format-dsa-broken
+    nv-cubemap-inconsistent-compressed-image-size
+    nv-cubemap-broken-full-compressed-image-query
+    nv-compressed-block-size-in-bits
+I0807 19:58:30.402624 519980 ResourceManager.cpp:234] R
+esourceManager::loadStage : Not loading semantic mesh
+I0807 19:58:30.402638 519980 ResourceManager.cpp:262] R
+esourceManager::loadStage : start load render asset /da
+ta/huangtao/VLN_CE_data/scene_datasets/mp3d/x8F5xyUWy9e
+/x8F5xyUWy9e.glb.
+I0807 19:58:30.402642 519980 ResourceManager.cpp:569] R
+esourceManager::loadStageInternal : Attempting to load
+stage /data/huangtao/VLN_CE_data/scene_datasets/mp3d/x8
+F5xyUWy9e/x8F5xyUWy9e.glb
+I0807 19:58:30.402662 519980 ResourceManager.cpp:1119]
+Importing Basis files as BC7 for x8F5xyUWy9e.glb
+r2r-6:  59%|███████████████████████████████████████████
+                              | 135/229 [2:42:01<1:19:1
+5, 50.59s/it]W0807 19:58:31.736385 519980 Simulator.cpp
+:248] :
+---
+ The active scene does not contain semantic annotations
+.
+---
+I0807 19:58:31.777039 519980 simulator.py:213] Loaded n
+avmesh /data/huangtao/VLN_CE_data/scene_datasets/mp3d/x
+8F5xyUWy9e/x8F5xyUWy9e.navmesh
+I0807 19:58:31.958076 519980 SceneGraph.h:93] Created D
+rawableGroup:
+r2r-7:  93%|███████████████████████████████████████████
+██████████████████████████▍     | 212/229 [2:56:03<09:4
+7, 34.57s/it]I0807 20:12:31.338910 519982 PhysicsManage
+r.cpp:33] Deconstructing PhysicsManager
+I0807 20:12:31.338969 519982 SemanticScene.h:41] Decons
+tructing SemanticScene
+I0807 20:12:31.340442 519982 SceneManager.h:25] Deconst
+ructing SceneManager
+I0807 20:12:31.340451 519982 SceneGraph.h:26] Deconstru
+cting SceneGraph
+I0807 20:12:31.340991 519982 Sensor.h:87] Deconstructin
+g Sensor
+I0807 20:12:31.342514 519982 Renderer.cpp:34] Deconstru
+cting Renderer
+I0807 20:12:31.342540 519982 WindowlessContext.h:17] De
+constructing WindowlessContext
+I0807 20:12:31.346941 519982 MetadataMediator.cpp:56] M
+etadataMediator::setActiveSceneDatasetName : Old active
+ dataset default changed to default successfully.
+I0807 20:12:31.347424 519982 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Physics Manager) : Proposing JSON name : ./data/def
+ault.physics_config.json from original name : ./data/de
+fault.physics_config.json | This file  does not exist.
+I0807 20:12:31.347467 519982 PhysicsAttributesManager.c
+pp:27] File (./data/default.physics_config.json) not fo
+und, so new default physics manager attributes created
+and registered.
+I0807 20:12:31.347481 519982 AbstractObjectAttributesMa
+nagerBase.h:175] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Making attributes with handle : /
+data/huangtao/VLN_CE_data/scene_datasets/mp3d/pLe4wQe7q
+rG/pLe4wQe7qrG.glb
+I0807 20:12:31.347488 519982 ManagedContainerBase.cpp:1
+9] ManagedContainerBase::convertFilenameToJSON : Filena
+me : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/pLe
+4wQe7qrG/pLe4wQe7qrG.glb changed to proposed JSON confi
+guration filename : /data/huangtao/VLN_CE_data/scene_da
+tasets/mp3d/pLe4wQe7qrG/pLe4wQe7qrG.stage_config.json
+I0807 20:12:31.347501 519982 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Stage) : Proposing JSON name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/pLe4wQe7qrG/pLe4wQe7qrG.stag
+e_config.json from original name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/pLe4wQe7qrG/pLe4wQe7qrG.glb
+| This file  does not exist.
+I0807 20:12:31.347592 519982 AbstractObjectAttributesMa
+nagerBase.h:181] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Done making attributes with handl
+e : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/pLe4
+wQe7qrG/pLe4wQe7qrG.glb
+I0807 20:12:31.347599 519982 AbstractObjectAttributesMa
+nagerBase.h:188] File (/data/huangtao/VLN_CE_data/scene
+_datasets/mp3d/pLe4wQe7qrG/pLe4wQe7qrG.glb) exists but
+is not a recognized config filename extension, so new d
+efault Stage attributes created and registered.
+I0807 20:12:31.347609 519982 Simulator.cpp:156] Loading
+ navmesh from /data/huangtao/VLN_CE_data/scene_datasets
+/mp3d/pLe4wQe7qrG/pLe4wQe7qrG.navmesh
+I0807 20:12:31.347666 519982 Simulator.cpp:158] Loaded.
+I0807 20:12:31.347676 519982 SceneGraph.h:93] Created D
+rawableGroup:
+Renderer: NVIDIA GeForce RTX 4090/PCIe/SSE2 by NVIDIA C
+orporation
+OpenGL version: 4.6.0 NVIDIA 550.90.07
+Using optional features:
+    GL_ARB_ES2_compatibility
+    GL_ARB_direct_state_access
+    GL_ARB_get_texture_sub_image
+    GL_ARB_invalidate_subdata
+    GL_ARB_multi_bind
+    GL_ARB_robustness
+    GL_ARB_separate_shader_objects
+    GL_ARB_texture_filter_anisotropic
+    GL_ARB_texture_storage
+    GL_ARB_texture_storage_multisample
+    GL_ARB_vertex_array_object
+    GL_KHR_debug
+Using driver workarounds:
+    no-forward-compatible-core-context
+    nv-egl-incorrect-gl11-function-pointers
+    no-layout-qualifiers-on-old-glsl
+    nv-zero-context-profile-mask
+    nv-implementation-color-read-format-dsa-broken
+    nv-cubemap-inconsistent-compressed-image-size
+    nv-cubemap-broken-full-compressed-image-query
+    nv-compressed-block-size-in-bits
+I0807 20:12:31.351022 519982 ResourceManager.cpp:234] R
+esourceManager::loadStage : Not loading semantic mesh
+I0807 20:12:31.351034 519982 ResourceManager.cpp:262] R
+esourceManager::loadStage : start load render asset /da
+ta/huangtao/VLN_CE_data/scene_datasets/mp3d/pLe4wQe7qrG
+/pLe4wQe7qrG.glb.
+I0807 20:12:31.351038 519982 ResourceManager.cpp:569] R
+esourceManager::loadStageInternal : Attempting to load
+stage /data/huangtao/VLN_CE_data/scene_datasets/mp3d/pL
+e4wQe7qrG/pLe4wQe7qrG.glb
+I0807 20:12:31.351053 519982 ResourceManager.cpp:1119]
+Importing Basis files as BC7 for pLe4wQe7qrG.glb
+W0807 20:12:32.579411 519982 Simulator.cpp:248] :
+---
+ The active scene does not contain semantic annotations
+.
+---
+I0807 20:12:32.599309 519982 simulator.py:213] Loaded n
+avmesh /data/huangtao/VLN_CE_data/scene_datasets/mp3d/p
+Le4wQe7qrG/pLe4wQe7qrG.navmesh
+I0807 20:12:32.626536 519982 SceneGraph.h:93] Created D
+rawableGroup:
+r2r-0: 100%|███████████████████████████████████████████
+████████████████████████████████| 229/229 [3:05:51<00:0
+0, 48.70s/it]
+r2r-5:  97%|███████████████████████████████████████████
+█████████████████████████████▋  | 222/229 [3:05:41<05:2
+7, 46.72s/it]I0807 20:22:11.577258 519980 PhysicsManage
+r.cpp:33] Deconstructing PhysicsManager
+I0807 20:22:11.577320 519980 SemanticScene.h:41] Decons
+tructing SemanticScene
+I0807 20:22:11.579049 519980 SceneManager.h:25] Deconst
+ructing SceneManager
+I0807 20:22:11.579058 519980 SceneGraph.h:26] Deconstru
+cting SceneGraph
+I0807 20:22:11.579411 519980 Sensor.h:87] Deconstructin
+g Sensor
+I0807 20:22:11.580905 519980 Renderer.cpp:34] Deconstru
+cting Renderer
+I0807 20:22:11.580935 519980 WindowlessContext.h:17] De
+constructing WindowlessContext
+I0807 20:22:11.584719 519980 MetadataMediator.cpp:56] M
+etadataMediator::setActiveSceneDatasetName : Old active
+ dataset default changed to default successfully.
+I0807 20:22:11.585218 519980 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Physics Manager) : Proposing JSON name : ./data/def
+ault.physics_config.json from original name : ./data/de
+fault.physics_config.json | This file  does not exist.
+I0807 20:22:11.585264 519980 PhysicsAttributesManager.c
+pp:27] File (./data/default.physics_config.json) not fo
+und, so new default physics manager attributes created
+and registered.
+I0807 20:22:11.585278 519980 AbstractObjectAttributesMa
+nagerBase.h:175] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Making attributes with handle : /
+data/huangtao/VLN_CE_data/scene_datasets/mp3d/Z6MFQCViB
+uw/Z6MFQCViBuw.glb
+I0807 20:22:11.585284 519980 ManagedContainerBase.cpp:1
+9] ManagedContainerBase::convertFilenameToJSON : Filena
+me : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/Z6M
+FQCViBuw/Z6MFQCViBuw.glb changed to proposed JSON confi
+guration filename : /data/huangtao/VLN_CE_data/scene_da
+tasets/mp3d/Z6MFQCViBuw/Z6MFQCViBuw.stage_config.json
+I0807 20:22:11.585295 519980 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Stage) : Proposing JSON name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/Z6MFQCViBuw/Z6MFQCViBuw.stag
+e_config.json from original name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/Z6MFQCViBuw/Z6MFQCViBuw.glb
+| This file  does not exist.
+I0807 20:22:11.585402 519980 AbstractObjectAttributesMa
+nagerBase.h:181] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Done making attributes with handl
+e : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/Z6MF
+QCViBuw/Z6MFQCViBuw.glb
+I0807 20:22:11.585407 519980 AbstractObjectAttributesMa
+nagerBase.h:188] File (/data/huangtao/VLN_CE_data/scene
+_datasets/mp3d/Z6MFQCViBuw/Z6MFQCViBuw.glb) exists but
+is not a recognized config filename extension, so new d
+efault Stage attributes created and registered.
+I0807 20:22:11.585418 519980 Simulator.cpp:156] Loading
+ navmesh from /data/huangtao/VLN_CE_data/scene_datasets
+/mp3d/Z6MFQCViBuw/Z6MFQCViBuw.navmesh
+I0807 20:22:11.585758 519980 Simulator.cpp:158] Loaded.
+I0807 20:22:11.585767 519980 SceneGraph.h:93] Created D
+rawableGroup:
+Renderer: NVIDIA GeForce RTX 4090/PCIe/SSE2 by NVIDIA C
+orporation
+OpenGL version: 4.6.0 NVIDIA 550.90.07
+Using optional features:
+    GL_ARB_ES2_compatibility
+    GL_ARB_direct_state_access
+    GL_ARB_get_texture_sub_image
+    GL_ARB_invalidate_subdata
+    GL_ARB_multi_bind
+    GL_ARB_robustness
+    GL_ARB_separate_shader_objects
+    GL_ARB_texture_filter_anisotropic
+    GL_ARB_texture_storage
+    GL_ARB_texture_storage_multisample
+    GL_ARB_vertex_array_object
+    GL_KHR_debug
+Using driver workarounds:
+    no-forward-compatible-core-context
+    nv-egl-incorrect-gl11-function-pointers
+    no-layout-qualifiers-on-old-glsl
+    nv-zero-context-profile-mask
+    nv-implementation-color-read-format-dsa-broken
+    nv-cubemap-inconsistent-compressed-image-size
+    nv-cubemap-broken-full-compressed-image-query
+    nv-compressed-block-size-in-bits
+I0807 20:22:11.589200 519980 ResourceManager.cpp:234] R
+esourceManager::loadStage : Not loading semantic mesh
+I0807 20:22:11.589211 519980 ResourceManager.cpp:262] R
+esourceManager::loadStage : start load render asset /da
+ta/huangtao/VLN_CE_data/scene_datasets/mp3d/Z6MFQCViBuw
+/Z6MFQCViBuw.glb.
+I0807 20:22:11.589215 519980 ResourceManager.cpp:569] R
+esourceManager::loadStageInternal : Attempting to load
+stage /data/huangtao/VLN_CE_data/scene_datasets/mp3d/Z6
+MFQCViBuw/Z6MFQCViBuw.glb
+I0807 20:22:11.589232 519980 ResourceManager.cpp:1119]
+Importing Basis files as BC7 for Z6MFQCViBuw.glb
+r2r-1:  92%|███████████████████████████████████████████
+█████████████████████████▊      | 210/229 [3:05:56<12:1
+3, 38.61s/it]W0807 20:22:19.382959 519980 Simulator.cpp
+:248] :
+---
+ The active scene does not contain semantic annotations
+.
+---
+I0807 20:22:19.487379 519980 simulator.py:213] Loaded n
+avmesh /data/huangtao/VLN_CE_data/scene_datasets/mp3d/Z
+6MFQCViBuw/Z6MFQCViBuw.navmesh
+I0807 20:22:19.639935 519980 SceneGraph.h:93] Created D
+rawableGroup:
+r2r-7:  99%|███████████████████████████████████████████
+███████████████████████████████ | 226/229 [3:08:15<03:0
+3, 61.05s/it]I0807 20:24:43.621158 519982 PhysicsManage
+r.cpp:33] Deconstructing PhysicsManager
+I0807 20:24:43.621217 519982 SemanticScene.h:41] Decons
+tructing SemanticScene
+I0807 20:24:43.622290 519982 SceneManager.h:25] Deconst
+ructing SceneManager
+I0807 20:24:43.622298 519982 SceneGraph.h:26] Deconstru
+cting SceneGraph
+I0807 20:24:43.622947 519982 Sensor.h:87] Deconstructin
+g Sensor
+I0807 20:24:43.626215 519982 Renderer.cpp:34] Deconstru
+cting Renderer
+I0807 20:24:43.626241 519982 WindowlessContext.h:17] De
+constructing WindowlessContext
+I0807 20:24:43.630859 519982 MetadataMediator.cpp:56] M
+etadataMediator::setActiveSceneDatasetName : Old active
+ dataset default changed to default successfully.
+I0807 20:24:43.631317 519982 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Physics Manager) : Proposing JSON name : ./data/def
+ault.physics_config.json from original name : ./data/de
+fault.physics_config.json | This file  does not exist.
+I0807 20:24:43.631362 519982 PhysicsAttributesManager.c
+pp:27] File (./data/default.physics_config.json) not fo
+und, so new default physics manager attributes created
+and registered.
+I0807 20:24:43.631377 519982 AbstractObjectAttributesMa
+nagerBase.h:175] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Making attributes with handle : /
+data/huangtao/VLN_CE_data/scene_datasets/mp3d/oLBMNvg9i
+n8/oLBMNvg9in8.glb
+I0807 20:24:43.631384 519982 ManagedContainerBase.cpp:1
+9] ManagedContainerBase::convertFilenameToJSON : Filena
+me : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/oLB
+MNvg9in8/oLBMNvg9in8.glb changed to proposed JSON confi
+guration filename : /data/huangtao/VLN_CE_data/scene_da
+tasets/mp3d/oLBMNvg9in8/oLBMNvg9in8.stage_config.json
+I0807 20:24:43.631397 519982 AttributesManagerBase.h:28
+3] AttributesManager<T>::createFromJsonOrDefaultInterna
+l  (Stage) : Proposing JSON name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/oLBMNvg9in8/oLBMNvg9in8.stag
+e_config.json from original name : /data/huangtao/VLN_C
+E_data/scene_datasets/mp3d/oLBMNvg9in8/oLBMNvg9in8.glb
+| This file  does not exist.
+I0807 20:24:43.631497 519982 AbstractObjectAttributesMa
+nagerBase.h:181] AbstractObjectAttributesManager<T>::cr
+eateObject  (Stage) : Done making attributes with handl
+e : /data/huangtao/VLN_CE_data/scene_datasets/mp3d/oLBM
+Nvg9in8/oLBMNvg9in8.glb
+I0807 20:24:43.631502 519982 AbstractObjectAttributesMa
+nagerBase.h:188] File (/data/huangtao/VLN_CE_data/scene
+_datasets/mp3d/oLBMNvg9in8/oLBMNvg9in8.glb) exists but
+is not a recognized config filename extension, so new d
+efault Stage attributes created and registered.
+I0807 20:24:43.631513 519982 Simulator.cpp:156] Loading
+ navmesh from /data/huangtao/VLN_CE_data/scene_datasets
+/mp3d/oLBMNvg9in8/oLBMNvg9in8.navmesh
+I0807 20:24:43.631744 519982 Simulator.cpp:158] Loaded.
+I0807 20:24:43.631753 519982 SceneGraph.h:93] Created D
+rawableGroup:
+Renderer: NVIDIA GeForce RTX 4090/PCIe/SSE2 by NVIDIA C
+orporation
+OpenGL version: 4.6.0 NVIDIA 550.90.07
+Using optional features:
+    GL_ARB_ES2_compatibility
+    GL_ARB_direct_state_access
+    GL_ARB_get_texture_sub_image
+    GL_ARB_invalidate_subdata
+    GL_ARB_multi_bind
+    GL_ARB_robustness
+    GL_ARB_separate_shader_objects
+    GL_ARB_texture_filter_anisotropic
+    GL_ARB_texture_storage
+    GL_ARB_texture_storage_multisample
+    GL_ARB_vertex_array_object
+    GL_KHR_debug
+Using driver workarounds:
+    no-forward-compatible-core-context
+    nv-egl-incorrect-gl11-function-pointers
+    no-layout-qualifiers-on-old-glsl
+    nv-zero-context-profile-mask
+    nv-implementation-color-read-format-dsa-broken
+    nv-cubemap-inconsistent-compressed-image-size
+    nv-cubemap-broken-full-compressed-image-query
+    nv-compressed-block-size-in-bits
+I0807 20:24:43.635094 519982 ResourceManager.cpp:234] R
+esourceManager::loadStage : Not loading semantic mesh
+I0807 20:24:43.635106 519982 ResourceManager.cpp:262] R
+esourceManager::loadStage : start load render asset /da
+ta/huangtao/VLN_CE_data/scene_datasets/mp3d/oLBMNvg9in8
+/oLBMNvg9in8.glb.
+I0807 20:24:43.635113 519982 ResourceManager.cpp:569] R
+esourceManager::loadStageInternal : Attempting to load
+stage /data/huangtao/VLN_CE_data/scene_datasets/mp3d/oL
+BMNvg9in8/oLBMNvg9in8.glb
+I0807 20:24:43.635128 519982 ResourceManager.cpp:1119]
+Importing Basis files as BC7 for oLBMNvg9in8.glb
+W0807 20:24:48.237636 519982 Simulator.cpp:248] :
+---
+ The active scene does not contain semantic annotations
+.
+---
+I0807 20:24:48.425061 519982 simulator.py:213] Loaded n
+avmesh /data/huangtao/VLN_CE_data/scene_datasets/mp3d/o
+LBMNvg9in8/oLBMNvg9in8.navmesh
+I0807 20:24:48.468056 519982 SceneGraph.h:93] Created D
+rawableGroup:
+r2r-5: 100%|███████████████████████████████████████████
+████████████████████████████████| 229/229 [3:10:11<00:0
+0, 49.83s/it]
+r2r-7: 100%|███████████████████████████████████████████
+████████████████████████████████| 229/229 [3:10:19<00:0
+0, 49.86s/it]
+r2r-2: 100%|███████████████████████████████████████████
+████████████████████████████████| 229/229 [3:10:39<00:0
+0, 49.95s/it]
+r2r-1: 100%|███████████████████████████████████████████
+████████████████████████████████| 229/229 [3:23:16<00:0
+0, 53.26s/it]
+r2r-3: 100%|███████████████████████████████████████████
+████████████████████████████████| 229/229 [3:51:55<00:0
+0, 60.77s/it]
+r2r-6: 100%|███████████████████████████████████████████
+████████████████████████████████| 229/229 [4:44:46<00:0
+0, 74.61s/it]
+(vlnce_navid) huahaoming@ubuntugml115:~/my_navid_ws/NaV
+id-VLN-CE$ clear
+(vlnce_navid) huahaoming@ubuntugml115:~/my_navid_ws/NaV
+(vlnce_navid) huahaoming@ubuntugml115:~/my_navid_ws/NaV
+id-VLN-CE$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
