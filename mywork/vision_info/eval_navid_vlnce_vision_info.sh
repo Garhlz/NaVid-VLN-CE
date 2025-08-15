@@ -3,12 +3,10 @@
 CHUNKS=8
 MODEL_PATH="model_zoo/navid-7b-full-224-video-fps-1-grid-2-r2r-rxr-training-split" 
 
-
 #R2R
 CONFIG_PATH="VLN_CE/vlnce_baselines/config/r2r_baselines/navid_r2r.yaml"
 # SAVE_PATH="tmp/navid-7b-full-224-video-fps-1-grid-2-r2r-rxr-training-split_on_r2r" 
-SAVE_PATH="tmp/8_11_vision_info/test2"
-
+SAVE_PATH="tmp/8_15_vision_info/test1"
 
 #RxR
 # CONFIG_PATH="VLN_CE/vlnce_baselines/config/rxr_baselines/navid_rxr.yaml"

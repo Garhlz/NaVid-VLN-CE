@@ -77,7 +77,14 @@ class NaVid_Agent(Agent):
         # 恢复使用原始的 Prompt 模板。
         # 因为现在动作信息将通过视觉通道传递，我们不再需要修改文本输入。
         # 这确保了文本Prompt对于模型来说是完全“域内”和熟悉的。
-        self.promt_template = "Imagine you are a robot programmed for navigation tasks. You have been given a video of historical observations and an image of the current observation <image>. Your assigned task is: '{}'. Analyze this series of images to decide your next move, which could involve turning left or right by a specific degree or moving forward a certain distance."
+        # self.promt_template = "Imagine you are a robot programmed for navigation tasks. You have been given a video of historical observations and an image of the current observation <image>. Your assigned task is: '{}'. Analyze this series of images to decide your next move, which could involve turning left or right by a specific degree or moving forward a certain distance."
+        self.promt_template = (
+    "Imagine you are a robot programmed for navigation tasks. "
+    "You have been given a video of historical observations and an image of the current observation <image>. "
+    "Please note: a symbol at the bottom of the current image indicates the action you took in the previous step. " # <-- 核心新增句
+    "Your assigned task is: '{}'. "
+    "Analyze this series of images, including the symbol, to decide your next move, which could involve turning left or right by a specific degree or moving forward a certain distance."
+)
         # =============================================================
 
         self.history_rgb_tensor = None
